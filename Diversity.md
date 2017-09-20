@@ -23,15 +23,15 @@ Below is the metric->signal->action chain for *Diversity*.
 - How accessible is the project to join, contribute, and remain engaged? Informs a contributor’s ability to engage with a project. 
 
 ### Contributor Demographics
-    -New contributors versus maintainers. Are new contributors different from existing community - Gender, company, age, location, skills, etc…
-    - *Why:* Determine whether a project is dominated by a single company or demographic group
-    - *Signals:*
-        - Low diversity signals that it is hard to contribute to the project if you are not a member of the majority demographic.
-        - High diversity signals that new members are welcome.
-    - *Informs activity:*
-        - (not discussed at OSSNA)
-    - *Potential positive or negative outcomes:*
-        - (not discussed at OSSNA)
+- New contributors versus maintainers. Are new contributors different from existing community - Gender, company, age, location, skills, etc…
+- *Why:* Determine whether a project is dominated by a single company or demographic group
+- *Signals:*
+    - Low diversity signals that it is hard to contribute to the project if you are not a member of the majority    demographic.
+    - High diversity signals that new members are welcome.
+- *Informs activity:*
+    - (not discussed at OSSNA)
+- *Potential positive or negative outcomes:*
+    - (not discussed at OSSNA)
 
 ### Onboarding
 - Percentage of accepted Pull Requests from new contributors. Percentage of new contributor code versus total code.
