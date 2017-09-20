@@ -11,6 +11,10 @@ The CHAOSS (Community Health Analytics for OSS) Metrics Committee defines implem
 
 For more information go to our website at https://wiki.linuxfoundation.org/choss/metrics
 
+## Where to contribute
+
+Work is currently centered around the four files  [Diversity.md], [Risk.md], [Growth-Maturity-Decline.md], and [Ecosystem.md].
+
 ## License
 
 All contributions to implementation-agnostic metrics and standards, including associated scripts, SQL statements, and documentation, will be received and made available under the MIT License (https://opensource.org/licenses/MIT).
