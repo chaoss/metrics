@@ -13,7 +13,7 @@ For more information go to our website at https://wiki.linuxfoundation.org/choss
 
 ## Where to contribute
 
-Work is currently centered around the four files  [Diversity.md], [Risk.md], [Growth-Maturity-Decline.md], and [Ecosystem.md].
+Work is currently centered around the four files  [Diversity.md](Diversity.md), [Risk.md](Risk.md), [Growth-Maturity-Decline.md](Growth-Maturity-Decline.md), and [Ecosystem.md](Ecosystem.md).
 
 ## License
 
