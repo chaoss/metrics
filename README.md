@@ -9,7 +9,7 @@ This repository will hold sample implementation, such as SQL-queries, that may b
 
 The CHAOSS (Community Health Analytics for OSS) Metrics Committee defines implementation-agnostic metrics for assessing open source communities' health and sustainability. The CHAOSS Metrics Committee goals are to establish implementation-agnostic metrics for measuring community activity, contributions, and health; and optionally produce standardized metric exchange formats, detailed use cases, models, or recommendations to analyze specific issues in the industry/OSS world.
 
-For more information go to our website at https://wiki.linuxfoundation.org/choss/metrics
+For more information go to our website at https://wiki.linuxfoundation.org/chaoss/metrics
 
 ## Where to contribute
 
