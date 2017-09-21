@@ -18,3 +18,9 @@ Below is the metric->signal->action chain for *Growth-Maturity-Decline*.
 
 ## Growth-Maturity-Decline: Metric -> Signal -> Action
 (Not yet written up)
+
+
+## Images from workshop
+We thank everyone who participated in the workshop at the Open Source Summit North America. The below picture is the flip chart figure that came out of the Growth-Maturity-Decline group.
+
+![Flip Chart Figure](img/OSSNA2017.GMD.jpg "Flip Chart Figure")

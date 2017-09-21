@@ -20,7 +20,7 @@ Below is the metric->signal->action chain for *Diversity*.
 ## Diversity: Metric -> Signal -> Action
 
 ### Case Characteristics
-- How accessible is the project to join, contribute, and remain engaged? Informs a contributor’s ability to engage with a project. 
+- How accessible is the project to join, contribute, and remain engaged? Informs a contributor’s ability to engage with a project.
 
 ### Contributor Demographics
 - New contributors versus maintainers. Are new contributors different from existing community - Gender, company, age, location, skills, etc…
@@ -57,3 +57,13 @@ Below is the metric->signal->action chain for *Diversity*.
     - (not discussed at OSSNA)
 - *Potential positive or negative outcomes:*
     - (not discussed at OSSNA)
+
+
+## Images from workshop
+We thank everyone who participated in the workshop at the Open Source Summit North America. The below pictures are the flip chart figures that came out of the Diversity group.
+
+![Flip Chart Page 1](img/OSSNA2017.Diversity1.jpg "Flip Chart Page 1")
+
+![Flip Chart Page 2](img/OSSNA2017.Diversity2.jpg "Flip Chart Page 2")
+
+![Flip Chart Page 3](img/OSSNA2017.Diversity3.jpg "Flip Chart Page 3")
