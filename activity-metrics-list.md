@@ -133,7 +133,20 @@ Ideas for these classifications is to
 
 ## References
 
-  * Bagozzi, R. P., & Dholakia, U. M. (2006). Open Source Software User Communities: A Study of Participation in Linux User Groups. Management Science, 52(7), 1099–1115. Retrieved from http://www.jstor.org/stable/20110583
-  * Baldwin, C. Y., & Clark, K. B. (2006). The Architecture of Participation: Does Code Architecture Mitigate Free Riding in the Open Source Development Model? Management Science, 52(7), 1116–1127. Retrieved from http://www.jstor.org/stable/20110584
-  * Chengalur-Smith, I., Sidorova, A., & Daniel, S. (2010). Sustainability of Free/Libre Open Source Projects: A Longitudinal Study. Journal of the Association for Information Systems, 11(11). Retrieved from http://aisel.aisnet.org/jais/vol11/iss11/5
-  * Grewal, R., Lilien, G. L., & Mallapragada, G. (2006). Location, Location, Location: How Network Embeddedness Affects Project Success in Open Source Systems. Management Science, 52(7), 1043–1056. Retrieved from http://www.jstor.org/stable/20110579
+* Arantes, F. L., & Freire, F. M. P. (2011). Aspects of an open source software sustainable life cycle. In IFIP International Conference on Open Source Systems (pp. 325–329). Springer. Retrieved from http://link.springer.com/chapter/10.1007/978-3-642-24418-6_26
+
+* Bagozzi, R. P., & Dholakia, U. M. (2006). Open Source Software User Communities: A Study of Participation in Linux User Groups. Management Science, 52(7), 1099–1115. Retrieved from http://www.jstor.org/stable/20110583
+
+* Baldwin, C. Y., & Clark, K. B. (2006). The Architecture of Participation: Does Code Architecture Mitigate Free Riding in the Open Source Development Model? Management Science, 52(7), 1116–1127. Retrieved from http://www.jstor.org/stable/20110584
+
+* Chengalur-Smith, I., Sidorova, A., & Daniel, S. (2010). Sustainability of Free/Libre Open Source Projects: A Longitudinal Study. Journal of the Association for Information Systems, 11(11). Retrieved from http://aisel.aisnet.org/jais/vol11/iss11/5
+
+* Cosentino, V., Izquierdo, J. L. C., & Cabot, J. (2015). Assessing the bus factor of Git repositories. In 2015 IEEE 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER) (pp. 499–503). https://doi.org/10.1109/SANER.2015.7081864
+
+* Crowston, K., Howison, J., & Annabi, H. (2006). Information systems success in free and open source software development: theory and measures. Software Process: Improvement and Practice, 11(2), 123–148. https://doi.org/10.1002/spip.259
+
+* Grewal, R., Lilien, G. L., & Mallapragada, G. (2006). Location, Location, Location: How Network Embeddedness Affects Project Success in Open Source Systems. Management Science, 52(7), 1043–1056. Retrieved from http://www.jstor.org/stable/20110579
+
+* Jansen, S. (2014). Measuring the health of open source software ecosystems: Beyond the scope of project health. Information and Software Technology, 56(11), 1508–1519.Retrieved from http://www.sciencedirect.com/science/article/pii/S0950584914000871
+
+* Schweik, C. M., & English, R. C. (2012). Internet success: a study of open-source software commons. Cambridge, Mass.: MIT Press.
