@@ -13,7 +13,7 @@ For more information go to our website at https://wiki.linuxfoundation.org/chaos
 
 ## Where to contribute
 
-Work is currently centered around the four files  [Diversity.md](Diversity.md), [Risk.md](Risk.md), [Growth-Maturity-Decline.md](Growth-Maturity-Decline.md), and [Ecosystem.md](Ecosystem.md).
+Work is currently centered around the four files  [Diversity.md](1_Diversity.md), [Risk.md](3_Risk.md), [Growth-Maturity-Decline.md](2_Growth-Maturity-Decline.md), and [Ecosystem.md](4_Ecosystem.md).
 
 ## License
 
