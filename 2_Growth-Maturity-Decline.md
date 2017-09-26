@@ -22,7 +22,7 @@ Below is the metric->signal->action chain for *Growth-Maturity-Decline*.
 - Bug resolution: Somewhat similar to the patch speed above.  We could look at the total number of tickets closed out of all the tickets opened over a given time period.  We can also look at the "time-to-close", which is time since a bug is opened until it is closed.
 - Patch speed: There can be two different data.  One is "review efficiency", which is the number of merged/abandoned changes out of all submitted patches over a given period.  The other is "time-to-merge", which is the time since a patch is submitted until this is merged/abandoned.
 - *Why:*
-    - (why these metrics were chosen is not yet documented)
+    - We want to know how active a project is and whether new contributions are being accepted in a timely fashion.
 - *Signals:*
     - Value Accumulation: higher velocity signals more value accumulated
 - *Informs activity:*
@@ -30,24 +30,32 @@ Below is the metric->signal->action chain for *Growth-Maturity-Decline*.
 - *Potential positive or negative outcomes:*
     - (not discussed at OSSNA)
 
-### Transparency
+### Community Growth
 - Number of new developers: Number of new contributors (using appropriate userid) over a period (e.g. monthly, quarterly, etc.)
 - *Why:*
-    - (why these metrics were chosen is not yet documented)
+    - Growth can be measured in new developers.
 - *Signals:*
-    - more people on the project might signal more transparency
-    - More transparency might be positive
+    - More people on the project might signal more transparency.
+    - More transparency might be positive.
 - *Informs activity:*
     - (not discussed at OSSNA)
 - *Potential positive or negative outcomes:*
     - (not discussed at OSSNA)
 
-### Downstream usage
-- Trajectory of usage (e.g. OpenSSL high usage was not indicative)
+### Usage
+- Trajectory of usage (e.g. OpenSSL high usage was not indicative) - time over time activity. 
+- Project dependency - ecosystem position: where is the project on the continuum between mostly used downstream or mostly dependent on upstream? - that determines how the other metrics are interpreted.
 - *Why:*
-    - (why these metrics were chosen is not yet documented)
+    - We have to understand contextual factors to understand the other metrics and signals.
+    - Let's us compare a project over time.
 - *Signals:*
-    - More downstream usage might be good
+    - Transparency
+    - More usage (upstream and downstream) might be good
+    - Upstream contribution may be good
+    - Downstream usage may be good
+    - Transparency may be positive - possibly signaled by
+        - Where communication occurs
+        - # of people
 - *Informs activity:*
     - (not discussed at OSSNA)
 - *Potential positive or negative outcomes:*
