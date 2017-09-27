@@ -18,6 +18,10 @@ Below is the metric->signal->action chain for *Growth-Maturity-Decline*.
 
 ## Growth-Maturity-Decline: Metric -> Signal -> Action
 
+To help flush out the sections below, Sean scanned his [notes from the breakout session][notes].
+
+[notes]: documents\CHAOSS-Launch_Room-Tuesday-OSS-Breakout-Goggins-Notes.pdf
+
 ### Value Accumulation
 - Bug resolution: Somewhat similar to the patch speed above.  We could look at the total number of tickets closed out of all the tickets opened over a given time period.  We can also look at the "time-to-close", which is time since a bug is opened until it is closed.
 - Patch speed: There can be two different data.  One is "review efficiency", which is the number of merged/abandoned changes out of all submitted patches over a given period.  The other is "time-to-merge", which is the time since a patch is submitted until this is merged/abandoned.
@@ -43,7 +47,7 @@ Below is the metric->signal->action chain for *Growth-Maturity-Decline*.
     - (not discussed at OSSNA)
 
 ### Usage
-- Trajectory of usage (e.g. OpenSSL high usage was not indicative) - time over time activity. 
+- Trajectory of usage (e.g. OpenSSL high usage was not indicative) - time over time activity.
 - Project dependency - ecosystem position: where is the project on the continuum between mostly used downstream or mostly dependent on upstream? - that determines how the other metrics are interpreted.
 - *Why:*
     - We have to understand contextual factors to understand the other metrics and signals.
