@@ -72,6 +72,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |User Groups|user groups perform a variety of crucial marketing, service support, and business-development functions at the grassroots level\\ (Bagozzi & Dholakia, 2006)|
 |[Watchers](activity-metrics/watchers.md)|*Number of watchers* (GitHub)|
 |YouTube Videos|*Number of Youtube videos that mention or specifically deal with the project (e.g. tutorials)*|
+|Contributor Experience|*For each active contributor, time since first contribution*\\ Experienced contributors camm add some unique value to the community, since they carry with them (in part) the history of the project.|
 
 # Additional Thoughts
 The following section are a collection of random thoughts that might be helpful in a future discussion.
