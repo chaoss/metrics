@@ -22,6 +22,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Contributor Activity|Activity level of individual contributors|
 |[Contributor Breadth](activity-metrics/contributor-breadth.md)|*Ratio of non-core committers (drive-by committers)*\\ Can indicate openess to outsiders|
 |[Contributor Diversity](activity-metrics/contributor-diversity.md)| *Ratio of contributors from a single company over all contributors*\\ Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
+|Contributor Seniority|*For each active contributor, time since first contribution*\\ Experienced contributors can add some unique value to the community, since they carry with them (in part) the history of the project.|
 |[Contributors](activity-metrics/contributors.md)|*Number of contributors* |
 |Decision Distribution|*Central vs. distributed decision making*\\ Governance model, scalability of community|
 |Dependency Depth|*Number of projects included in code base + number of projects relying on focal project (recursive)*\\ Indicator about centrality in open source Dependency network|
@@ -72,7 +73,6 @@ We list and describe activity metrics. For different situations, the metrics hav
 |User Groups|user groups perform a variety of crucial marketing, service support, and business-development functions at the grassroots level\\ (Bagozzi & Dholakia, 2006)|
 |[Watchers](activity-metrics/watchers.md)|*Number of watchers* (GitHub)|
 |YouTube Videos|*Number of Youtube videos that mention or specifically deal with the project (e.g. tutorials)*|
-|Contributor Experience|*For each active contributor, time since first contribution*\\ Experienced contributors camm add some unique value to the community, since they carry with them (in part) the history of the project.|
 
 # Additional Thoughts
 The following section are a collection of random thoughts that might be helpful in a future discussion.
