@@ -46,7 +46,7 @@ Below is the metric->signal->action chain for *Diversity*.
 - (not discussed at OSSNA)
 
 ### Retention
-- Is the path to maintainer communicated? When was the last time they added a maintainer?
+- Is the path to maintainership communicated? When was the last time they added a maintainer?
 - *Why:* 
     - Determine if the community is merit based.
     - How are you treated once you are in the community?
