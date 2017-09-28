@@ -22,6 +22,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Contributor Activity|Activity level of individual contributors|
 |[Contributor Breadth](activity-metrics/contributor-breadth.md)|*Ratio of non-core committers (drive-by committers)*\\ Can indicate openess to outsiders|
 |[Contributor Diversity](activity-metrics/contributor-diversity.md)| *Ratio of contributors from a single company over all contributors*\\ Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
+|Contributor Seniority|*For each active contributor, time since first contribution*\\ Experienced contributors can add some unique value to the community, since they carry with them (in part) the history of the project.|
 |[Contributors](activity-metrics/contributors.md)|*Number of contributors* |
 |Decision Distribution|*Central vs. distributed decision making*\\ Governance model, scalability of community|
 |Dependency Depth|*Number of projects included in code base + number of projects relying on focal project (recursive)*\\ Indicator about centrality in open source Dependency network|
