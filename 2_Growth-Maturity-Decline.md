@@ -1,4 +1,6 @@
 # Metric: Growth-Maturity-Decline
+
+**Metrics table is consumable visualization of the metrics discussion occurring below**
 <!--Beginning of HTML-->
 <table style="width:100%; border: 1px solid black;">
   <tr><!--Value Accumulation-->
