@@ -7,7 +7,7 @@ New Contributor Diversity | Gender, age, location, skills - different from exist
 New Contributor Corporate Diversity | Company - different from existing community
 New Contributions | Percentage of accepted contribution (patches, pull requests, etc) from new contributors vs all accepted contributions
 New Code | Percentage of new contributor code versus total code
-Path to Leadership | Is the path to maintainership communicated
+Path to Leadership | Is the path to maintainership communicated?
 Maintainer Promotion | Last time a maintainer was added
 
 
