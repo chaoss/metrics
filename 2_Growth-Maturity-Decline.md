@@ -1,48 +1,13 @@
 # Metric: Growth-Maturity-Decline
 
-**Metrics table is consumable visualization of the metrics discussion occurring below**
-<!--Beginning of HTML-->
-<table style="width:100%; border: 1px solid black;">
-  <tr><!--Value Accumulation-->
-    <th style="border: 1px solid black;"></th>
-    <th style="border: 1px solid black;"></td>
-    <th style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <td rowspan="4" style="border: 1px solid black;">Value Accumulation</th>
-    <td rowspan="2" style="border: 1px solid black;">Bug Resolution</td>
-    <td style="border: 1px solid black;">Tickets Closed = Time from bug opened to bug closed</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black;">Time to Close = Total # of tickets closed</td>
-  </tr>
-  <tr>
-    <td rowspan="2" style="border: 1px solid black;">Patch Speed</td>
-    <td style="border: 1px solid black;">Time to Merge = Time from submission to merge or abandon</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black;">Review Efficiency = # of merged patches / # of abandoned patches</td>
-  </tr>
-  <tr><!--Community Growth-->
-    <th style="border: 1px solid black;"></th>
-    <th style="border: 1px solid black;"></td>
-    <th style="border: 1px solid black;"></td>
-  </tr>
-  <tr>
-    <td rowspan="2" style="border: 1px solid black;">Community Growth</td>
-    <td rowspan="2" style="border: 1px solid black;"># of new developers</td>
-    <td style="border: 1px solid black;">New Contributors = # of first time contributors over time</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black;">...</td>
-  </tr>
-  <tr><!--Section Break & Start of New Section-->
-    <th style="border: 1px solid black;"></th>
-    <th style="border: 1px solid black;"></td>
-    <th style="border: 1px solid black;"></td>
-  </tr>
-</table>
-<!--End of HTML-->
+ Activity Metric | Description
+ --- | ---
+ Tickets Closed | Total number of tickets closed
+ Time to Close | Time from bug opened to bug closed
+ Time to Merge | Time from submission to merge or abandon
+ Review Efficiency | Number of merged patches / Number of abandoned patches
+ New Contributors | Number of first time contributors over time
+ Community Growth | Number of new developers over time
 
 **Background:**
 At the Open Source Summit North America, a group of around 8-12 people each agreed on the metrics important in the following scenarios.
