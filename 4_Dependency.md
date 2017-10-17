@@ -1,5 +1,11 @@
 # Metric: Ecosystem
 
+Activity Metric | Description
+--- | ---
+ ... | ...
+ ... | ...
+ ... | ...
+
 **Background:**
 At the Open Source Summit North America, a group of around 8-12 people each agreed on the metrics important in the following scenarios.
 For now, we will focus our conversation around these outcomes to further the conversation.

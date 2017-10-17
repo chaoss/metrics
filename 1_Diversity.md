@@ -1,5 +1,16 @@
 # Metric: Diversity
 
+Activity Metric | Description
+--- | ---
+New Contributors vs Maintainers | Ratio of new contributors to maintainers
+New Contributor Diversity | Gender, age, location, skills - different from existing community
+New Contributor Corporate Diversity | Company - different from existing community
+New Contributions | Percentage of accepted contribution (patches, pull requests, etc) from new contributors vs all accepted contributions
+New Code | Percentage of new contributor code versus total code
+Path to Leadership | Is the path to maintainership communicated
+Maintainer Promotion | Last time a maintainer was added
+
+
 **Background:**
 At the Open Source Summit North America, a group of around 8-12 people each agreed on the metrics important in the following scenarios.
 For now, we will focus our conversation around these outcomes to further the conversation.
@@ -33,7 +44,7 @@ Below is the metric->signal->action chain for *Diversity*.
 - *Potential positive or negative outcomes:*
     - (not discussed at OSSNA)
 
-### Onboarding
+### On-boarding
 - Percentage of accepted Pull Requests from new contributors. Percentage of new contributor code versus total code.
 - *Why:* 
     - Determine how easy it is to commit code (drive-bys)

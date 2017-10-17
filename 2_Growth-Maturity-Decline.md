@@ -6,7 +6,7 @@
  Time to Close | Time from bug opened to bug closed
  Time to Merge | Time from submission to merge or abandon
  Review Efficiency | Number of merged patches / Number of abandoned patches
- New Contributors | Number of first time contributors over time
+ # of New Contributors | Number of first time contributors over time
  Community Growth | Number of new developers over time
 
 **Background:**

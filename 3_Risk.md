@@ -1,5 +1,14 @@
 # Metric: Risk
 
+Activity Metric | Description
+--- | ---
+Contributor Importance | Percentage of commits by individual contributors
+Qualified Committers | contributions over time and what components they commit to
+User Dependency | Number of users who are aware that they depend on the software
+Paid developers | Number of paid developers in community
+
+
+
 **Background:**
 At the Open Source Summit North America, a group of around 8-12 people each agreed on the metrics important in the following scenarios.
 For now, we will focus our conversation around these outcomes to further the conversation.
