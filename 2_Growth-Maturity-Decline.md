@@ -1,5 +1,6 @@
 # Metric: Growth-Maturity-Decline
 
+
  Activity Metric | Description
  --- | ---
  Tickets Closed | Total number of tickets closed
@@ -8,6 +9,7 @@
  Review Efficiency | Number of merged patches / Number of abandoned patches
  # of New Contributors | Number of first time contributors over time
  Community Growth | Number of new developers over time
+
 
 **Background:**
 At the Open Source Summit North America, a group of around 8-12 people each agreed on the metrics important in the following scenarios.
