@@ -7,6 +7,7 @@ Qualified Committers | Contributions over time and what components they commit t
 User Dependency | Number of users who are aware that they depend on the software over time
 Paid developers | Number of paid developers in community over time
 
+
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Risk. 
 
