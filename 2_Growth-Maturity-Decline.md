@@ -4,23 +4,23 @@
  Activity Metric | Description
  --- | ---
  Tickets Closed | Total number of tickets closed
- Time to Close | Time from bug opened to bug closed
+ Bug Time to Close | Time from bug opened to bug closed
  Time to Merge | Time from submission to merge or abandon
  Review Efficiency | Number of merged patches / Number of abandoned patches
  Number of New Contributors | Number of first time contributors over time
  Community Growth | Number of new developers over time
 
+**Disclaimer:**
+The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Growth-Maturity-Decline. 
+
+**Tooling:**
+The activity metrics are intended to be a starting point for community health related tooling. It is expected that the activity metrics will evolve based on the ability (or inability) of tooling to successfully implement the activity metrics. 
 
 **Background:**
-At the Open Source Summit North America, a group of around 8-12 people each agreed on the metrics important in the following scenarios.
-For now, we will focus our conversation around these outcomes to further the conversation.
-The two-hour session sparked great conversations but could not address all aspects.
-We thank everyone who participated.
-
-Below is the metric->signal->action chain for *Growth-Maturity-Decline*.
+The activity metics have been identified based on workshops at the Open Source Leadership and the Open Source Summit North America. In addition, the activity metrics are based on active CHAOSS mailing list conversations. The activity metrics listed here are the result of compiling the discussions to data. We thank everyone who participated.
 
 **How to contribute:**
-- To advance the document, fork the rep, make your changes, create a pull request see CONTRIBUTING.md
+- To advance the document, fork the repo, make your changes, create a pull request see CONTRIBUTING.md
 - To ask questions or make comments, post to our [mailing list][ml], join our weekly [Hangout call][ho], or open an [issue on GitHub][issue].
 
 [ml]: https://wiki.linuxfoundation.org/chaoss/metrics#mail-list
