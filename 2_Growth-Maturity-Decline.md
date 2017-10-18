@@ -30,12 +30,12 @@ Below is the metric->signal->action chain for *Growth-Maturity-Decline*.
 ## Growth-Maturity-Decline: Metric -> Signal -> Action
 
 ### Value Accumulation
-- Bug resolution: Somewhat similar to the patch speed above.  We could look at the total number of tickets closed out of all the tickets opened over a given time period.  We can also look at the "time-to-close", which is time since a bug is opened until it is closed.
 - Patch speed: There can be two different data.  One is "review efficiency", which is the number of merged/abandoned changes out of all submitted patches over a given period.  The other is "time-to-merge", which is the time since a patch is submitted until this is merged/abandoned.
+- Bug resolution: Somewhat similar to the patch speed above.  We could look at the total number of tickets closed out of all the tickets opened over a given time period.  We can also look at the "time-to-close", which is time since a bug is opened until it is closed.
 - *Why:*
     - We want to know how active a project is and whether new contributions are being accepted in a timely fashion.
 - *Signals:*
-    - Value Accumulation: higher velocity signals more value accumulated
+    - Higher velocity signals regular/on-going activities in the community 
 - *Informs activity:*
     - (not discussed at OSSNA)
 - *Potential positive or negative outcomes:*
@@ -46,8 +46,7 @@ Below is the metric->signal->action chain for *Growth-Maturity-Decline*.
 - *Why:*
     - Growth can be measured in new developers.
 - *Signals:*
-    - More people on the project might signal more transparency.
-    - More transparency might be positive.
+    - More newcomers signal on-going interest/awareness in the project and the community.  
 - *Informs activity:*
     - (not discussed at OSSNA)
 - *Potential positive or negative outcomes:*
