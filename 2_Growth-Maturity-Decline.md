@@ -1,5 +1,16 @@
 # Metric: Growth-Maturity-Decline
 
+
+ Activity Metric | Description
+ --- | ---
+ Tickets Closed | Total number of tickets closed
+ Time to Close | Time from bug opened to bug closed
+ Time to Merge | Time from submission to merge or abandon
+ Review Efficiency | Number of merged patches / Number of abandoned patches
+ Number of New Contributors | Number of first time contributors over time
+ Community Growth | Number of new developers over time
+
+
 **Background:**
 At the Open Source Summit North America, a group of around 8-12 people each agreed on the metrics important in the following scenarios.
 For now, we will focus our conversation around these outcomes to further the conversation.
@@ -43,7 +54,7 @@ Below is the metric->signal->action chain for *Growth-Maturity-Decline*.
     - (not discussed at OSSNA)
 
 ### Usage
-- Trajectory of usage (e.g. OpenSSL high usage was not indicative) - time over time activity. 
+- Trajectory of usage (e.g. OpenSSL high usage was not indicative) - time over time activity.
 - Project dependency - ecosystem position: where is the project on the continuum between mostly used downstream or mostly dependent on upstream? - that determines how the other metrics are interpreted.
 - *Why:*
     - We have to understand contextual factors to understand the other metrics and signals.
