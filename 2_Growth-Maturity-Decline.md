@@ -1,14 +1,22 @@
 # Metric: Growth-Maturity-Decline
 
 
+## Issue Resolution
  Activity Metric | Description
  --- | ---
- Tickets Closed | Total number of tickets closed
- Time to Close | Time from bug opened to bug closed
- Time to Merge | Time from submission to merge or abandon
- Review Efficiency | Number of merged patches / Number of abandoned patches
- Number of New Contributors | Number of first time contributors over time
- Community Growth | Number of new developers over time
+ Open Issues | Total number of open issues.
+
+## Code Growth
+ Activity Metric | Description
+ --- | ---
+ Number of Commits | Total Number of Commits
+
+#Project Communication
+ Activity Metric | Description
+ --- | ---
+ Total Communications | Total number of Posts made to communication platforms
+
+
 
 
 **Background:**
