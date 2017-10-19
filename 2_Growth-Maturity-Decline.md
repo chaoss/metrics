@@ -12,7 +12,7 @@
  Histogram of open issue time | The distribution of time issues have remained open
  Histogram of issue resolution time | The distribution of time it takes for issues to be resolved. 
 
-## Code Growth
+## Code Development
  Activity Metric | Description
  --- | ---
  Number of Commits | Total Number of Commits
