@@ -11,7 +11,7 @@
  --- | ---
  Number of Commits | Total Number of Commits
 
-#Project Communication
+## Project Communication
  Activity Metric | Description
  --- | ---
  Total Communications | Total number of Posts made to communication platforms
