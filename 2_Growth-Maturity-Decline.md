@@ -5,18 +5,29 @@
  Activity Metric | Description
  --- | ---
  Open Issues | Total number of open issues.
+ Closed Issues | Total number of closed issues.
+ Resolution Efficiency | Number of closed issues / number of abandoned issues
+ Average / Median Time of Open Issues | The average / median amount of time issues remain open
+ Average / Median Time of First Response | The average / median amount of time until the first response to an issue is made.
+ Histogram of open issue time | The distribution of time issues have remained open
+ Histogram of issue resolution time | The distribution of time it takes for issues to be resolved. 
 
 ## Code Growth
  Activity Metric | Description
  --- | ---
  Number of Commits | Total Number of Commits
+ Number of Lines Changed | Total number of lines of code that have been changed.
+ Average / median time to merge code | The average / median amount of time it takes to get code merged upstream. 
+ Histogram of time to merge | The distribution of time it takes for code to be merged upstream.
+ Review Efficiency | Number of merged patches / Number of abandoned patches 
 
 ## Project Communication
  Activity Metric | Description
  --- | ---
  Total Communications | Total number of Posts made to communication platforms
-
-
+ Average / Median communication response time | The average / median time taken for communications to be responded to.
+ Average / Median communication responses per thread | The average / median number of responses that are made to each communication thread or topic.
+ Histogram of communication responses per thread | The distribution of the number of responses made to each communication thread or topic.
 
 
 **Background:**
