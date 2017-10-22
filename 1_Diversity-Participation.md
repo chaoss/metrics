@@ -9,9 +9,9 @@ New Contributions | Percentage of contributions (patches, pull requests, etc.) f
 Accepted Code Contributions | Percentage of new contributor code versus total code over time
 Path to Maintainership | Path to maintainership published
 Maintainer Promotion | Last time a maintainer was added
-Change in Maintainer Number | Number of maintainers added/removed over time 
+Change in Maintainer Number | Number of maintainers added/removed over time
 
-*Contributor = Anyone who provides a patch, pull request, wiki change, or other contribution.  
+*Contributor = Anyone who provides a patch, pull request, wiki change, or other contribution.
 **Maintainer = Contributor who has commit rights to the main branch and can merge contributions from others.
 
 **Disclaimer:**
@@ -25,7 +25,7 @@ The activity metics have been identified based on workshops at the Open Source L
 
 **How to contribute:**
 - To advance the document, fork the repo, make your changes, create a pull request see [CONTRIBUTING.md][contrib]
-- To ask questions or make comments, post to our [mailing list][ml], join our weekly [Hangout call][ho], or open an [issue on GitHub][issue].  
+- To ask questions or make comments, post to our [mailing list][ml], join our weekly [Hangout call][ho], or open an [issue on GitHub][issue].
 
 [contrib]: https://github.com/germonprez/metrics/blob/master/CONTRIBUTING.md
 [ml]: https://wiki.linuxfoundation.org/chaoss/metrics#mail-list
