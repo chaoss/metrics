@@ -7,7 +7,7 @@ Contributor Demographics | Gender, age, location, education, and skills over tim
 New Contributor Corporate Affiliations | New corporate affiliations over time
 New Contributions | Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time
 Accepted Code Contributions | Percentage of new contributor code versus total code over time
-Path to Maintainership | Path to maintainership communicated
+Path to Maintainership | Path to maintainership published
 Maintainer Promotion | Last time a maintainer was added
 
 **Disclaimer:**
