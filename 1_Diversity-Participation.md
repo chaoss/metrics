@@ -9,6 +9,7 @@ New Contributions | Percentage of contributions (patches, pull requests, etc.) f
 Accepted Code Contributions | Percentage of new contributor code versus total code over time
 Path to Maintainership | Path to maintainership published
 Maintainer Promotion | Last time a maintainer was added
+Change in Maintainer Number | Number of maintainers added/removed over time 
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Diversity and Participation. It is very likely that activity metrics in Diversity and Particpation are not able to be fully articulated via online trace data. In particular, Contributor Demographics is likely best understood through self-reporting. See: https://github.com/drnikki/open-demographics
