@@ -2,7 +2,7 @@
 
 Activity Metric | Description
 --- | ---
-Contributor Importance | Percentage of commits by individual contributors over time
+Contributor Importance | Percentage of commits by individual contributors from identified organizations over time
 Qualified Committers | Contributions over time and what components they commit to over time
 User Dependency | Number of users who are aware that they depend on the software over time
 Paid developers | Number of paid developers in community over time
