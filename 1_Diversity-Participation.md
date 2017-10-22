@@ -2,7 +2,7 @@
 
 Activity Metric | Description
 --- | ---
-New Contributors vs Maintainers** | Ratio of new contributors to maintainers over time
+New Contributors* vs Maintainers** | Ratio of new contributors to maintainers over time
 Contributor Demographics | Gender, age, location, education, and skills over time
 New Contributor Corporate Affiliations | New corporate affiliations over time
 New Contributions | Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time
@@ -11,8 +11,8 @@ Path to Maintainership | Path to maintainership published
 Maintainer Promotion | Last time a maintainer was added
 Change in Maintainer Number | Number of maintainers added/removed over time 
 
-Contributor = Anyone who provides a patch, pull request, wiki change, or other contribution.
-Maintainer = Contributor who has commit rights to the main branch and can merge contributions from others.
+*Contributor = Anyone who provides a patch, pull request, wiki change, or other contribution.
+**Maintainer = Contributor who has commit rights to the main branch and can merge contributions from others.
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Diversity and Participation. It is very likely that activity metrics in Diversity and Particpation are not able to be fully articulated via online trace data. In particular, Contributor Demographics is likely best understood through self-reporting. See: https://github.com/drnikki/open-demographics
