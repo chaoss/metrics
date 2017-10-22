@@ -11,7 +11,7 @@ Path to Maintainership | Path to maintainership published
 Maintainer Promotion | Last time a maintainer was added
 Change in Maintainer Number | Number of maintainers added/removed over time 
 
-*Contributor = Anyone who provides a patch, pull request, wiki change, or other contribution.
+*Contributor = Anyone who provides a patch, pull request, wiki change, or other contribution.  
 **Maintainer = Contributor who has commit rights to the main branch and can merge contributions from others.
 
 **Disclaimer:**
