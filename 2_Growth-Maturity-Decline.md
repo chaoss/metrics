@@ -9,8 +9,8 @@
  Resolution efficiency | Number of closed issues / number of abandoned issues.
  Average & median time of open issues | The average & median amount of time issues remain open.
  Average & median time of first response | The average & median amount of time until the first response to an issue is made.
- Histogram of open issue time | The distribution of time issues have remained open.
- Histogram of issue resolution time | The distribution of time it takes for issues to be resolved. 
+ Distribution of open issues over time | Proportional frequency of open issue time duration.
+ Distribution of issue resolution over time | Proportional frequency of closed issue time duration.
 
 ## Code Development
  Activity Metric | Description
@@ -18,7 +18,7 @@
  Number of commits | Total number of commits.
  Number of lines changed | Total number of lines of code that have been changed.
  Average & median time to merge code | The average & median amount of time it takes to get code merged upstream. 
- Histogram of time to merge | The distribution of time it takes for code to be merged upstream.
+ Distribution of time to merge | Proportional frequency of code merge to upstream time duration.
  Review efficiency | Number of merged patches / number of abandoned patches.
 
 ## Project Communication
@@ -27,7 +27,7 @@
  Total communications | Total number of posts made to communication platforms.
  Average & median communication response time | The average & median time taken for communications to be responded to.
  Average & median communication responses per thread | The average & median number of responses that are made to each communication thread or topic.
- Histogram of communication responses per thread | The distribution of the number of responses made to each communication thread or topic.
+ Distribution of communication responses per thread | Proportional frequency of responses per communication thread.
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Growth-Maturity-Decline. 
