@@ -22,6 +22,11 @@
  Percentile distribution of time to merge code |Proportional frequency of code merge to upstream time duration.
  Review efficiency | Number of merged patches / number of abandoned patches.
  
+## Community Growth
+ Activity Metric | Description
+ Total contributors | The total number of contributors over time on any platform.
+ Total new contributors | The total number of new contributors over time on any platform.
+ 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Growth-Maturity-Decline. 
 
