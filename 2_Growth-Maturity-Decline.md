@@ -1,27 +1,28 @@
 # Metric: Growth-Maturity-Decline
 
-
 ## Issue Resolution
  Activity Metric | Description
  --- | ---
  Open issues | Total number of open issues.
  Closed issues | Total number of closed issues.
  Resolution efficiency | Number of closed issues / number of abandoned issues.
- Average & median time of open issues | The average & median amount of time issues remain open.
- Average & median time of first response | The average & median amount of time until the first response to an issue is made.
- Distribution of open issues over time | Proportional frequency of open issue time duration.
- Distribution of issue resolution over time | Proportional frequency of closed issue time duration.
+ Average time of open issues | The average amount of time open issues have remained open
+ Percentile distribution of open issue time | Proportional frequency of open issue time duration.
+ Average issue resolution time | The average amount of time it takes for issues to be closed. 
+ Percentile distribution of issue resolution time | Proportional frequency of closed issue time duration.
+ Average time of first maintainer response to issue | The average amount of time it takes for a maintainer to make the first response to an issue.
+ Percentile distribution of first maintainer response to issue | The proportional frequency of time it takes for a maintainer to make the first response to an issue.
 
 ## Code Development
  Activity Metric | Description
  --- | ---
  Number of commits | Total number of commits.
  Number of lines changed | Total number of lines of code that have been changed.
- Average & median time to merge code | The average & median amount of time it takes to get code merged upstream. 
- Distribution of time to merge | Proportional frequency of code merge to upstream time duration.
+ Average time to merge code | The average amount of time difference between code author and commit dates.
+ Percentile distribution of time to merge code |Proportional frequency of code merge to upstream time duration.
  Review efficiency | Number of merged patches / number of abandoned patches.
-
-## Project Communication
+ 
+ ## Project Communication
  Activity Metric | Description
  --- | ---
  Total communications | Total number of posts made to communication platforms.
