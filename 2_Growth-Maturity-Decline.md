@@ -22,14 +22,6 @@
  Percentile distribution of time to merge code |Proportional frequency of code merge to upstream time duration.
  Review efficiency | Number of merged patches / number of abandoned patches.
  
- ## Project Communication
- Activity Metric | Description
- --- | ---
- Total communications | Total number of posts made to communication platforms.
- Average & median communication response time | The average & median time taken for communications to be responded to.
- Average & median communication responses per thread | The average & median number of responses that are made to each communication thread or topic.
- Distribution of communication responses per thread | Proportional frequency of responses per communication thread.
-
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Growth-Maturity-Decline. 
 
