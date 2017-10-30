@@ -11,7 +11,7 @@
  Average issue resolution time | The average amount of time it takes for issues to be closed. 
  Percentile distribution of issue resolution time | Proportional frequency of closed issue time duration.
  Average time of first maintainer response to issue | The average amount of time it takes for a maintainer to make the first response to an issue.
- Percentile distribution of first maintainer response to issue | The proportional frequency of time it takes for a maintainer to make the first response to an issue.
+ Percentile distribution of first maintainer response time | The proportional frequency of time it takes for a maintainer to make the first response to an issue.
 
 ## Code Development
  Activity Metric | Description
