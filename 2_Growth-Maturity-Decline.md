@@ -24,6 +24,7 @@
  
 ## Community Growth
  Activity Metric | Description
+ --- | ---
  Total contributors | The total number of contributors over time on any platform.
  Total new contributors | The total number of new contributors over time on any platform.
  
