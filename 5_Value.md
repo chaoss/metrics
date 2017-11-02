@@ -2,10 +2,10 @@
 
 Activity Metric | Description
 --- | ---
-Development Cost | An estimate of the market cost to develop the functionality in the repository.  See how [OpenHub does it](https://blog.openhub.net/project_codebase_cost/)
-Downloads | Number of downloads of the software
-Installs | Number of installations of the software
-Number of active users | Number of "active" users of the software (for some yet-to-be-defined definition of "active")
+Development Cost | An estimate of the market cost to develop the functionality of the project.  See how [OpenHub does it](https://blog.openhub.net/project_codebase_cost/)
+Downloads | Number of downloads of the project
+Installs | Number of installations of the project
+Number of active users | Number of "active" users of the project (for some yet-to-be-defined definition of "active")
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Value.
