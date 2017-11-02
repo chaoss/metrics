@@ -19,7 +19,7 @@ The activity metics have been identified based on workshops at the Open Source L
 - To advance the document, fork the repo, make your changes, create a pull request see [CONTRIBUTING.md][contrib]
 - To ask questions or make comments, post to our [mailing list][ml], join our weekly [Hangout call][ho], or open an [issue on GitHub][issue].
 
-[contrib]: https://github.com/germonprez/metrics/blob/master/CONTRIBUTING.md
+[contrib]: https://github.com/chaoss/metrics/blob/master/.github/CONTRIBUTING.md
 [ml]: https://wiki.linuxfoundation.org/chaoss/metrics#mail-list
 [ho]: https://wiki.linuxfoundation.org/chaoss/metrics#weekly-hangout
 [issue]: https://github.com/chaoss/metrics/issues
