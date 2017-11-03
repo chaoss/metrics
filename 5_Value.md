@@ -2,7 +2,7 @@
 
 Activity Metric | Description
 --- | ---
-Development Cost | An estimate of the market cost to develop the functionality of the project.  See how [OpenHub does it](https://blog.openhub.net/project_codebase_cost/)
+Development Cost | An estimate of the market cost to develop the functionality of the project.  See [OpenHub](https://blog.openhub.net/project_codebase_cost/), for example
 Downloads | Number of downloads of the project
 Installs | Number of installations of the project
 Number of active users | Number of "active" users of the project (for some yet-to-be-defined definition of "active")
