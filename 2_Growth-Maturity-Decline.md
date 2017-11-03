@@ -20,7 +20,7 @@
  Number of lines changed | Total number of lines of code that have been changed.
  Average time to merge code | The average amount of time difference between code author and commit dates.
  Percentile distribution of time to merge code |Proportional frequency of code merge to upstream time duration.
- Review efficiency | Number of merged patches / number of abandoned patches.
+ Review efficiency | Number of merged patches / number of abandoned patches over a set period of time.
  
 ## Community Growth
  Activity Metric | Description
