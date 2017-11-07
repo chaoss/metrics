@@ -2,7 +2,7 @@
 
 
  Activity Metric | Description |
- --- | --- | ---
+ --- | --- | 
  Tickets Closed / Tickets Opened | Total number of tickets closed per tickets opened over time | 
  Bug Time to Close | Time from bug opened to bug closed over time | 
  Time to Merge | Time from submission to merge or abandon over time | 
