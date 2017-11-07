@@ -1,15 +1,15 @@
 # Metric: Growth-Maturity-Decline
 
 
- Activity Metric | Description
- --- | ---
- Tickets Closed / Tickets Opened | Total number of tickets closed per tickets opened over time
- Bug Time to Close | Time from bug opened to bug closed over time
- Time to Merge | Time from submission to merge or abandon over time
- Review Efficiency | Number of merged patches / Number of abandoned patches over time
- Number of New Contributors | Number of first time contributors over time
- Community Growth | Number of new developers over time
- Community Toxicity | Toxic behavior and language over time
+ Activity Metric | Description | Implementation
+ --- | --- | ---
+ Tickets Closed / Tickets Opened | Total number of tickets closed per tickets opened over time | Available at link(s)
+ Bug Time to Close | Time from bug opened to bug closed over time | Avialble at link(s)
+ Time to Merge | Time from submission to merge or abandon over time | Available at link(s)
+ Review Efficiency | Number of merged patches / Number of abandoned patches over time | Available at link(s)
+ Number of New Contributors | Number of first time contributors over time | Available at link(s)
+ Community Growth | Number of new developers over time | Same as above? 
+ Community Toxicity | Toxic behavior and language over time | ??
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Growth-Maturity-Decline. 
