@@ -1,16 +1,33 @@
 # Metric: Growth-Maturity-Decline
 
+## Issue Resolution
+ Activity Metric | Description
+ --- | ---
+ Open issues | Total number of open issues.
+ Closed issues | Total number of closed issues.
+ Resolution efficiency | Number of closed issues / number of abandoned issues.
+ Average time of open issues | The average amount of time open issues have remained open
+ Percentile distribution of open issue time | Proportional frequency of open issue time duration.
+ Average issue resolution time | The average amount of time it takes for issues to be closed. 
+ Percentile distribution of issue resolution time | Proportional frequency of closed issue time duration.
+ Average time of first maintainer response to issue | The average amount of time it takes for a maintainer to make the first response to an issue.
+ Percentile distribution of first maintainer response time | The proportional frequency of time it takes for a maintainer to make the first response to an issue.
 
- Activity Metric | Description |
- --- | --- | 
- Tickets Closed / Tickets Opened | Total number of tickets closed per tickets opened over time | 
- Bug Time to Close | Time from bug opened to bug closed over time | 
- Time to Merge | Time from submission to merge or abandon over time | 
- Review Efficiency | Number of merged patches / Number of abandoned patches over time | 
- Number of New Contributors | Number of first time contributors over time | 
- Community Growth | Number of new developers over time | 
- Community Toxicity | Toxic behavior and language over time | 
-
+## Code Development
+ Activity Metric | Description
+ --- | ---
+ Number of commits | Total number of commits.
+ Number of lines changed | Total number of lines of code that have been changed.
+ Average time to merge code | The average amount of time difference between code author and commit dates.
+ Percentile distribution of time to merge code |Proportional frequency of code merge to upstream time duration.
+ Review efficiency | Number of merged patches / number of abandoned patches over a set period of time.
+ 
+## Community Growth
+ Activity Metric | Description
+ --- | ---
+ Total contributors | The total number of contributors over time on any platform.
+ Total new contributors | The total number of new contributors over time on any platform.
+ 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Growth-Maturity-Decline. 
 
