@@ -1,8 +1,6 @@
 # Template for Metric
 The following is a draft for the template that all 'Metric Detail' pages can follow.
 
-The template is inspired by the __[IS Theories Wiki](https://istheory.byu.edu/wiki/Signaling)__.
-
 ## Instructions
 
 To create a new 'Metric Detail' page follow these steps:
