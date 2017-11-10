@@ -1,18 +1,17 @@
-# Metric: Risk
+# Metric: Value
 
 Activity Metric | Description
 --- | ---
-Contributor Importance | Percentage of commits by individual contributors from identified organizations over time
-Qualified Committers | Contributions over time and what components they commit to over time
-User Dependency | Number of users who are aware that they depend on the software over time
-Paid developers | Number of paid developers in community over time
-
+Development Cost | An estimate of the market cost to develop the functionality of the project.  See [OpenHub](https://blog.openhub.net/project_codebase_cost/), for example
+Downloads | Number of downloads of the project
+Installs | Number of installations of the project
+Number of active users | Number of "active" users of the project (for some yet-to-be-defined definition of "active")
 
 **Disclaimer:**
-The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Risk. 
+The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Value.
 
 **Tooling:**
-The activity metrics are intended to be a starting point for community health related tooling. It is expected that the activity metrics will evolve based on the ability (or inability) of tooling to successfully implement the activity metrics. 
+The activity metrics are intended to be a starting point for community health related tooling. It is expected that the activity metrics will evolve based on the ability (or inability) of tooling to successfully implement the activity metrics.
 
 **Background:**
 The activity metics have been identified based on workshops at the Open Source Leadership and the Open Source Summit North America. In addition, the activity metrics are based on active CHAOSS mailing list conversations. The activity metrics listed here are the result of compiling the discussions to data. We thank everyone who participated.

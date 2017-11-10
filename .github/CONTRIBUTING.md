@@ -19,7 +19,7 @@ Some things that will increase the chance that your pull request is accepted:
 * Use [Markdown][md] (we can fix this for you)
 
 [ml]: https://lists.linuxfoundation.org/pipermail/oss-health-metrics/
-[commit]: https://guides.github.com/features/mastering-markdown/#syntax
+[md]: https://guides.github.com/features/mastering-markdown/#syntax
 
 # Additional Resources
 
