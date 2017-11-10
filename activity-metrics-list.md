@@ -1,6 +1,6 @@
 # List of Activity Metrics
 
-We list and describe activity metrics. For different situations, the metrics have different meanings. Each activity metric can be used in association with other metrics in the creations of value-oriented health metrics. We have a __[template for the metrics](oss-health-metrics:metric-template)__ to be used for new detail metric pages.
+We list and describe activity metrics. For different situations, the metrics have different meanings. Each activity metric can be used in association with other metrics in the creations of value-oriented health metrics. We have a [metric-template](activity-metrics/metric-template.md) to be used for new detail metric pages.
 
 
 |Name|Description|
