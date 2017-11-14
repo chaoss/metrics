@@ -1,4 +1,4 @@
-# Metric: Ecosystem
+# Metric: Dependency
 
 Activity Metric | Description
 --- | ---
