@@ -21,6 +21,8 @@
  Average time to merge code | The average amount of time difference between code author and commit dates.
  Percentile distribution of time to merge code |Proportional frequency of code merge to upstream time duration.
  Review efficiency | Number of merged patches / number of abandoned patches over a set period of time.
+ Average time of first maintainer response to code merge request | The average amount of time it takes for a maintainer to make the first response to a code merge request.
+ Percentile distribution of first maintainer response to code merge request | The proportional frequency of time it takes for a maintainer to make the first response to a code merge request
  
 ## Community Growth
  Activity Metric | Description
