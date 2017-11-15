@@ -27,7 +27,7 @@
  --- | ---
  Total contributors | The total number of contributors over time on any platform.
  Total new contributors | The total number of new contributors over time on any platform.
- Total new (sub)projects | The total number of new (sub)projects created over time
+ Total (sub)projects | The total number of (sub)projects over time
  
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Growth-Maturity-Decline. 
