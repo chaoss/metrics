@@ -1,15 +1,16 @@
 # Metric: Dependency
 
  #Activity Metric | Description
-|---|---|
-|Number of External Components Relied Upon| 1st of several ways to measure upstream reliance|
-|Depth of Reliance on External Components| ? informed by activity metrics or defined by the number "volume" of connections, calls, etc. between the same components|
-|Key CHAOSS Metrics for External Components| this will likely be an average of metrics, possibly weighted by the depth of the reliance|
-|Number of Projects Using | 1st of several ways to measure downstream reliance|
-|Number of Downloads | Likely needs the help of the project owner to get this information|
-|Depth of Downloads | ? informed by activity metrics or defined by the number "volume" of connections, calls, etc. between the same components|
-|Awareness of Dependency | Number of users who are aware that they depend|
-|Number of Downloads | Likely needs the help of the project owner to get this information|
+---|---
+Number of External Components Relied Upon| 1st of several ways to measure upstream reliance
+Depth of Reliance on External Components| ? informed by activity metrics or defined by the number "volume" of connections, calls, etc. between the same components
+Key CHAOSS Metrics for External Components| this will likely be an average of metrics, possibly weighted by the depth of the reliance|
+Number of Projects Using | 1st of several ways to measure downstream reliance
+Number of Downloads | Likely needs the help of the project owner to get this information
+Depth of Downloads | ? informed by activity metrics or defined by the number "volume" of connections, calls, etc. between the same components
+Awareness of Dependency | Number of users who are aware that they depend
+Number of Downloads | Likely needs the help of the project owner to get this information
+
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Dependency.
 
