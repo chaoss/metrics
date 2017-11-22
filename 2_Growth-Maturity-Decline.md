@@ -29,6 +29,8 @@
  --- | ---
  Total contributors | The total number of contributors over time on any platform.
  Total new contributors | The total number of new contributors over time on any platform.
+ Total contributing organizations | The total number of organizations contributing over time
+ Total new contributing organizations | The total number of new organizations contributing over time.
  Total (sub)projects | The total number of (sub)projects over time.
  
 **Disclaimer:**
