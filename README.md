@@ -13,8 +13,11 @@ For more information go to our website at https://wiki.linuxfoundation.org/chaos
 
 ## Where to contribute
 
-Work is currently centered around the files  [Diversity.md](1_Diversity.md), [Risk.md](3_Risk.md), [Growth-Maturity-Decline.md](2_Growth-Maturity-Decline.md), [Dependency.md](4_Dependency.md), and [Value.md](5_Value.md).
+Work on metrics is currently centered around the files  [Diversity.md](1_Diversity.md), [Risk.md](3_Risk.md), [Growth-Maturity-Decline.md](2_Growth-Maturity-Decline.md), [Dependency.md](4_Dependency.md), and [Value.md](5_Value.md).
 
+Work on comparing metrics tools is led by Jason Clark in his repository: [CHAOSS Product Comparison](https://github.com/jasontclark/chaoss-product-comparison).
+
+All contributions are welcome.
 Please review the [CONTRIBUTING.md][contrib] file for how to contribute.
 
 [contrib]: .github/CONTRIBUTING.md
