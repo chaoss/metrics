@@ -8,6 +8,7 @@ Downloads of non-SW artifacts | Number of downloads of non-software artifacts (e
 Installs | Number of software installations of the project
 Number of active users | Number of "active" users of the project (for some yet-to-be-defined definition of "active")
 Commercial offerings | Availability of commercial products or services based on the project
+Availability of add-on products | Availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Value.
