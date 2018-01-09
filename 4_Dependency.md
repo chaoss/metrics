@@ -13,7 +13,7 @@ The activity metrics listed are not meant to represent a fully comprehensive lis
 The activity metrics are intended to be a starting point for community health related tooling. It is expected that the activity metrics will evolve based on the ability (or inability) of tooling to successfully implement the activity metrics.
 
 **Background:**
-The activity metics have been identified based on workshops at the Open Source Leadership and the Open Source Summit North America. In addition, the activity metrics are based on active CHAOSS mailing list conversations. The activity metrics listed here are the result of compiling the discussions to data. We thank everyone who participated.
+The activity metrics have been identified based on workshops at the Open Source Leadership and the Open Source Summit North America. In addition, the activity metrics are based on active CHAOSS mailing list conversations. The activity metrics listed here are the result of compiling the discussions to data. We thank everyone who participated.
 
 **How to contribute:**
 - To advance the document, fork the repo, make your changes, create a pull request see [CONTRIBUTING.md][contrib]
