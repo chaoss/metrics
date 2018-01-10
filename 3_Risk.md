@@ -18,7 +18,8 @@ File License Declarations | License declarations on software package files
 License Identificaiton Methods | Declaration of methods used to identify software package licenses
 
 ## Vulnerability Factors
---- | ---
+ Activity Metric | Description
+ --- | ---
 Published CPE | CPE for software package present/identified
 Disclosed Vulnerabilities | Disclosed package vulnerabilities
 Vulnerabilities in Media | Published press about package related vulnerabilities 
