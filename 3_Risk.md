@@ -1,5 +1,6 @@
 # Metric: Risk
 
+## Human Factors
 Activity Metric | Description
 --- | ---
 Contributor Importance | Percentage of commits by individual contributors from identified organizations over time
@@ -7,6 +8,20 @@ Qualified Committers | Contributions over time and what components they commit t
 User Dependency | Number of users who are aware that they depend on the software over time
 Paid developers | Number of paid developers in community over time
 
+## Copyright and License Factors
+ Activity Metric | Description
+ --- | ---
+Copyright Declaration | Copyright declaration on software package
+Copyright Text | Copyright text provided 
+Package License Declaration | Licesnse declaration on software package
+File License Declarations | License declarations on software package files
+License Identificaiton Methods | Declaration of methods used to identify software package licenses
+
+## Vulnerability Factors
+--- | ---
+Published CPE | CPE for software package present/identified
+Disclosed Vulnerabilities | Disclosed package vulnerabilities
+Vulnerabilities in Media | Published press about package related vulnerabilities 
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Risk.
