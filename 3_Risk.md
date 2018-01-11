@@ -15,7 +15,7 @@ Copyright Declaration | Copyright declaration on software package
 Copyright Text | Copyright text provided 
 Package License Declaration | License declaration on software package
 File License Declarations | License declarations on software package files
-License Identificaiton Methods | Declaration of methods used to identify software package licenses
+License Identification Methods | Declaration of methods used to identify software package licenses
 
 ## Vulnerability Factors
  Activity Metric | Description
