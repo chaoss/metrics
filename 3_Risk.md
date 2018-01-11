@@ -13,7 +13,7 @@ Paid developers | Number of paid developers in community over time
  --- | ---
 Copyright Declaration | Copyright declaration on software package
 Copyright Text | Copyright text provided 
-Package License Declaration | Licesnse declaration on software package
+Package License Declaration | License declaration on software package
 File License Declarations | License declarations on software package files
 License Identificaiton Methods | Declaration of methods used to identify software package licenses
 
