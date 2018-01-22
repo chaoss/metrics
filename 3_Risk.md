@@ -11,7 +11,7 @@ Paid developers | Number of paid developers in community over time
 ## Copyright and License Factors
  Activity Metric | Description
  --- | ---
-Copyright Declaration | Includes the copyright symbol, the year of the creation, the name of the author, and a rights statement
+Copyright Declaration | Includes the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement
 Package License Declaration | License declaration on software package
 File License Declarations | License declarations on software package files
 License Identification Methods | List of methods or tools used for identifying licenses in files
