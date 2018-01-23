@@ -18,6 +18,7 @@
  --- | ---
  Number of commits | Total number of commits.
  Number of lines changed | Total number of lines of code that have been changed.
+ Number of reviews | Total number of code reviews
  Average time to merge code | The average amount of time difference between code author and commit dates.
  Percentile distribution of time to merge code |Proportional frequency of code merge to upstream time duration.
  Review efficiency | Number of merged patches / number of abandoned patches over a set period of time.
