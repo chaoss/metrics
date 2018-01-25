@@ -11,17 +11,17 @@ Paid developers | Number of paid developers in community over time
 ## Copyright and License Factors
  Activity Metric | Description
  --- | ---
-Copyright Declaration | Includes the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement
-Package License Declaration | License declaration on software package
-File License Declarations | License declarations on software package files
-License Identification Methods | List of methods or tools used for identifying licenses in files
+Copyright Declaration | The degree to which the project properly declares copyright ownership, including the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement
+Package License Declaration | A list of license declarations on the software package
+File License Declarations | A list of license declarations on the software package files
+License Identification Methods | A list of methods or tools used for identifying licenses in files
 
 ## Vulnerability Factors
  Activity Metric | Description
  --- | ---
-Published CPE | CPE for software package present/identified
-Disclosed Vulnerabilities | Disclosed package vulnerabilities
-Vulnerabilities in Media | Published press about package related vulnerabilities 
+Published CPE | A List of CPE for software package present/identified
+Disclosed Vulnerabilities | A list of disclosed package vulnerabilities
+Vulnerabilities in Media | A list of published press about package related vulnerabilities 
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Risk.
