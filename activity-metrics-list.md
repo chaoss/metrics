@@ -28,6 +28,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Dependency Depth|*Number of projects included in code base + number of projects relying on focal project (recursive)*\\ Indicator about centrality in open source Dependency network|
 |Distribution of Work|How much recent activity is distributed?|
 |Downloads|*Number of downloads*\\ ! beware: downloads might be skewed by builders\\ Used as measure for 'success' (Grewal, Lilien, & Mallapragada, 2006) |
+|Elephant Factor|If 50% of community members are employed by the same company, it is the elephant in the room. Formally: The minimum number of companies whose employees perform 50% of the commits|
 |[Forks](activity-metrics/forks.md)|*Number of forks*|
 |Gatherings|*Number of face-to-face/in-person meetings per year*\\ Resets contentious issues; Resolve tensions; Avoid longstanding grudges|
 |[Issue Comments](activity-metrics/issue-comments.md)|*Number of Comments per Issue* |
@@ -44,6 +45,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Non-Source Contributions|Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc...|
 |Onion Layers|*Distance between onion model layers (users, contributors, committers, and steering committee)*\\ Rule of thumb: factor of 10x between layers. (OSLS'17 Node.js keynote)|
 |Path to Leadership|*A communicated path from lurker to contributor to maintainer. (or. track members: time from user to maintainer/leader)*\\ Rational: If active contributors are not included in leadership decisions they might lose interest and leave. (Focus on least likely contributor)|
+|Pony Factor|The minimum number of developers performing 50% of the commits. [The Math](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/)|
 |Project Life Cycle|*Community assigned label*\\ Some communities have a project life cycle for example: proposal, incubaton, active, deprecated, end of life (Source: [Hyperledger](https://wiki.hyperledger.org/community/project-lifecycle)).|
 |[Pull Request Comments](activity-metrics/pull-request-comments.md)|*Number of comments per pull request* |
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|*Number of different people discussing each pull request* |
