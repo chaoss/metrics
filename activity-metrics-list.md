@@ -73,6 +73,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Update Regularity|How consistently and frequently are updates provided.|
 |Use of Acronym|*Frequency of acronyms used*\\ Specialized language can be a barrier for new contributors.|
 |User Groups|user groups perform a variety of crucial marketing, service support, and business-development functions at the grassroots level\\ (Bagozzi & Dholakia, 2006)|
+|Velocity|A graph where bubbles’ area is proportional to the number of authors, the y-axis (height) is the total number of pull requests & issues, and the x-axis is the number of commits. [Example](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)|
 |[Watchers](activity-metrics/watchers.md)|*Number of watchers* (GitHub)|
 |YouTube Videos|*Number of Youtube videos that mention or specifically deal with the project (e.g. tutorials)*|
 
