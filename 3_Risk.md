@@ -16,12 +16,13 @@ Package License Declaration | A list of license declarations on the software pac
 File License Declarations | A list of license declarations on the software package files
 License Identification Methods | A list of methods or tools used for identifying licenses in files
 
+
 ## Vulnerability Factors
  Activity Metric | Description
  --- | ---
-Published CPE | A list of [Common Platform Enumeration (CPE)](https://nvd.nist.gov/products/cpe) for software package present or identified
-Disclosed Vulnerabilities | A list of disclosed package vulnerabilities
-Vulnerabilities in Media | A list of published press about package related vulnerabilities 
+Published CPE | The number of published [Common Platform Enumerations (CPEs)](https://nvd.nist.gov/products/cpe) for the project (i.e., a project can contain many packages)
+Disclosed Vulnerabilities | The number of disclosed package vulnerabilities
+Vulnerabilities in Media | The number of published press about package related vulnerabilities
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Risk.
