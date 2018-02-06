@@ -19,7 +19,7 @@ License Identification Methods | A list of methods or tools used for identifying
 ## Vulnerability Factors
  Activity Metric | Description
  --- | ---
-Published CPE | A List of [Common Platform Enumeration (CPE)](https://nvd.nist.gov/products/cpe) for software package present/identified
+Published CPE | A list of [Common Platform Enumeration (CPE)](https://nvd.nist.gov/products/cpe) for software package present or identified
 Disclosed Vulnerabilities | A list of disclosed package vulnerabilities
 Vulnerabilities in Media | A list of published press about package related vulnerabilities 
 
