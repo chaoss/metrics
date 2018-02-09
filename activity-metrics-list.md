@@ -30,6 +30,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Downloads|*Number of downloads*\\ ! beware: downloads might be skewed by builders\\ Used as measure for 'success' (Grewal, Lilien, & Mallapragada, 2006) |
 |[Forks](activity-metrics/forks.md)|*Number of forks*|
 |Gatherings|*Number of face-to-face/in-person meetings per year*\\ Resets contentious issues; Resolve tensions; Avoid longstanding grudges|
+| Installs | Number of software installations of the project |
 |[Issue Comments](activity-metrics/issue-comments.md)|*Number of Comments per Issue* |
 |[Issue Response Rate](activity-metrics/issue-response-rate.md)| *Time between a new issue is opened and a maintainer responds*\\ Also called: bug response rate. The maintainer is believed to not "pile on" but try to solve an issue.|
 |[Issues Open](activity-metrics/issues-open.md)|*Number of open issues* |
