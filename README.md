@@ -4,7 +4,7 @@ Welcome to the repository of the CHAOSS Metrics Committee. The CHAOSS Metrics Co
 
 For more information go to our website at: https://chaoss.community/
 
-## How to contribute and participate
+# How to Contribute and Participate
 
 Work on metrics is currently centered around [Diversity-Inclusion](1_Diversity-Inclusion.md), [Growth-Maturity-Decline](2_Growth-Maturity-Decline.md), [Risk](3_Risk.md), and [Value](5_Value.md).
 
