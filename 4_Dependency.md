@@ -1,10 +1,11 @@
 # Metric: Dependency
 
-Activity Metric | Description
---- | ---
- ... | ...
- ... | ...
- ... | ...
+ #Activity Metric | Description
+---|---
+Number of External Components Relied Upon | Upstream dependency by number of external components used but maintained outside of focal project.
+Use of External Components | Number of connections, calls, references, or other uses of external components. Informs how much a project relies on external components.
+Downstream Popularity | "Number of projects using this software.
+Awareness of Dependency | Number of users who are aware that they are dependent on focal project.
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Dependency.
