@@ -5,7 +5,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 
 |Name|Description|
 |---|---|
-|Age of Community|*Time since repository/organization was registered; or Time since first release.*\\ "Results showed that the age of the project played a marginally significant role in attracting active users, but not developers. We attribute this differential effect of age on users and developers to the fact that age may be seen as an indicator of application maturity by users, and hence taken as a positive signal, whereas it may convey more ambiguous signals to developers." (Chengalur-Smith et al., 2010, p.674) (Grewal, Lilien, & Mallapragada, 2006)|
+|Age of Community|Time since repository/organization was registered; or Time since first release.\\ "Results showed that the age of the project played a marginally significant role in attracting active users, but not developers. We attribute this differential effect of age on users and developers to the fact that age may be seen as an indicator of application maturity by users, and hence taken as a positive signal, whereas it may convey more ambiguous signals to developers." (Chengalur-Smith et al., 2010, p.674) (Grewal, Lilien, & Mallapragada, 2006)|
 |All Licenses|*List of licenses*|
 |Apache Maturity Model| The [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) provides guidelines for assessing the maturity of a project |
 |Blogposts|*Number of blogposts that mention the project*|
