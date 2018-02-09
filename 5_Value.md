@@ -6,7 +6,7 @@ Codebase Cost | An estimate of the market cost to develop the functionality of t
 Software Downloads | Number of project software downloads
 Downloads of Non-software Artifacts | Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc.)
 Installs | Number of software installations of the project
-Number of Active Users | Number of "active" users of the project (for some yet-to-be-defined definition of "active")
+Number of Active Users | Number of active users of the project
 Commercial Offerings | Availability of commercial products or services based on the project
 Availability of Add-on Products | Availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software
 
