@@ -14,7 +14,7 @@ For more information go to our website at: https://chaoss.community/
 
 # Structure of the CHAOSS Metrics Repository
 
-https://user-images.githubusercontent.com/656208/36049226-a85f0310-0da7-11e8-9a24-76a98117b972.png
+![StructureOfMetricsRepo](https://user-images.githubusercontent.com/656208/36049226-a85f0310-0da7-11e8-9a24-76a98117b972.png)
 
 # How to Contribute and Participate to the CHAOSS Project
 
