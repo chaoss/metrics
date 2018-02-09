@@ -1,26 +1,18 @@
-# CHAOSS Metrics
+# CHAOSS Metrics Committee
 
-Welcome to the repository of the CHAOSS Metrics Committee.
+Welcome to the repository of the CHAOSS Metrics Committee. The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessing open source community health and sustainability. Such metrics are aimed at understanding project risk, diversity & inclusion, growth-maturity-decline, and value. The Metrics Committee will optionally produce standardized metric exchange formats, detailed use cases, models, or recommendations to analyze specific issues in the industry and OSS world.
 
-We  develop implementation-agnostic metrics and use this repository in the process.
-This repository will hold sample implementation, such as SQL-queries, that may be re-used by other implementation projects.
+For more information go to our website at: https://chaoss.community/
 
-## CHAOSS Metrics Committee
+## How to contribute and participate
 
-The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessing open source communities' health and sustainability. Such metrics are aimed at understanding community activity, diversity, and lifecycles. The Metrics Committee will optionally produce standardized metric exchange formats, detailed use cases, models, or recommendations to analyze specific issues in the industry and OSS world.
+Work on metrics is currently centered around [Diversity-Inclusion](1_Diversity-Inclusion.md), [Growth-Maturity-Decline](2_Growth-Maturity-Decline.md), [Risk](3_Risk.md), and [Value](5_Value.md).
 
-For more information go to our website at https://wiki.linuxfoundation.org/chaoss/metrics
+If you'd like to contribute to the metrics, please visit: https://github.com/chaoss/governance/CONTRIBUTING.md
 
-## Where to contribute
-
-Work on metrics is currently centered around the areas of  [Diversity-Inclusion](1_Diversity-Inclusion.md), [Growth-Maturity-Decline](2_Growth-Maturity-Decline.md), [Risk](3_Risk.md), [Dependency](4_Dependency.md), and [Value](5_Value.md).
+If you'd like to participate in the community conversations, please visit: https://chaoss.community/participate/
 
 Work on comparing metrics tools is led by Jason Clark in his repository: [CHAOSS Product Comparison](https://github.com/jasontclark/chaoss-product-comparison).
-
-All contributions are welcome.
-Please review the [CONTRIBUTING.md][contrib] file for how to contribute.
-
-[contrib]: .github/CONTRIBUTING.md
 
 ## License
 
