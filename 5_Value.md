@@ -2,7 +2,7 @@
 
 Activity Metric | Description
 --- | ---
-Development Cost | An estimate of the market cost to develop the functionality of the project.  For example: [OpenHub](https://blog.openhub.net/project_codebase_cost/)
+Codebase Cost | An estimate of the market cost to develop the functionality of the project.  For example: [OpenHub](https://blog.openhub.net/project_codebase_cost/)
 Software Downloads | Number of project software downloads
 Downloads of Non-software Artifacts | Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc.)
 Installs | Number of software installations of the project
