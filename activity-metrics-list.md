@@ -14,6 +14,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Bus Factor|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
 |Code Modularity|Modular code allows parallel development, which Linus Torvalds drove for Linux (OSLS Torvalds)\\ (Baldwin & Clark, 2006)|
+|Commercial Offerings|Availability of commercial products or services based on the project|
 |Commit Bias|Acceptance rate (and time to acceptance) differences per gender, ethnicity, etc...|
 |[Community Activity](activity-metrics/community-activity.md)|Contribution Frequency. (Contribution = commit, issue, comment, ...)|
 |[Contribution Acceptance](activity-metrics/contribution-acceptance.md)|Ratio of contributions accepted vs. closed without acceptance |
