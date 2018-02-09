@@ -27,7 +27,6 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Decision Distribution|Central vs. distributed decision making. Governance model, scalability of community|
 |Dependency Depth|Number of projects included in code base + number of projects relying on focal project (recursive). Indicator about centrality in open source Dependency network|
 |Distribution of Work|How much recent activity is distributed?|
-|Downloads|Number of downloads. ! beware: downloads might be skewed by builders\\ Used as measure for 'success' (Grewal, Lilien, & Mallapragada, 2006) |
 |[Forks](activity-metrics/forks.md)|Number of forks|
 |Gatherings|Number of face-to-face/in-person meetings per year. Resets contentious issues; Resolve tensions; Avoid longstanding grudges|
 | Installs | Number of software installations of the project |
@@ -61,6 +60,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Roadmap|Existence and quality of roadmap. Best Practice: community engagement and scalability (might not be automatically computable)|
 |Role Definitions|Existence and quality of role definitions. Governance related. Relates to "Path do Leadership"|
 |[Size of Code Base](activity-metrics/size-of-code-base.md)|Lines of code|
+|Software Downloads|Number of downloads. Beware: downloads might be skewed by builders. Used as measure for 'success' (Grewal, Lilien, & Mallapragada, 2006) |
 |Stack Overflow|Several metrics: # of questions asked, response rate, number of responding people that have verified solutions|
 |Stars|Number of stars (GitHub)|
 |Test Coverage| |
