@@ -60,7 +60,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Roadmap|Existence and quality of roadmap. Best Practice: community engagement and scalability (might not be automatically computable)|
 |Role Definitions|Existence and quality of role definitions. Governance related. Relates to "Path do Leadership"|
 |[Size of Code Base](activity-metrics/size-of-code-base.md)|Lines of code|
-|Software Downloads|Number of downloads. Beware: downloads might be skewed by builders. Used as measure for 'success' (Grewal, Lilien, & Mallapragada, 2006) |
+|Software Downloads|Number of project software downloads. Beware: downloads might be skewed by builders. Used as measure for 'success' (Grewal, Lilien, & Mallapragada, 2006) |
 |Stack Overflow|Several metrics: # of questions asked, response rate, number of responding people that have verified solutions|
 |Stars|Number of stars (GitHub)|
 |Test Coverage| |
