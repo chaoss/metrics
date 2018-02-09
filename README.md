@@ -6,13 +6,11 @@ For more information go to our website at: https://chaoss.community/
 
 # Current Goals of the CHAOSS Metrics Committee
 
-(1) The development of metric categories and related activity metrics. The metric categories are based on the work of community members who have participated at CHAOSS events, worked in the repo, and discussed through on email. We are capturing the metrics that people find meaningful to their particular contexts when understanding project health and sustatinability. Our goal is to represent metrics, irrespective of how they might be implemented, and document them for others to consider. This also includes working with the CHAOSS software community to put these metrics into practice. 
+(1) The development of metric categories and related activity metrics: [CHAOSS Metrics](https://github.com/chaoss/metrics). The metric categories are based on the work of community members who have participated at CHAOSS events, worked in the repo, and discussed through on email. We are capturing the metrics that people find meaningful to their particular contexts when understanding project health and sustatinability. Our goal is to represent metrics, irrespective of how they might be implemented, and document them for others to consider. This also includes working with the CHAOSS software community to put these metrics into practice. 
 
 (2) Curation of a list of known metrics-related tools and representing what they do: [CHAOSS Product Comparison](https://github.com/jasontclark/chaoss-product-comparison). This helps see the existing landscape of software and metrics.
 
-(3) We are participating in the CHAOSS D&I Workgroup [3]. I think that this is really important as it is the first project that we have at CHAOSS that brings together the metrics and software committees in an explicit way. Through this WG, we can inform the metrics by questioning how the software is able to capture (or not) particular metrics. At the same time, we can inform the software by questioning how we can deploy particular metrics. This WG can provide insight and methods by which D&I reports could be generated for communities of interest. I believe that we can have similar workgroups for Risk, Growth-Maturity-Decline, and Value. 
-
-Work on comparing metrics tools is led by Jason Clark in his repository: [CHAOSS Product Comparison](https://github.com/jasontclark/chaoss-product-comparison).
+(3) We are participating in the CHAOSS D&I Workgroup [3]. I think that this is really important as it is the first project that we have at CHAOSS that brings together the metrics and software committees in an explicit way. Through this WG, we can inform the metrics by questioning how the software is able to capture (or not) particular metrics. At the same time, we can inform the software by questioning how we can deploy particular metrics. This WG can provide insight and methods by which D&I reports could be generated for communities of interest. I believe that we can have similar workgroups for Risk, Growth-Maturity-Decline, and Value.
 
 # Structure of the CHAOSS Metrics Repository
 
