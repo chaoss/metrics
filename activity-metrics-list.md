@@ -78,6 +78,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |User Groups|user groups perform a variety of crucial marketing, service support, and business-development functions at the grassroots level\\ (Bagozzi & Dholakia, 2006)|
 |[Watchers](activity-metrics/watchers.md)|Number of watchers (GitHub)|
 |YouTube Videos|Number of Youtube videos that mention or specifically deal with the project (e.g. tutorials)
+|V-index|An index of project's first-order and second-order downstream dependencies. For example: if a project has 15 downstream dependencies and those downstream projects have 15 downstream dependencies of their own, the V-index is 15|
 
 # Additional Thoughts
 The following section are a collection of random thoughts that might be helpful in a future discussion.
