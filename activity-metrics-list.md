@@ -43,6 +43,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |License Coverage|Number of files with a file notice (copyright notice + license notice)|
 |License Declared|What license does the project declare|
 |Non-Source Contributions|Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc...|
+|Number of Active Users|Number of active users of the project|
 |Onion Layers|Distance between onion model layers (users, contributors, committers, and steering committee). Rule of thumb: factor of 10x between layers. (OSLS'17 Node.js keynote)|
 |Path to Leadership|A communicated path from lurker to contributor to maintainer. (or. track members: time from user to maintainer/leader). Rational: If active contributors are not included in leadership decisions they might lose interest and leave. (Focus on least likely contributor)|
 |Project Life Cycle|Community assigned label. Some communities have a project life cycle for example: proposal, incubaton, active, deprecated, end of life (Source: [Hyperledger](https://wiki.hyperledger.org/community/project-lifecycle)).|
