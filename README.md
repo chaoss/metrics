@@ -14,7 +14,7 @@ Work on comparing metrics tools is led by Jason Clark in his repository: [CHAOSS
 
 # How to Contribute and Participate to the CHAOSS Project
 
-Work on metrics is currently centered around the categories of [Diversity-Inclusion](1_Diversity-Inclusion.md), [Growth-Maturity-Decline](2_Growth-Maturity-Decline.md), [Risk](3_Risk.md), and [Value](5_Value.md).
+Work on metrics is centered on the categories of [Diversity-Inclusion](1_Diversity-Inclusion.md), [Growth-Maturity-Decline](2_Growth-Maturity-Decline.md), [Risk](3_Risk.md), and [Value](5_Value.md).
 
 - If you'd like to **contribute** to the metrics, please visit: https://github.com/chaoss/governance/CONTRIBUTING.md
 - If you'd like to **participate** in the community conversations, please visit: https://chaoss.community/participate/
