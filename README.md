@@ -4,7 +4,7 @@ Welcome to the repository of the CHAOSS Metrics Committee. The CHAOSS Metrics Co
 
 For more information go to our website at: https://chaoss.community/
 
-# Current Goals of the CHAOSS Metrics Committee
+# Goals of the CHAOSS Metrics Committee
 
 (1) Developing metric categories and related activity metrics: [CHAOSS Metrics](https://github.com/chaoss/metrics). The metric categories are based on the work of community members who have participated at CHAOSS events, worked in the repo, and discussed through on email. We are capturing the metrics that people find meaningful to their particular contexts when understanding project health and sustatinability. Our goal is to represent metrics, irrespective of how they might be implemented, and document them for others to consider. This also includes working with the CHAOSS software community to put these metrics into practice. 
 
@@ -23,6 +23,6 @@ Work on metrics is centered on the categories of [Diversity-Inclusion](1_Diversi
 - If you'd like to **contribute** to the metrics, please visit: https://github.com/chaoss/governance/CONTRIBUTING.md
 - If you'd like to **participate** in the community conversations, please visit: https://chaoss.community/participate/
 
-## License
+# License
 
 All contributions to implementation-agnostic metrics and standards, including associated scripts, SQL statements, and documentation, will be received and made available under the MIT License (https://opensource.org/licenses/MIT).
