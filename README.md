@@ -11,7 +11,13 @@ Work on metrics is currently centered around the categories of [Diversity-Inclus
 - If you'd like to **contribute** to the metrics, please visit: https://github.com/chaoss/governance/CONTRIBUTING.md
 - If you'd like to **participate** in the community conversations, please visit: https://chaoss.community/participate/
 
+# Current CHAOSS Goals
+
 Work on comparing metrics tools is led by Jason Clark in his repository: [CHAOSS Product Comparison](https://github.com/jasontclark/chaoss-product-comparison).
+
+# Structure of the Metrics Repository
+
+<<image here>>
 
 ## License
 
