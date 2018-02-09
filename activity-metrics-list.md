@@ -27,6 +27,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Decision Distribution|Central vs. distributed decision making. Governance model, scalability of community|
 |Dependency Depth|Number of projects included in code base + number of projects relying on focal project (recursive). Indicator about centrality in open source Dependency network|
 |Distribution of Work|How much recent activity is distributed?|
+|Downloads of Non-software Artifacts|Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc.)|
 |[Forks](activity-metrics/forks.md)|Number of forks|
 |Gatherings|Number of face-to-face/in-person meetings per year. Resets contentious issues; Resolve tensions; Avoid longstanding grudges|
 | Installs | Number of software installations of the project |
