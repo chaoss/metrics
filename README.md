@@ -6,11 +6,10 @@ For more information go to our website at: https://chaoss.community/
 
 # How to Contribute and Participate
 
-Work on metrics is currently centered around [Diversity-Inclusion](1_Diversity-Inclusion.md), [Growth-Maturity-Decline](2_Growth-Maturity-Decline.md), [Risk](3_Risk.md), and [Value](5_Value.md).
+Work on metrics is currently centered around the categories of [Diversity-Inclusion](1_Diversity-Inclusion.md), [Growth-Maturity-Decline](2_Growth-Maturity-Decline.md), [Risk](3_Risk.md), and [Value](5_Value.md).
 
-If you'd like to *contribute* to the metrics, please visit: https://github.com/chaoss/governance/CONTRIBUTING.md
-
-If you'd like to *participate* in the community conversations, please visit: https://chaoss.community/participate/
+- If you'd like to **contribute** to the metrics, please visit: https://github.com/chaoss/governance/CONTRIBUTING.md
+- If you'd like to **participate** in the community conversations, please visit: https://chaoss.community/participate/
 
 Work on comparing metrics tools is led by Jason Clark in his repository: [CHAOSS Product Comparison](https://github.com/jasontclark/chaoss-product-comparison).
 
