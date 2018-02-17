@@ -32,12 +32,15 @@ We list and describe activity metrics. For different situations, the metrics hav
 |[Contributor Breadth](activity-metrics/contributor-breadth.md)|Ratio of non-core committers (drive-by committers). Can indicate openess to outsiders|
 |Contributor Demographics | Gender, age, location, education, and skills over time|
 |[Contributor Diversity](activity-metrics/contributor-diversity.md)| Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
+|Contributor Importance|Percentage of commits by individual contributors from identified organizations over time.|
 |Contributor Seniority|For each active contributor, time since first contribution. Experienced contributors can provide value to the community, since they carry with them (in part) the history of the project.|
 |[Contributors](activity-metrics/contributors.md)|Number of contributors|
+|Copyright Declaration|The degree to which the project properly declares copyright ownership, including the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement.|
 |Decision Distribution|Central vs. distributed decision making. Governance model, scalability of community|
 |Dependency Depth|Number of projects included in code base + number of projects relying on focal project (recursive). Indicator about centrality in open source Dependency network|
 |Distribution of Work|How much recent activity is distributed?|
 |Downloads of Non-software Artifacts|Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc.)|
+|File License Declarations|A list of license declarations on the software package files.|
 |[Forks](activity-metrics/forks.md)|Number of forks|
 |Gatherings|Number of face-to-face/in-person meetings per year. Resets contentious issues; Resolve tensions; Avoid longstanding grudges|
 |Installs|Number of software installations of the project|
@@ -53,6 +56,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |License Count|Number of licenses|
 |License Coverage|Number of files with a file notice (copyright notice + license notice)|
 |License Declared|What license does the project declare|
+|License Identification Methods|A list of methods or tools used for identifying licenses in files.|
 |Maintainer Promotion|Last time a maintainer was added|
 |New Contributions|Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time|
 |New Contributor Organizations|New organizations contributing to the project over time|
@@ -64,6 +68,8 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Number of Reviews|Total number of code reviews.|
 |Onion Layers|Distance between onion model layers (users, contributors, committers, and steering committee). Rule of thumb: factor of 10x between layers. (OSLS'17 Node.js keynote)|
 |Open Issues|Total number of open issues.|
+|Package License Declaration|A list of license declarations on the software package.|
+|Paid Developers|Number of paid developers in community over time.|
 |Path to Leadership|A communicated path from lurker to contributor to maintainer. (or. track members: time from user to maintainer/leader). If active contributors are not included in leadership decisions they might lose interest and leave. (Focus on least likely contributor)|
 |Path to Maintainership|Path to maintainership published|
 |Project Life Cycle|Community assigned label. Some communities have a project life cycle for example: proposal, incubaton, active, deprecated, end of life (Source: [Hyperledger](https://wiki.hyperledger.org/community/project-lifecycle)).|
@@ -76,6 +82,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request|
 |[Pull Request made/closed](activity-metrics/pull-requests-made-closed.md)|Pull requests made vs. pull requests closed [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap). Encompasses number of pull requests rejected|
 |[Pull Requests Open](activity-metrics/pull-requests-open.md)|Number of open pull requests. Perhaps more telling than total pull requests|
+|Qualified Committers|Contributions over time and what components they commit to over time.|
 |Relative Activity| Sum up the activities (GH issues+comments, GH pull requests+comments and GH commits) for the project members and for the non-project members, then  create a ratio of the two. Compare the activity between committers-as-a-group and contributors-as-a-group. It easily shows when a project is not yet popular, or when a project is not paying attention to its users. I also feel that a balance between the two groups is essential; ie) a project with a lot more contributor than committer activity is one that is failing to recruit committers quickly enough|
 |Release Maturity|Ratio of major and minor releases|
 |Release Note Completeness|Number of functionality changes and bug fixes represented in release notes vs. release. Good for users, also shows diligence of community|
@@ -105,6 +112,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Update Rate|Number of updates over period x|
 |Update Regularity|How consistently and frequently are updates provided|
 |Use of Acronym|Frequency of acronyms used. Specialized language can be a barrier for new contributors|
+|User Dependency|Number of users who are aware that they depend on the software over time.|
 |User Groups|Number of user groups that perform a variety of crucial marketing, service support, and business-development functions at the grassroots level\\ (Bagozzi & Dholakia, 2006)|
 |[Watchers](activity-metrics/watchers.md)|Number of watchers (GitHub)|
 |YouTube Videos|Number of Youtube videos that mention or specifically deal with the project (e.g. tutorials)
