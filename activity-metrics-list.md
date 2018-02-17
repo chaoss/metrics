@@ -11,11 +11,16 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Apache Maturity Model| The [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) provides guidelines for assessing the maturity of a project|
 |Availability of Add-on Products|Availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software|
 |Blogposts|Number of blogposts that mention the project|
+|Average Time of First Maintainer Response to Code Merge Request|The average amount of time it takes for a maintainer to make the first response to a code merge request.|
+|Average Time of First Response to Issue|The average amount of time it takes for the first response to an issue.|
+|Average Time of Open Issues|The average amount of time open issues have remained open.|
+|Average Issue Resolution Time|The average amount of time it takes for issues to be closed.|
 |Bug Age|Age of known bugs in issue tracker. Use label for determining bugs?|
 |Bugs after Release|Number of bugs reported after a release|
 |Bus Factor|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
 |Change in Maintainer Number|Number of maintainers added/removed over time|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
+|Closed issues|Total number of closed issues.|
 |Code Modularity|Modular code allows parallel development, which Linus Torvalds drove for Linux (OSLS Torvalds). (Baldwin & Clark, 2006)|
 |Commercial Offerings|Availability of commercial products or services based on the project|
 |Commit Bias|Acceptance rate (and time to acceptance) differences per gender, ethnicity, and relevant diversity characteristics|
@@ -54,11 +59,19 @@ We list and describe activity metrics. For different situations, the metrics hav
 |New Contributors* vs Maintainers**|Ratio of new contributors to maintainers over time|
 |Non-Source Contributions|Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc...|
 |Number of Active Users|Number of active users of the project|
+|Number of Commits|Total number of commits.|
 |Number of Contributing Organizations|Number of organizations participating in the project over time|
+|Number of Reviews|Total number of code reviews.|
 |Onion Layers|Distance between onion model layers (users, contributors, committers, and steering committee). Rule of thumb: factor of 10x between layers. (OSLS'17 Node.js keynote)|
+|Open Issues|Total number of open issues.|
 |Path to Leadership|A communicated path from lurker to contributor to maintainer. (or. track members: time from user to maintainer/leader). If active contributors are not included in leadership decisions they might lose interest and leave. (Focus on least likely contributor)|
 |Path to Maintainership|Path to maintainership published|
 |Project Life Cycle|Community assigned label. Some communities have a project life cycle for example: proposal, incubaton, active, deprecated, end of life (Source: [Hyperledger](https://wiki.hyperledger.org/community/project-lifecycle)).|
+|Percentile Distribution of First Maintainer Response to Code Merge Request|The proportional frequency of time it takes for a maintainer to make the first response to a code merge request.|
+|Percentile Distribution of First Response Time|The proportional frequency of time it takes for the first response to an issue.|
+|Percentile Distribution of Issue Resolution Time|Proportional frequency of closed issue time duration.|
+|Percentile Distribution of Open Issue Time|Proportional frequency of open issue time duration.|
+|Percentile Distribution of Time to Merge Code|Proportional frequency of code merge to upstream time duration.|
 |[Pull Request Comments](activity-metrics/pull-request-comments.md)|Number of comments per pull request|
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request|
 |[Pull Request made/closed](activity-metrics/pull-requests-made-closed.md)|Pull requests made vs. pull requests closed [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap). Encompasses number of pull requests rejected|
@@ -67,9 +80,11 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Release Maturity|Ratio of major and minor releases|
 |Release Note Completeness|Number of functionality changes and bug fixes represented in release notes vs. release. Good for users, also shows diligence of community|
 |Release Velocity|Time between releases. Regular releases are a reliability metric|
-|[Reopened issues](activity-metrics/reopened-issues.md)|Rate of issues closed but discussion continues or issues that were closed and re-opened|
+|[Reopened Issues](activity-metrics/reopened-issues.md)|Rate of issues closed but discussion continues or issues that were closed and re-opened|
 |[Repository Size](activity-metrics/repository-size.md)|Overall size of the repository or number of commits|
 |Retrospectives|Existence of after release meetings. Collect lessons learned, improve processes, recognize contributors|
+|Resolution Efficiency|Number of closed issues / number of abandoned issues.|
+|Review Efficiency|Number of merged patches / number of abandoned patches over a set period of time.|
 |Rewards|Rewards, shout-outs, recognition, and mentions in pull-requests or change logs - might improve contribution levels|
 |Roadmap|Existence and quality of roadmap. Best practice as community engagement and scalability (might not be automatically computable)|
 |Role Definitions|Existence and quality of role definitions. Governance related. Relates to "Path to Leadership"|
@@ -79,6 +94,11 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Stars|Number of stars (GitHub)|
 |Test Coverage|Percentage of codebase covered by developer tests|
 |Time to Contributor|Time to becoming a contributor|
+|Total Contributing Organizations|The total number of organizations contributing over time.|
+|Total Contributors|The total number of contributors over time on any platform.|
+|Total New Contributing Organizations|The total number of new organizations contributing over time.|
+|Total New Contributors|The total number of new contributors over time on any platform.|
+|Total (Sub-)Projects|The total number of (sub)projects over time.|
 |[Transparency](activity-metrics/transparency.md)|Number of comments per issue. Discussion is occuring openly - could also indicate level of agreement|
 |Unity|Rivalry or unity of community (sentiment analysis)|
 |Update Age|Time since last update|
