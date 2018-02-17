@@ -5,6 +5,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 
 |Name|Description|
 |---|---|
+|Accepted Code Contributions|Percentage of new contributor code versus total code over time|
 |Age of Community|Time since repository/organization was registered; or time since first release. "Results showed that the age of the project played a marginally significant role in attracting active users, but not developers. We attribute this differential effect of age on users and developers to the fact that age may be seen as an indicator of application maturity by users, and hence taken as a positive signal, whereas it may convey more ambiguous signals to developers." (Chengalur-Smith et al., 2010, p.674) (Grewal, Lilien, & Mallapragada, 2006)|
 |All Licenses|List of licenses|
 |Apache Maturity Model| The [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) provides guidelines for assessing the maturity of a project|
@@ -13,6 +14,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Bug Age|Age of known bugs in issue tracker. Use label for determining bugs?|
 |Bugs after Release|Number of bugs reported after a release|
 |Bus Factor|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
+|Change in Maintainer Number|Number of maintainers added/removed over time|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
 |Code Modularity|Modular code allows parallel development, which Linus Torvalds drove for Linux (OSLS Torvalds). (Baldwin & Clark, 2006)|
 |Commercial Offerings|Availability of commercial products or services based on the project|
@@ -23,6 +25,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |[Contribution Diversity](activity-metrics/contribution-diversity.md)|Ratio of code committed by contributors other than original project initiator. Contributions going up beyond the core team|
 |Contributor Activity|Activity level of individual contributors|
 |[Contributor Breadth](activity-metrics/contributor-breadth.md)|Ratio of non-core committers (drive-by committers). Can indicate openess to outsiders|
+|Contributor Demographics | Gender, age, location, education, and skills over time|
 |[Contributor Diversity](activity-metrics/contributor-diversity.md)| Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
 |Contributor Seniority|For each active contributor, time since first contribution. Experienced contributors can provide value to the community, since they carry with them (in part) the history of the project.|
 |[Contributors](activity-metrics/contributors.md)|Number of contributors|
@@ -40,14 +43,21 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Job Postings|Number of job postings that mention the project as a preferred or required skill|
 |Known Vulnerabilities|Number of reported vulnerabilities. Could be limited to issue-tracker or extended vulnerability databases (e.g. CVE)|
 |Language Bias|Bias against gender, ethnicity, ... in use of language (maybe use sentiment analysis)|
+|Leadership Demographics|Demographics of project's leadership (e.g. Board, Technical Steering Committee, Maintainers, etc.) over time|
 |License Conflicts|Project containing incompatible licenses|
 |License Count|Number of licenses|
 |License Coverage|Number of files with a file notice (copyright notice + license notice)|
 |License Declared|What license does the project declare|
+|Maintainer Promotion|Last time a maintainer was added|
+|New Contributions|Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time|
+|New Contributor Organizations|New organizations contributing to the project over time|
+|New Contributors* vs Maintainers**|Ratio of new contributors to maintainers over time|
 |Non-Source Contributions|Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc...|
 |Number of Active Users|Number of active users of the project|
+|Number of Contributing Organizations|Number of organizations participating in the project over time|
 |Onion Layers|Distance between onion model layers (users, contributors, committers, and steering committee). Rule of thumb: factor of 10x between layers. (OSLS'17 Node.js keynote)|
 |Path to Leadership|A communicated path from lurker to contributor to maintainer. (or. track members: time from user to maintainer/leader). If active contributors are not included in leadership decisions they might lose interest and leave. (Focus on least likely contributor)|
+|Path to Maintainership|Path to maintainership published|
 |Project Life Cycle|Community assigned label. Some communities have a project life cycle for example: proposal, incubaton, active, deprecated, end of life (Source: [Hyperledger](https://wiki.hyperledger.org/community/project-lifecycle)).|
 |[Pull Request Comments](activity-metrics/pull-request-comments.md)|Number of comments per pull request|
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request|
