@@ -35,6 +35,9 @@ An example implementation, for example a SQL or Elasticsearch query.
 ## 6. Known Implementations
 Examples of where and how metric is used. (include links to dashboard or location where metric is visible or is talked about having been used).
 
-## 7. External References (Literature)
+## 7. Test Cases
+Sample inputs (including contexts) and expected outputs for this metric. Implementers can test their implementations against these test cases.
+
+## 8. External References (Literature)
 Blog posts, websites, academic papers, or books that mention the metric.
 ```
