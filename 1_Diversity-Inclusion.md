@@ -2,16 +2,16 @@
 
 Activity Metric | Description
 --- | ---
-New Contributors* vs Maintainers** | Ratio of new contributors to maintainers over time
-Contributor Demographics | Gender, age, location, education, and skills over time
-Leadership Demographics | Demographics of project's leadership (e.g. Board, Technical Steering Committee, Maintainers, etc.) over time
-New Contributor Organizations | New organizations contributing to the project over time
-Number of Contributing Organizations | Number of organizations participating in the project over time
-New Contributions | Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time
-Accepted Code Contributions | Percentage of new contributor code versus total code over time
-Path to Maintainership | Path to maintainership published
-Maintainer Promotion | Last time a maintainer was added
-Change in Maintainer Number | Number of maintainers added/removed over time
+New Contributors* vs Maintainers** | Ratio of new contributors to maintainers over time.
+Contributor Demographics | Gender, age, location, education, and skills over time.
+Leadership Demographics | Demographics of project's leadership (e.g. Board, Technical Steering Committee, Maintainers, etc.) over time.
+New Contributor Organizations | New organizations contributing to the project over time.
+Number of Contributing Organizations | Number of organizations participating in the project over time.
+New Contributions | Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time.
+Accepted Code Contributions | Percentage of new contributor code versus total code over time.
+Path to Maintainership | Path to maintainership published.
+Maintainer Promotion | Last time a maintainer was added.
+Change in Maintainer Number | Number of maintainers added/removed over time.
 
 *Contributor = Anyone who provides a patch, pull request, wiki change, or other contribution.
 **Maintainer = Contributor who has commit rights to the main branch and can merge contributions from others.
