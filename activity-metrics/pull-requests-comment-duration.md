@@ -1,4 +1,3 @@
-```markdown
 # Pull Request Comment Duration
 
 ## 1. Description
@@ -44,6 +43,8 @@ ORDER BY
 ## 6. Known Implementations
 GHData
 
-## 7. External References (Literature)
+## 7. Test Cases (Examples)
 None to date.
-```
+
+## 8. External References (Literature)
+None to date.
