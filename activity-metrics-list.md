@@ -40,6 +40,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Dependency Depth|Number of projects included in code base + number of projects relying on focal project (recursive). Indicator about centrality in open source Dependency network.|
 |Distribution of Work|How much recent activity is distributed?|
 |Downloads of Non-software Artifacts|Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc.).|
+|Elephant Factor|If 50% of community members are employed by the same company, it is the elephant in the room. Formally: The minimum number of companies whose employees perform 50% of the commits|
 |File License Declarations|A list of license declarations on the software package files.|
 |[Forks](activity-metrics/forks.md)|Number of forks.|
 |Gatherings|Number of face-to-face/in-person meetings per year. Resets contentious issues; Resolve tensions; Avoid longstanding grudges.|
@@ -78,6 +79,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Percentile Distribution of Issue Resolution Time|Proportional frequency of closed issue time duration.|
 |Percentile Distribution of Open Issue Time|Proportional frequency of open issue time duration.|
 |Percentile Distribution of Time to Merge Code|Proportional frequency of code merge to upstream time duration.|
+|Pony Factor|The minimum number of developers performing 50% of the commits. [The Math](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/)|
 |[Pull Request Comments](activity-metrics/pull-request-comments.md)|Number of comments per pull request.|
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request.|
 |[Pull Request made/closed](activity-metrics/pull-requests-made-closed.md)|Pull requests made vs. pull requests closed [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap). Encompasses number of pull requests rejected.|
@@ -115,6 +117,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |User Dependency|Number of users who are aware that they depend on the software over time.|
 |User Groups|Number of user groups that perform a variety of crucial marketing, service support, and business-development functions at the grassroots level\\ (Bagozzi & Dholakia, 2006)|
 |V-index|An index of project's first-order and second-order downstream dependencies. For example: if a project has 15 downstream dependencies and those downstream projects have 15 downstream dependencies of their own, the V-index is 15.|
+|Velocity|A graph where bubbles’ area is proportional to the number of authors, the y-axis (height) is the total number of pull requests & issues, and the x-axis is the number of commits. [Example](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)|
 |[Watchers](activity-metrics/watchers.md)|Number of watchers (GitHub).|
 |YouTube Videos|Number of Youtube videos that mention or specifically deal with the project (e.g. tutorials).|
 
