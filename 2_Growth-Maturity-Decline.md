@@ -1,10 +1,10 @@
 # Category: Growth-Maturity-Decline
 
-Goal: Describe the overall goal of the category here
+Goal: Describe category and the overall goal of the category
 
 ## Issue Resolution
 
-Goal: Describe the goal of this sub-category here
+Goal: Describe the goal of the sub-category
 
 Name | Question
 --- | ---
@@ -22,7 +22,7 @@ Distribution of First Response to Issue Duration | Proportional frequency of tim
 
 ## Code Development
 
-Goal: Describe the goal of this sub-category here
+Goal: Describe the goal of the sub-category here
 
 Name | Question
 --- | ---
@@ -40,7 +40,7 @@ Percentile Distribution of First Maintainer Response to Code Merge Request | Fre
 
 ## Community Growth
 
-Goal: Describe the goal of this sub-category here
+Goal: Describe the goal of the sub-category here
 
 Name | Quesiton
 --- | ---
