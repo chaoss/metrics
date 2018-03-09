@@ -16,6 +16,9 @@ First Response to Issue Duration | What is the duration of time for a first resp
 Closed Issue Resolution Duration | What is the duration of time for issues to be resolved?
 
 To be Moved to Detail Document (Filters and Visualizations): 
+
+Name | Filter and Visualization
+--- | ---
 Distribution of Open Issue Age | Frequency histogram of open issue time duration.
 Distribution of Issue Resolution Duration | Frequency histogram of closed issue time duration.
 Distribution of First Response to Issue Duration | Proportional frequency of time it takes for the first response to an issue.
@@ -35,6 +38,9 @@ Maintainer Response to Merge Request Duration | What is the duration of time for
 Code Review Iteration | What is the number of iterations that occur before a merge request is accepted or declined? 
 
 To be Moved to Detail Document (Filters and Visualizations):
+
+Name | Filter and Visualization
+--- | ---
 Percentile Distribution of Time to Merge Code | Frequency of code merge to upstream time duration.
 Percentile Distribution of First Maintainer Response to Code Merge Request | Frequency of time it takes for a maintainer to make the first response to a code merge request.
 
