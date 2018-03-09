@@ -81,6 +81,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Percentile Distribution of Time to Merge Code|Proportional frequency of code merge to upstream time duration.|
 |Pony Factor|The minimum number of developers performing 50% of the commits. [The Math](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/)|
 |[Pull Request Comments](activity-metrics/pull-request-comments.md)|Number of comments per pull request.|
+|[Pull Request Comment Duration](activity-metrics/pull-requests-comment-duration.md)|The difference between the timestamp of the pull request creation date and the most recent comment on the pull request.|
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request.|
 |[Pull Request made/closed](activity-metrics/pull-requests-made-closed.md)|Pull requests made vs. pull requests closed [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap). Encompasses number of pull requests rejected.|
 |[Pull Requests Open](activity-metrics/pull-requests-open.md)|Number of open pull requests. Perhaps more telling than total pull requests.|
