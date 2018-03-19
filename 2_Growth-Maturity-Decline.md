@@ -1,6 +1,6 @@
 # Category: Growth-Maturity-Decline
 
-Goal: Identify if the activity of an open source community is growing or declining and the level of maturity the project has reached.
+Goal: Identify if the level of maturity the project has reached and whether it is growing or declining.
 
 ## Issue Resolution
 
