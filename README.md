@@ -20,7 +20,7 @@ For more information go to our website at: https://chaoss.community/
 
 Work on metrics is centered on the categories of [Diversity-Inclusion](1_Diversity-Inclusion.md), [Growth-Maturity-Decline](2_Growth-Maturity-Decline.md), [Risk](3_Risk.md), and [Value](4_Value.md).
 
-- If you'd like to **contribute** to the metrics, please visit: https://github.com/chaoss/governance/CONTRIBUTING.md
+- If you'd like to **contribute** to the metrics, please visit: [CONTRIBUTING.md](.github/CONTRIBUTING.md)
 - If you'd like to **participate** in the community conversations, please visit: https://chaoss.community/participate/
 
 # License
