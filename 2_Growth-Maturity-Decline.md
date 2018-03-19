@@ -1,10 +1,10 @@
 # Category: Growth-Maturity-Decline
 
-Goal: Describe category and the overall goal of the category
+Goal: Identify if the activity of an open source community is growing or declining and the level of maturity the project has reached.
 
 ## Issue Resolution
 
-Goal: Describe the goal of the sub-category
+Goal: Identify how effective the community is at addressing issues identified by community partcipants.
 
 Name | Question
 --- | ---
@@ -25,7 +25,7 @@ Distribution of First Response to Issue Duration | Proportional frequency of tim
 
 ## Code Development
 
-Goal: Describe the goal of the sub-category here
+Goal: Identify how effective the community is at merging new code into the codebase.
 
 Name | Question
 --- | ---
@@ -46,7 +46,7 @@ Percentile Distribution of First Maintainer Response to Code Merge Request | Fre
 
 ## Community Growth
 
-Goal: Describe the goal of the sub-category here
+Goal: Identify the size of the project community and whether it's growing, shrinking, or staying the same.
 
 Name | Quesiton
 --- | ---
