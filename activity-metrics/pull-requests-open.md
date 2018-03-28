@@ -7,7 +7,7 @@ Might be more telling than total pull requests
 
 ## 2. Use Cases
 
-## 3. Sample Visualization
+## 3. Sample Filter and Visualization
 
 ## 4. Sample Implementation
 

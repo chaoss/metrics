@@ -8,7 +8,7 @@ Below queries are using users with commit rights, not maintainer.
 
 ## 2. Use Cases
 
-## 3. Sample Visualization
+## 3. Sample Filter and Visualization
 
 ## 4. Example Implementation
 ### GHTorrent: Average days an issue tagged with 'bug' exists until a project member comments (all projects)

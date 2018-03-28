@@ -26,8 +26,8 @@ Provide examples of how the metric might inform different stakeholders through u
 ## 3. Formula
 A generic formula (in pseudo code) to generate the metric.
 
-## 4. Sample Visualization
-Include a sample visualization (screenshot) of the metric from any implementation.
+## 4. Sample Filter and Visualization
+Include a Sample Filter and Visualization (screenshot) of the metric from any implementation.
 
 ## 5. Sample Implementation
 An example implementation, for example a SQL or Elasticsearch query.
