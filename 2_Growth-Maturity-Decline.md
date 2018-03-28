@@ -15,14 +15,6 @@ Open Issue Age | What is the the age of open issues?
 First Response to Issue Duration | What is the duration of time for a first response to an issue?
 Closed Issue Resolution Duration | What is the duration of time for issues to be resolved?
 
-To be Moved to Detail Document (Filters and Visualizations): 
-
-Name | Filter and Visualization
---- | ---
-Distribution of Open Issue Age | Frequency histogram of open issue time duration.
-Distribution of Issue Resolution Duration | Frequency histogram of closed issue time duration.
-Distribution of First Response to Issue Duration | Proportional frequency of time it takes for the first response to an issue.
-
 ## Code Development
 
 Goal: Identify how effective the community is at merging new code into the codebase.
@@ -36,13 +28,6 @@ Code Merge Duration | What is the duration of time between code merge request an
 Code Review Efficiency | What is the number of merged code changes/number of abandoned code change requests?
 Maintainer Response to Merge Request Duration | What is the duration of time for a maintainer to make a first response to a code merge request?
 Code Review Iteration | What is the number of iterations that occur before a merge request is accepted or declined? 
-
-To be Moved to Detail Document (Filters and Visualizations):
-
-Name | Filter and Visualization
---- | ---
-Percentile Distribution of Time to Merge Code | Frequency of code merge to upstream time duration.
-Percentile Distribution of First Maintainer Response to Code Merge Request | Frequency of time it takes for a maintainer to make the first response to a code merge request.
 
 ## Community Growth
 
