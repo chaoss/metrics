@@ -9,7 +9,7 @@ To understand the dynamics of pull request discussion I want to know how long th
 ## 3. Formula
 max(pull_request)comment.created_at) - pull_request.created_at
 
-## 4. Sample Visualization
+## 4. Sample Filter and Visualization
 not implemented yet.
 
 ## 5. Sample Implementation

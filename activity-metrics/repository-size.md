@@ -4,7 +4,7 @@ Overall size of the repository or number of commits
 
 ## 2. Use Cases
 
-## 3. Sample Visualization
+## 3. Sample Filter and Visualization
 
 ## 4. Sample Implementation
 ###  GHTorrent: Total number of commits per project:
