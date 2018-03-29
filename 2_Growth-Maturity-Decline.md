@@ -1,47 +1,54 @@
-# Metric: Growth-Maturity-Decline
+# Category: Growth-Maturity-Decline
+
+Goal: Identify if the level of maturity the project has reached and whether it is growing or declining.
 
 ## Issue Resolution
-Activity Metric | Description
+
+Goal: Identify how effective the community is at addressing issues identified by community partcipants.
+
+Name | Question
 --- | ---
-Open Issues | Total number of open issues.
-Closed Issues | Total number of closed issues.
-Resolution Efficiency | Number of closed issues / number of abandoned issues.
-Average Time of Open Issues | The average amount of time open issues have remained open.
-Percentile Distribution of Open Issue Time | Proportional frequency of open issue time duration.
-Average Issue Resolution Time | The average amount of time it takes for issues to be closed.
-Percentile Distribution of Issue Resolution Time | Proportional frequency of closed issue time duration.
-Average Time of First Response to Issue | The average amount of time it takes for the first response to an issue.
-Percentile Distribution of First Response Time | The proportional frequency of time it takes for the first response to an issue.
+Open Issues | What is the number of open issues? 
+Closed Issues | What is the number of closed issues? 
+Issue Resolution Efficiency | What is the number of closed issues/number of abandoned issues? 
+Open Issue Age | What is the the age of open issues? 
+First Response to Issue Duration | What is the duration of time for a first response to an issue?
+Closed Issue Resolution Duration | What is the duration of time for issues to be resolved?
 
 ## Code Development
-Activity Metric | Description
+
+Goal: Identify how effective the community is at merging new code into the codebase.
+
+Name | Question
 --- | ---
-Number of Commits | Total number of commits.
-Number of Lines Changed | Total number of lines of code that have been changed.
-Number of Reviews | Total number of code reviews.
-Average time to merge code | The average amount of time difference between code author and commit dates.
-Percentile Distribution of Time to Merge Code | Proportional frequency of code merge to upstream time duration.
-Review Efficiency | Number of merged patches / number of abandoned patches over a set period of time.
-Average Time of First Maintainer Response to Code Merge Request | The average amount of time it takes for a maintainer to make the first response to a code merge request.
-Percentile Distribution of First Maintainer Response to Code Merge Request | The proportional frequency of time it takes for a maintainer to make the first response to a code merge request.
+Code Commits | What is the number of code commits? 
+Lines of Code Changed | What is the number of lines of code changed?
+Code Reviews | What is the number of code reviews?
+Code Merge Duration | What is the duration of time between code merge request and code commit?
+Code Review Efficiency | What is the number of merged code changes/number of abandoned code change requests?
+Maintainer Response to Merge Request Duration | What is the duration of time for a maintainer to make a first response to a code merge request?
+Code Review Iteration | What is the number of iterations that occur before a merge request is accepted or declined? 
 
 ## Community Growth
-Activity Metric | Description
+
+Goal: Identify the size of the project community and whether it's growing, shrinking, or staying the same.
+
+Name | Quesiton
 --- | ---
-Total Contributors | The total number of contributors over time on any platform.
-Total New Contributors | The total number of new contributors over time on any platform.
-Total Contributing Organizations | The total number of organizations contributing over time.
-Total New Contributing Organizations | The total number of new organizations contributing over time.
-Total (Sub-)Projects | The total number of (sub)projects over time.
+Contributors | What is the number of contributors?
+New Contributors | What is the number of new contributors?
+Contributing Organizations | What is the number of contributing organizations? 
+New Contributing Organizations | What is the number of new contributing organizations?
+Sub-Projects | What is the number of sub-projects?
 
 **Disclaimer:**
-The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Growth-Maturity-Decline.
+The name/question pairs listed are not meant to represent a fully comprehensive list. It is expected that this list will evolve as people have insights and thoughts about the name/question pairs that comprise Growth-Maturity-Decline.
 
 **Tooling:**
-The activity metrics are intended to be a starting point for community health related tooling. It is expected that the activity metrics will evolve based on the ability (or inability) of tooling to successfully implement the activity metrics.
+The name/question pairs are intended to be a starting point for CHAOSS-related software. It is expected that this list will evolve based on the ability (or inability) of software to successfully implement the specific name/question pairs.
 
 **Background:**
-The activity metrics have been identified based on workshops at the Open Source Leadership and the Open Source Summit North America. In addition, the activity metrics are based on active CHAOSS mailing list conversations. The activity metrics listed here are the result of compiling the discussions to data. We thank everyone who participated.
+The name/question pairs have been identified based CHAOSS-related outreach activities. We thank everyone who participated.
 
 **How to contribute:**
 - To advance the document, fork the repo, make your changes, create a pull request see [CONTRIBUTING.md][contrib]
