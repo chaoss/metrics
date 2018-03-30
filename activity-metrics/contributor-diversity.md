@@ -10,7 +10,7 @@ Another option for contributor diversity is percentage of the repository written
 
 ## 2. Use Cases
 
-## 3. Sample Visualization
+## 3. Sample Filter and Visualization
 
 ## 4. Sample Implementations
 

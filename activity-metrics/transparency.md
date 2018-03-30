@@ -6,7 +6,7 @@ Discussion is occuring openly - could also indicate level of agreement.
 
 ## 2. Use Cases
 
-## 3. Sample Visualization
+## 3. Sample Filter and Visualization
 
 ## 4. Sample Implementation
 

@@ -5,7 +5,7 @@ Number of forks
 
 ## 2. Use Cases
 
-## 3. Visualization
+## 3. Sample Filter and Visualization
 
 ## 4. Sample Implementation
 ### GHTorrent: Number of direct forks for each project that is not itself a fork (does not take into account forks of forks)
