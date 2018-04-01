@@ -42,6 +42,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Downloads of Non-software Artifacts|Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc.).|
 |Elephant Factor|If 50% of community members are employed by the same company, it is the elephant in the room. Formally: The minimum number of companies whose employees perform 50% of the commits|
 |File License Declarations|A list of license declarations on the software package files.|
+|[Followers](activity-metrics/followers.md)|Number of followers (GitHub).|
 |[Forks](activity-metrics/forks.md)|Number of forks.|
 |Gatherings|Number of face-to-face/in-person meetings per year. Resets contentious issues; Resolve tensions; Avoid longstanding grudges.|
 |Installs|Number of software installations of the project.|
