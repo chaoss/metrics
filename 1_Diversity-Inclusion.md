@@ -22,7 +22,7 @@ Contributing Organizations | What is the number of and who are the organizations
 Contributions per Organization | What is the number of contributions from each organization?
 Contributors per Organization | What is the number of individual contributors from each organization?
 Maintainers per Organization | What is the ratio and number of maintainers from each organization?
-Maintainer Organizational Representation | What is the number of organizations represented by maintainers.
+Maintainer Organizational Representation | What is the number of organizations represented by maintainers?
 Maintainer Commit Organizational Diversity | What is the number of commits a maintainer makes for contributors from each organization?
 
 ## Inclusion
