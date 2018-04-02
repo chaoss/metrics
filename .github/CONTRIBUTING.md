@@ -1,27 +1,16 @@
 # How to Contribute
 
-We love pull requests from everyone.
+See the CHAOSS [CONTRIBUTING.md][contrib] for details.
 
-Fork, then clone the repo:
+[contrib]: https://github.com/chaoss/governance/blob/master/CONTRIBUTING.md
 
-    git clone git@github.com:your-username/metrics.git
+## How to become a repository maintainer
+Maintainers are responsible and capable for accepting pull requests.
+We strive to have three maintainers and a new maintainer may replace a current maintainer.
+Current maintainers identify a new maintainer based on engagement in issues, pull-requests, and other community engagement related to this repository.
 
-Make your change and push to your fork. Then, [submit a pull request][pr].
 
-[pr]: https://github.com/thoughtbot/factory_girl_rails/compare/
-
-At this point you're waiting on us. We like to at least comment on pull requests
-within three business days (and, typically, one business day).
-
-Some things that will increase the chance that your pull request is accepted:
-
-* Inform the [mailing list][ml] of your pull request.
-* Use [Markdown][md] (we can fix this for you)
-
-[ml]: https://lists.linuxfoundation.org/pipermail/oss-health-metrics/
-[md]: https://guides.github.com/features/mastering-markdown/#syntax
-
-# Additional Resources
+## Additional Resources
 
 * [CHAOSS Website][chaoss]
 * [CHAOSS Metrics Wiki][wiki]
