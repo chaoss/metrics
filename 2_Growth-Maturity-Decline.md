@@ -11,7 +11,7 @@ Name | Question
 [Open Issues](activity-metrics/open-issues.md) | What is the number of open issues? 
 [Closed Issues](activity-metrics/closed-issues.md) | What is the number of closed issues? 
 [Issue Resolution Efficiency](activity-metrics/issue-resolution-efficiency.md) | What is the number of closed issues/number of abandoned issues? 
-[Open Issue Age](activity-metrics/open-issue) | What is the the age of open issues? 
+[Open Issue Age](activity-metrics/open-issue-age.md) | What is the the age of open issues? 
 [First Response to Issue Duration](activity-metrics/first-response-to-issue-duration.md) | What is the duration of time for a first response to an issue?
 [Closed Issue Resolution Duration](activity-metrics/closed-issue-resolution-duration.md) | What is the duration of time for issues to be resolved?
 
