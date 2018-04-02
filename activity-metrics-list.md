@@ -78,7 +78,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Number of Contributing Organizations|Number of organizations participating in the project over time.|
 |Onion Layers|Distance between onion model layers (users, contributors, committers, and steering committee). Rule of thumb: factor of 10x between layers. (OSLS'17 Node.js keynote).|
 |[Open Issues](activity-metrics/open-issues.md)| What is the number of open issues?|
-|[Open Issue Age](activity-metrics/open-issue) | What is the the age of open issues?|
+|[Open Issue Age](activity-metrics/open-issue-age.md) | What is the the age of open issues?|
 |Package License Declaration|A list of license declarations on the software package.|
 |Paid Developers|Number of paid developers in community over time.|
 |Path to Leadership|A communicated path from lurker to contributor to maintainer. (or. track members: time from user to maintainer/leader). If active contributors are not included in leadership decisions they might lose interest and leave. (Focus on least likely contributor).|
