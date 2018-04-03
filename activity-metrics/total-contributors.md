@@ -9,7 +9,7 @@ The total number of contributors over time on any platform.
 ![Total Contributors visual](https://user-images.githubusercontent.com/22136995/38274804-6583433a-3755-11e8-9871-0de4c300a2ff.png)
 
 ## 4. Sample Implementations
-### Kibble 
+### Kibble - GitHub
 First, it grabs all the committers for one or multiple projects.
 ```
 if not committer_email in people or len(people[committer_email]['name']) < len(commiter_name):
