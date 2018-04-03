@@ -6,6 +6,7 @@ The total number of contributors over time on any platform.
 ## 2. Use Cases
 
 ## 3. Sample Visualization
+### Kibble - GitHub
 ![Total Contributors visual](https://user-images.githubusercontent.com/22136995/38274804-6583433a-3755-11e8-9871-0de4c300a2ff.png)
 
 ## 4. Sample Implementations
