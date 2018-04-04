@@ -37,7 +37,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |[Contribution Diversity](activity-metrics/contribution-diversity.md)|Ratio of code committed by contributors other than original project initiator. Contributions going up beyond the core team.|
 |Contributor Activity|Activity level of individual contributors.|
 |[Contributor Breadth](activity-metrics/contributor-breadth.md)|Ratio of non-core committers (drive-by committers). Can indicate openness to outsiders.|
-|Contributor Demographics | Gender, age, location, education, and skills over time.|
+|[Contributor Demographics](activity-metrics/contributor-demographics.md)| Gender, age, location, education, and skills over time.|
 |[Contributor Diversity](activity-metrics/contributor-diversity.md)| Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
 |Contributor Importance|Percentage of commits by individual contributors from identified organizations over time.|
 |Contributor Seniority|For each active contributor, time since first contribution. Experienced contributors can provide value to the community, since they carry with them (in part) the history of the project.|
@@ -49,6 +49,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Downloads of Non-software Artifacts|Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc.).|
 |Elephant Factor|If 50% of community members are employed by the same company, it is the elephant in the room. Formally: The minimum number of companies whose employees perform 50% of the commits|
 |File License Declarations|A list of license declarations on the software package files.|
+|[Followers](activity-metrics/followers.md)|Number of followers (GitHub).|
 |[Forks](activity-metrics/forks.md)|Number of forks.|
 |Gatherings|Number of face-to-face/in-person meetings per year. Resets contentious issues; Resolve tensions; Avoid longstanding grudges.|
 |Installs|Number of software installations of the project.|
@@ -89,7 +90,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Percentile Distribution of Issue Resolution Time|Proportional frequency of closed issue time duration.|
 |Percentile Distribution of Open Issue Time|Proportional frequency of open issue time duration.|
 |Percentile Distribution of Time to Merge Code|Proportional frequency of code merge to upstream time duration.|
-|Pony Factor|The minimum number of developers performing 50% of the commits. [The Math](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/)|
+|[Pony Factor](activity-metrics/pony-factor.md)|The minimum number of developers performing 50% of the commits. [The Math](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/)|
 |[Pull Request Comments](activity-metrics/pull-request-comments.md)|Number of comments per pull request.|
 |[Pull Request Comment Duration](activity-metrics/pull-requests-comment-duration.md)|The difference between the timestamp of the pull request creation date and the most recent comment on the pull request.|
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request.|
@@ -114,8 +115,8 @@ We list and describe activity metrics. For different situations, the metrics hav
 |[Sub-Projects](activity-metrics/sub-projects.md) | What is the number of sub-projects?|
 |Test Coverage|Percentage of codebase covered by developer tests.|
 |Time to Contributor|Time to becoming a contributor.|
-|Total Contributing Organizations|The total number of organizations contributing over time.|
-|Total Contributors|The total number of contributors over time on any platform.|
+|[Total Contributing Organizations](activity-metrics/total-contributing-organizations.md)|The total number of organizations contributing over time.|
+|[Total Contributors](activity-metrics/total-contributors.md)|The total number of contributors over time on any platform.|
 |Total New Contributing Organizations|The total number of new organizations contributing over time.|
 |Total New Contributors|The total number of new contributors over time on any platform.|
 |Total (Sub-)Projects|The total number of (sub)projects over time.|
