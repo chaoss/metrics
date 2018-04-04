@@ -1,4 +1,4 @@
-# Issues Open
+# Open Issues
 
 ## 1. Description
 Number of open issues

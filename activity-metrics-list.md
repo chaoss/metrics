@@ -20,11 +20,18 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Bus Factor|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
-|Closed issues|Total number of closed issues.|
+|[Closed Issues](activity-metrics/closed-issues.md) | What is the number of closed issues? |
+|[Closed Issue Resolution Duration](activity-metrics/closed-issue-resolution-duration.md) | What is the duration of time for issues to be resolved?|
+|[Code Commits](activity-metrics/code-commits.md)| What is the number of code commits?|
+|[Code Merge Duration](activity-metrics/code-merge-duration.md) | What is the duration of time between code merge request and code commit?|
 |Code Modularity|Modular code allows parallel development, which Linus Torvalds drove for Linux (OSLS Torvalds). (Baldwin & Clark, 2006).|
+|[Code Review Efficiency](activity-metrics/code-review-efficiency.md) | What is the number of merged code changes/number of abandoned code change requests?|
+|[Code Review Iteration](activity-metrics/code-review-iteration.md) | What is the number of iterations that occur before a merge request is accepted or declined?|
+|[Code Reviews](activity-metrics/code-reviews.md) | What is the number of code reviews?|
 |Commercial Offerings|Availability of commercial products or services based on the project.|
 |Commit Bias|Acceptance rate (and time to acceptance) differences per gender, ethnicity, and relevant diversity characteristics.|
 |[Community Activity](activity-metrics/community-activity.md)|Contribution Frequency. Contribution = commit, issue, comment, etc.).|
+|[Contributing Organizations](activity-metrics/contributing-organizations.md) | What is the number of contributing organizations?|
 |[Contribution Acceptance](activity-metrics/contribution-acceptance.md)|Ratio of contributions accepted vs. closed without acceptance.|
 |Contribution Age|Time since last contribution. Contribution = commit, issue, comment, etc.).|
 |[Contribution Diversity](activity-metrics/contribution-diversity.md)|Ratio of code committed by contributors other than original project initiator. Contributions going up beyond the core team.|
@@ -34,7 +41,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |[Contributor Diversity](activity-metrics/contributor-diversity.md)| Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
 |Contributor Importance|Percentage of commits by individual contributors from identified organizations over time.|
 |Contributor Seniority|For each active contributor, time since first contribution. Experienced contributors can provide value to the community, since they carry with them (in part) the history of the project.|
-|[Contributors](activity-metrics/contributors.md)|Number of contributors.|
+|[Contributors](activity-metrics/contributors.md)| What is the number of contributors?|
 |Copyright Declaration|The degree to which the project properly declares copyright ownership, including the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement.|
 |Decision Distribution|Central vs. distributed decision making. Governance model, scalability of community.|
 |Dependency Depth|Number of projects included in code base + number of projects relying on focal project (recursive). Indicator about centrality in open source Dependency network.|
@@ -46,8 +53,8 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Gatherings|Number of face-to-face/in-person meetings per year. Resets contentious issues; Resolve tensions; Avoid longstanding grudges.|
 |Installs|Number of software installations of the project.|
 |[Issue Comments](activity-metrics/issue-comments.md)|Number of comments per issue.|
-|[Issue Response Rate](activity-metrics/issue-response-rate.md)| Time between a new issue is opened and a maintainer responds. Also called: bug response rate. The maintainer is believed to not "pile on" but try to solve an issue.|
-|[Issues Open](activity-metrics/issues-open.md)|Number of open issues.|
+[Issue Resolution Efficiency](activity-metrics/issue-resolution-efficiency.md) | What is the number of closed issues/number of abandoned issues?
+|[First Response to Issue Duration](activity-metrics/first-response-to-issue-duration.md)| Time between a new issue is opened and a maintainer responds. Also called: bug response rate. The maintainer is believed to not "pile on" but try to solve an issue.|
 |[Issues submitted/closed](activity-metrics/issues-submitted-closed.md)|Issues submitted vs. issues closed. [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap).|
 |Job Postings|Number of job postings that mention the project as a preferred or required skill.|
 |Known Vulnerabilities|Number of reported vulnerabilities. Could be limited to issue-tracker or extended vulnerability databases (e.g. CVE).|
@@ -58,17 +65,20 @@ We list and describe activity metrics. For different situations, the metrics hav
 |License Coverage|Number of files with a file notice (copyright notice + license notice).|
 |License Declared|What license does the project declare.|
 |License Identification Methods|A list of methods or tools used for identifying licenses in files.|
+|[Lines of Code Changed](activity-metrics/lines-of-code-changed.md) | What is the number of lines of code changed?|
 |Maintainer Promotion|Last time a maintainer was added.|
+|[Maintainer Response to Merge Request Duration](activity-metrics/maintainer-response-to-merge-request-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?|
+|[New Contributing Organizations](activity-metrics/new-contributing-organizations.md) | What is the number of new contributing organizations?|
 |New Contributions|Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time.|
 |New Contributor Organizations|New organizations contributing to the project over time.|
+|[New Contributors](activity-metrics/new-contributors.md) | What is the number of new contributors?|
 |New Contributors* vs Maintainers**|Ratio of new contributors to maintainers over time.|
 |Non-Source Contributions|Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc...|
 |Number of Active Users|Number of active users of the project.|
-|Number of Commits|Total number of commits.|
 |Number of Contributing Organizations|Number of organizations participating in the project over time.|
-|Number of Reviews|Total number of code reviews.|
 |Onion Layers|Distance between onion model layers (users, contributors, committers, and steering committee). Rule of thumb: factor of 10x between layers. (OSLS'17 Node.js keynote).|
-|Open Issues|Total number of open issues.|
+|[Open Issues](activity-metrics/open-issues.md)| What is the number of open issues?|
+|[Open Issue Age](activity-metrics/open-issue-age.md) | What is the the age of open issues?|
 |Package License Declaration|A list of license declarations on the software package.|
 |Paid Developers|Number of paid developers in community over time.|
 |Path to Leadership|A communicated path from lurker to contributor to maintainer. (or. track members: time from user to maintainer/leader). If active contributors are not included in leadership decisions they might lose interest and leave. (Focus on least likely contributor).|
@@ -93,7 +103,6 @@ We list and describe activity metrics. For different situations, the metrics hav
 |[Reopened Issues](activity-metrics/reopened-issues.md)|Rate of issues closed but discussion continues or issues that were closed and re-opened.|
 |[Repository Size](activity-metrics/repository-size.md)|Overall size of the repository or number of commits.|
 |Retrospectives|Existence of after release meetings. Collect lessons learned, improve processes, recognize contributors.|
-|Resolution Efficiency|Number of closed issues / number of abandoned issues.|
 |Review Efficiency|Number of merged patches / number of abandoned patches over a set period of time.|
 |Rewards|Rewards, shout-outs, recognition, and mentions in pull-requests or change logs - might improve contribution levels.|
 |Roadmap|Existence and quality of roadmap. Best practice as community engagement and scalability (might not be automatically computable).|
@@ -102,6 +111,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Software Downloads|Number of project software downloads. Beware: downloads might be skewed by builders. Used as measure for success (Grewal, Lilien, & Mallapragada, 2006).|
 |Stack Overflow|Several metrics: # of questions asked, response rate, number of responding people that have verified solutions.|
 |Stars|Number of stars (GitHub).|
+|[Sub-Projects](activity-metrics/sub-projects.md) | What is the number of sub-projects?|
 |Test Coverage|Percentage of codebase covered by developer tests.|
 |Time to Contributor|Time to becoming a contributor.|
 |Total Contributing Organizations|The total number of organizations contributing over time.|
