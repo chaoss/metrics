@@ -115,7 +115,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Test Coverage|Percentage of codebase covered by developer tests.|
 |Time to Contributor|Time to becoming a contributor.|
 |Total Contributing Organizations|The total number of organizations contributing over time.|
-|Total Contributors|The total number of contributors over time on any platform.|
+|[Total Contributors](activity-metrics/total-contributors.md)|The total number of contributors over time on any platform.|
 |Total New Contributing Organizations|The total number of new organizations contributing over time.|
 |Total New Contributors|The total number of new contributors over time on any platform.|
 |Total (Sub-)Projects|The total number of (sub)projects over time.|
