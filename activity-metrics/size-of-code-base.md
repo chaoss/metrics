@@ -12,6 +12,34 @@ Lines of code
 ### Git
 [Lines in Repository](https://github.com/OSSHealth/ghdata/blob/master/busFactor/pythonBlameLinesInRepo.py)
 
+###  Kibble: Repos by lines of code:
+
+    query = {
+                'query': {
+                    'bool': {
+                        'must': [
+                            {'terms':
+                                {
+                                    'type': ['git', 'svn', 'github']
+                                }
+                            },
+                            {
+                                'term': {
+                                    'organisation': dOrg
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+    # Source-specific or view-specific??
+    if indata.get('source'):
+        query['query']['bool']['must'].append({'term': {'sourceID': indata.get('source')}})
+    elif viewList:
+        query['query']['bool']['must'].append({'terms': {'sourceID': viewList}})
+
 ## 5. Known Implementations
+
+[Kibble](https://github.com/apache/kibble)
 
 ## 6. External References (Literature)
