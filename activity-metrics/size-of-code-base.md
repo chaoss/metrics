@@ -5,9 +5,9 @@ Lines of code
 
 ## 2. Use Cases
 
-## 3. Sample Filter and Visualization
+## 3. Formula
 
-## 4. Sxample Implementation
+## 4. Sample Filter and Visualization
 
 ### Git
 [Lines in Repository](https://github.com/OSSHealth/ghdata/blob/master/busFactor/pythonBlameLinesInRepo.py)
@@ -38,8 +38,10 @@ Lines of code
     elif viewList:
         query['query']['bool']['must'].append({'terms': {'sourceID': viewList}})
 ```
-## 5. Known Implementations
+## 6. Known Implementations
 
 [Kibble](https://github.com/apache/kibble)
 
-## 6. External References (Literature)
+## 7. Test Cases (Examples)
+
+## 8. External References (Literature)
