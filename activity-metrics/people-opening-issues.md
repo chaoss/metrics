@@ -4,12 +4,15 @@ How many people are opening issues.
 
 ## 2. Use Cases
 
-## 3. Sample Filter and Visualization
+## 3. Formula
 
-## 4. Sample Implementation
+## 4. Sample Filter and Visualization
+
+## 5. Sample Implementation
 
 ###  Kibble: People opening issues this period:
 
+```python
         query = {
                 'query': {
                     'bool': {
@@ -47,9 +50,12 @@ How many people are opening issues.
                 }
             }
         }
-		
-## 5. Known Implementations
+```
+	
+## 6. Known Implementations
 
 [Kibble](https://github.com/apache/kibble)
 
-## 6. External References (Literature)
+## 7. Test Cases (Examples)
+
+## 8. External References (Literature)
