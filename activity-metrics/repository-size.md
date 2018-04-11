@@ -19,7 +19,7 @@ Overall size of the repository or number of commits
 [Lines of Code](https://github.com/OSSHealth/ghdata/blob/dev/busFactor/pythonBlameLinesInRepo.py)
 
 ###  Kibble: Commit trends:
-
+```python
     query = {
                 'query': {
                     'bool': {
@@ -49,7 +49,7 @@ Overall size of the repository or number of commits
     if indata.get('email'):
         query['query']['bool']['should'] = [{'term': {'committer_email': indata.get('email')}}, {'term': {'author_email': indata.get('email')}}]
         query['query']['bool']['minimum_should_match'] = 1
-
+```
 ## 5. Known Implementations
 
 [GHdata](https://github.com/OSSHealth/ghdata)
