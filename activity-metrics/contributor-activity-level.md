@@ -5,13 +5,16 @@ Activity level of individual contributors.
 
 ## 2. Use Cases
 
-## 3. Sample Visualization
+## 3. Formula
+A generic formula (in pseudo code) to generate the metric.
+
+## 4. Sample Filter and Visualization
 ### Kibble - GitHub
 ![Total Contributors visual](https://user-images.githubusercontent.com/22136995/38274799-60629e0a-3755-11e8-9327-ce7ff5b73853.png)
 
-## 4. Sample Implementations
+## 5. Sample Implementations
 ### Kibble
-```
+```python
 people = {}
 for bucket in res['aggregations']['committers']['buckets']:
     email = bucket['key']
@@ -34,8 +37,10 @@ for bucket in res['aggregations']['committers']['buckets']:
         }
 ```
 
-## 5. Known Implementations
+## 6. Known Implementations
 
 [Kibble](https://kibble.apache.org/)
 
-## 6. External References (Literature)
+## 7. Test Cases (Examples)
+
+## 8. External References (Literature)
