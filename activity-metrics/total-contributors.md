@@ -9,7 +9,7 @@ The total number of contributors over time on any platform.
 
 ## 4. Sample Filter and Visualization
 GHData:
-![Sample Total Contributers visualization](images/total-contributors.md)
+![Sample Total Contributers visualization](https://user-images.githubusercontent.com/16946799/38828745-9c0e4c52-417c-11e8-839b-d181981dc67c.png)
 
 ## 5. Sample Implementation
 
