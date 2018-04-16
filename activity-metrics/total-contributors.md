@@ -5,14 +5,16 @@ The total number of contributors over time on any platform.
 
 ## 2. Use Cases
 
-## 3. Sample Visualization
+## 3. Formula
+
+## 4. Sample Filter and Visualization
 ### Kibble - GitHub
 ![Total Contributors visual](https://user-images.githubusercontent.com/22136995/38274804-6583433a-3755-11e8-9871-0de4c300a2ff.png)
 
-## 4. Sample Implementations
+## 5. Sample Implementations
 ### Kibble - GitHub
 First, it grabs all the committers for one or multiple projects.
-```
+```python
 if not committer_email in people or len(people[committer_email]['name']) < len(commiter_name):
     people[commiter_email] = people[commiter_email] if committer_email in people else {'projects': [git_repo_name]}
     people[committer_email]['name'] = committer_name
@@ -21,7 +23,7 @@ if not committer_email in people or len(people[committer_email]['name']) < len(c
 
 ```
 Then, it ignores the committers as those are already accounted for and collects all the authors. 
-```
+```python
 if not author_email in people or len(people[author_email]['name']) < len(author_name):
     people[author_email] = people[author_email] if author_email in people else {'projects': [git_repo_name]}
     people[author_email]['name'] = author_name
@@ -29,8 +31,11 @@ if not author_email in people or len(people[author_email]['name']) < len(author_
         people[author_email]['projects'].append(git_repo_name)
 ```
 
-## 5. Known Implementations
+## 6. Known Implementations
 
 [Kibble](https://kibble.apache.org/)
 
-## 6. External References (Literature)
+## 7. Test Cases (Examples)
+
+
+## 8. External References (Literature)
