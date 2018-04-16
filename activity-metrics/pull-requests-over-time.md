@@ -23,13 +23,13 @@ over time
 ![img](https://github.com/Illuminatian/Assets/blob/master/PullRequestsVis.PNG)
 
 ## 5. Sample Implementation
-An example implementation, for example a SQL or Elasticsearch query.
+
 
 ## 6. Known Implementations
 [GrimoireLab](https://github.com/chaoss/grimoirelab)
 
 ## 7. Test Cases (Examples)
-Sample inputs (including contexts) and expected outputs for this metric. Implementers can test their implementations against these test cases. For quantitative metrics, this could include a static repository with known metric results, or just inputs and output. For qualitative metrics, this may be more difficult.
+
 
 ## 8. External References (Literature)
-Blog posts, websites, academic papers, or books that mention the metric.
+
