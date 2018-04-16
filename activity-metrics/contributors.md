@@ -90,5 +90,6 @@ group by project_commits.project_id
 
 ##  5. Known Implementations
 [GHData](https://github.com/OSSHealth/ghdata)
+[Grimoire Lab](https://github.com/chaoss/grimoirelab)
 
 ##  6. External References (Literature)
