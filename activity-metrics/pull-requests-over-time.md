@@ -26,7 +26,7 @@ over time
 An example implementation, for example a SQL or Elasticsearch query.
 
 ## 6. Known Implementations
-Examples of where and how metric is used. (include links to dashboard or location where metric is visible or is talked about having been used).
+[GrimoireLab](https://github.com/chaoss/grimoirelab)
 
 ## 7. Test Cases (Examples)
 Sample inputs (including contexts) and expected outputs for this metric. Implementers can test their implementations against these test cases. For quantitative metrics, this could include a static repository with known metric results, or just inputs and output. For qualitative metrics, this may be more difficult.
