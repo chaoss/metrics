@@ -5,13 +5,14 @@ The makeup of the project in terms of the amount of whitespace, comments, and co
 
 ## 2. Use Cases
 
-## 3. Sample Visualization
+## 3. Formula
+
+## 4. Sample Filter and Visualization
 ### Kibble
 ![Language Makeup visual](https://user-images.githubusercontent.com/22136995/38279225-ea70651e-3764-11e8-87fa-a521c1bb1a45.png)
-## 4. Example Implementation
+## 5. Sample Implementation
 ### Kibble 
-
-```
+```python
 while (scroll_size > 0):
     for doc in res['hits']['hits']:
         updates = doc['_source']
@@ -33,8 +34,10 @@ while (scroll_size > 0):
     scroll_size = len(res['hits']['hits'])
 ```
 
-## 5. Known Implementations
+## 6. Known Implementations
 
 [Kibble](https://kibble.apache.org/)
 
-## 6. External References (Literature)
+## 7. Test Cases (Examples)
+
+## 8. External References (Literature)
