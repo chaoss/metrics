@@ -1,7 +1,7 @@
 # Issue Response Rate
 
 ## 1. Description
-Time between a new issue is opened and a maintainer responds
+Time between a new issue being opened and a maintainer responding. 
 Also called: bug response rate. The maintainer is believed to not “pile on” but try to solve an issue.
 
 Below queries are using users with commit rights, not maintainer.
@@ -77,6 +77,6 @@ GROUP BY issues.id
 
 ## 5. Known Implementations
 
-[GHData](https://github.com/OSSHealth/ghdata)
+[GHData](https://github.com/OSSHealth/ghdata) - We have issue response time, but the performance is not very efficient. We need to address performance issues. 
 
 ## 6. External References (Literature)
