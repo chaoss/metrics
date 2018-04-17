@@ -1,7 +1,12 @@
 # Issue Resolution Efficiency
 
 ## 1. Description
-What is the number of closed issues/number of abandoned issues?
+### Questions: 
+  - When is an issue abandon? 
+  - Are there issues that exist for onboarding people and stay open? 
+  - If an issue is inactive is it abandon? For how long? 
+  - Is "Stagnant" a better description than abandon? 
+  - Is there a way to detect that an issue was closed without being dealt with? 
 
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
