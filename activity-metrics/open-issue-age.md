@@ -5,6 +5,7 @@
 
   - Referring back to issue resolution efficiency, is there a type of issue that is "stagnant" and not closed which we would not like to include? 
   - Should we throw away outliers that remain open extraordinarily long? 
+  - Might a survey of repositories yield a collection of tags that equate to "long term issue", adn could be filtered out? 
 
 
 ## 2. Use Cases
