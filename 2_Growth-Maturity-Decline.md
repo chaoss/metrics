@@ -10,10 +10,10 @@ Status | Name | Question
 --- | --- | ---
  Defined | [Open Issues](activity-metrics/open-issues.md) | What is the number of open issues? 
  Defined | [Closed Issues](activity-metrics/closed-issues.md) | What is the number of closed issues? 
- Protyping | [Issue Resolution Efficiency](activity-metrics/issue-resolution-efficiency.md) | What is the number of closed issues/number of abandoned issues? 
- Protyping | [Open Issue Age](activity-metrics/open-issue-age.md) | What is the the age of open issues? 
- Protyping | [First Response to Issue Duration](activity-metrics/first-response-to-issue-duration.md) | What is the duration of time for a first response to an issue?
- Protyping | [Closed Issue Resolution Duration](activity-metrics/closed-issue-resolution-duration.md) | What is the duration of time for issues to be resolved?
+ Christian | [Issue Resolution Efficiency](activity-metrics/issue-resolution-efficiency.md) | What is the number of closed issues/number of abandoned issues? 
+ Christian | [Open Issue Age](activity-metrics/open-issue-age.md) | What is the the age of open issues? 
+ Christian | [First Response to Issue Duration](activity-metrics/first-response-to-issue-duration.md) | What is the duration of time for a first response to an issue?
+ Christian | [Closed Issue Resolution Duration](activity-metrics/closed-issue-resolution-duration.md) | What is the duration of time for issues to be resolved?
 
 ## Code Development
 
@@ -22,11 +22,11 @@ Goal: Identify how effective the community is at merging new code into the codeb
 Status | Name | Question
 --- | --- | ---
  Defined | [Code Commits](activity-metrics/code-commits.md) | What is the number of code commits? 
- Protyping | [Lines of Code Changed](activity-metrics/lines-of-code-changed.md) | What is the number of lines of code changed?
+ Carter & Gabe | [Lines of Code Changed](activity-metrics/lines-of-code-changed.md) | What is the number of lines of code changed?
  Discuss | [Code Reviews](activity-metrics/code-reviews.md) | What is the number of code reviews?
  Discuss | [Code Merge Duration](activity-metrics/code-merge-duration.md) | What is the duration of time between code merge request and code commit?
  Discuss | [Code Review Efficiency](activity-metrics/code-review-efficiency.md) | What is the number of merged code changes/number of abandoned code change requests?
- Protyping | [Maintainer Response to Merge Request Duration](activity-metrics/maintainer-response-to-merge-request-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?
+ Carter & Gabe | [Maintainer Response to Merge Request Duration](activity-metrics/maintainer-response-to-merge-request-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?
  Discuss | [Code Review Iteration](activity-metrics/code-review-iteration.md) | What is the number of iterations that occur before a merge request is accepted or declined? 
 
 ## Community Growth
@@ -36,9 +36,9 @@ Goal: Identify the size of the project community and whether it's growing, shrin
 Status | Name | Quesiton
 --- | --- | ---
  Defined | [Contributors](activity-metrics/contributors.md) | What is the number of contributors?
- Prototyping | [New Contributors](activity-metrics/new-contributors.md) | What is the number of new contributors?
- Prototyping | [Contributing Organizations](activity-metrics/contributing-organizations.md) | What is the number of contributing organizations? 
- Prototyping | [New Contributing Organizations](activity-metrics/new-contributing-organizations.md) | What is the number of new contributing organizations?
+ Derek | [New Contributors](activity-metrics/new-contributors.md) | What is the number of new contributors?
+ Derek | [Contributing Organizations](activity-metrics/contributing-organizations.md) | What is the number of contributing organizations? 
+ Derek | [New Contributing Organizations](activity-metrics/new-contributing-organizations.md) | What is the number of new contributing organizations?
  Discuss | [Sub-Projects](activity-metrics/sub-projects.md) | What is the number of sub-projects?
 
 **Disclaimer:**
