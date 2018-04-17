@@ -2,6 +2,10 @@
 
 ## 1. Description
 What is the number of new contributors?
+  - How is contributor defined?
+    - Is it sufficient to open an issue? For example, what about issues opened seeking operations type support on a software product? 
+    - Are there layers of contribution? 
+    - Would comment, commit or pull request taken together work? Showing the distinct types of contribution. 
 
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
