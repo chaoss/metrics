@@ -1,7 +1,7 @@
 # Closed Issue Resolution Duration
 
 ## 1. Description
-What is the the age of open issues?
+For a set of issues that are closed, how long were they opened before they were closed? 
 
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
@@ -16,7 +16,7 @@ Include a Sample Filter and Visualization (screenshot) of the metric from any im
 An example implementation, for example a SQL or Elasticsearch query.
 
 ## 6. Known Implementations
-Examples of where and how metric is used. (include links to dashboard or location where metric is visible or is talked about having been used).
+[Augur Plus](http://augur.software) : Augur "Plus" requires the creation the creation of summary tables from GHTorrent, which enable faster performance of complex metrics. 
 
 ## 7. Test Cases (Examples)
 Sample inputs (including contexts) and expected outputs for this metric. Implementers can test their implementations against these test cases. For quantitative metrics, this could include a static repository with known metric results, or just inputs and output. For qualitative metrics, this may be more difficult.
