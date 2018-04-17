@@ -3,6 +3,8 @@
 ## 1. Description
 What is the duration of time for a maintainer to make a first response to a code merge request?
 
+How do we decide who a maintainer is? What is the signal in data? Commit rights? Active commit work? If a project is structured around pull requests is there a type of maintainer that can be referenced which does not have commit rights? 
+
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
 
