@@ -6,7 +6,6 @@ Activity level of individual contributors.
 ## 2. Use Cases
 
 ## 3. Formula
-A generic formula (in pseudo code) to generate the metric.
 
 ## 4. Sample Filter and Visualization
 ### Kibble - GitHub
