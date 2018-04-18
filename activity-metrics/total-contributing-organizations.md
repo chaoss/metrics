@@ -39,6 +39,8 @@ GROUP BY id
 ORDER BY total DESC;
 ```
 
+Relies on self declared organization affiliation.
+
 ## 6. Known Implementations
 
 ## 7. Test Cases (Examples)
