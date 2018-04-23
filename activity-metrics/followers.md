@@ -12,7 +12,7 @@ May indicate public interest in the project.
 
 ## 5. Sample Implementation
 
-### GHTorrent
+### [GHTorrent](http://ghtorrent.org/relational.html)
 
 ```SQL
 SELECT COUNT(user_id)
