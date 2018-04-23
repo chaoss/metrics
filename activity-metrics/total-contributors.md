@@ -14,7 +14,7 @@ Shows a line graph of the number of contributers by month
 
 ## 5. Sample Implementation
 
-### GHTorrent
+### [GHTorrent](http://ghtorrent.org/relational.html)
 
 ```SQL
 SELECT total_committers.created_at AS "date", MAX(@number_of_committers:=@number_of_committers+1) total_total_committers
