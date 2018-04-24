@@ -4,7 +4,7 @@
 ### questions
 
   - Referring back to issue resolution efficiency, is there a type of issue that is "stagnant" and not closed which we would not like to include? 
-  - Should we throw away outliers that remain open extraordinarily long? 
+  - Should we throw away outliers that remain open extraordinarily long? => I prefer not to do this.  I think a project/team lead should actively review unresolved issues and disposition them somehow (even if it's to simply say "this issue won't/can't be addressed due to XYZ" before "closing" the issue)
   - Might a survey of repositories yield a collection of tags that equate to "long term issue", adn could be filtered out? 
 
 
