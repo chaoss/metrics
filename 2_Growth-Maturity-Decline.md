@@ -6,7 +6,7 @@ Goal: Identify if the level of maturity the project has reached and whether it i
 
 Goal: Identify how effective the community is at addressing issues identified by community partcipants.
 
-Name | Question
+Metric | Question
 --- | ---
 [Open Issues](activity-metrics/open-issues.md) | What is the number of open issues? 
 [Closed Issues](activity-metrics/closed-issues.md) | What is the number of closed issues? 
@@ -19,7 +19,7 @@ Name | Question
 
 Goal: Identify how effective the community is at merging new code into the codebase.
 
-Name | Question
+Metric | Question
 --- | ---
 [Code Commits](activity-metrics/code-commits.md) | What is the number of code commits? 
 [Lines of Code Changed](activity-metrics/lines-of-code-changed.md) | What is the number of lines of code changed?
@@ -33,7 +33,7 @@ Name | Question
 
 Goal: Identify the size of the project community and whether it's growing, shrinking, or staying the same.
 
-Name | Quesiton
+Metric | Quesiton
 --- | ---
 [Contributors](activity-metrics/contributors.md) | What is the number of contributors?
 [New Contributors](activity-metrics/new-contributors.md) | What is the number of new contributors?
