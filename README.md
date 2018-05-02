@@ -4,6 +4,12 @@ Welcome to the repository of the CHAOSS Metrics Committee. The CHAOSS Metrics Co
 
 For more information go to our website at: https://chaoss.community/
 
+See metrics within these categories:
+- [Diversity-Inclusion](1_Diversity-Inclusion.md)
+- [Growth-Maturity-Decline](2_Growth-Maturity-Decline.md)
+- [Risk](3_Risk.md)
+- [Value](4_Value.md)
+
 ## Goals of the CHAOSS Metrics Committee
 
 (1) Developing metric categories and related activity metrics: [CHAOSS Metrics](https://github.com/chaoss/metrics). The metric categories are based on the work of community members who have participated at CHAOSS events, worked in the repo, and discussed through on email. We are capturing the metrics that people find meaningful to their particular contexts when understanding project health and sustatinability. In this, the CHAOSS Metrics Committee works to represent metrics through concise definitions, known uses cases, sample visualizations, and sample implementations. Our metrics work also includes working with the CHAOSS Software Committee to put these metrics into practice.
