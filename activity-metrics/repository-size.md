@@ -18,9 +18,42 @@ Overall size of the repository or number of commits
 ###  Git: Lines of code and documentation in a repository:
 [Lines of Code](https://github.com/OSSHealth/ghdata/blob/dev/busFactor/pythonBlameLinesInRepo.py)
 
-
+###  Kibble: Commit trends:
+```python
+    query = {
+                'query': {
+                    'bool': {
+                        'must': [
+                            {'range':
+                                {
+                                    'tsday': {
+                                        'from': dateFrom,
+                                        'to': dateTo
+                                    }
+                                }
+                            },
+                            {
+                                'term': {
+                                    'organisation': dOrg
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+    # Source-specific or view-specific??
+    if indata.get('source'):
+        query['query']['bool']['must'].append({'term': {'sourceID': indata.get('source')}})
+    elif viewList:
+        query['query']['bool']['must'].append({'terms': {'sourceID': viewList}})
+    if indata.get('email'):
+        query['query']['bool']['should'] = [{'term': {'committer_email': indata.get('email')}}, {'term': {'author_email': indata.get('email')}}]
+        query['query']['bool']['minimum_should_match'] = 1
+```
 ## 5. Known Implementations
 
 [GHdata](https://github.com/OSSHealth/ghdata)
+
+[Kibble](https://github.com/apache/kibble)
 
 ## 6. External References (Literature)
