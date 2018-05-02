@@ -12,7 +12,7 @@ Indicates the danger of the project losing key developers (higher pony factor is
 
 ## 5. Sample Implementation
 
-### [GHData](https://github.com/OSSHealth/ghdata)
+### [Augur](https://github.com/OSSHealth/augur)
 
 ```Python
 def bus_factor(self, owner, repo, filename=None, start=None, end=None, threshold=50):
@@ -83,7 +83,7 @@ def bus_factor(self, owner, repo, filename=None, start=None, end=None, threshold
 ```
 
 ## 6. Known Implementations
-[GHData](https://github.com/OSSHealth/ghdata/blob/master/ghdata/githubapi.py#L22)
+[Augur](https://github.com/OSSHealth/augur/blob/master/ghdata/githubapi.py#L22)
 
 ## 7. Test Cases (Examples)
 
