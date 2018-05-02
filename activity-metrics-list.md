@@ -84,6 +84,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Paid Developers|Number of paid developers in community over time.|
 |Path to Leadership|A communicated path from lurker to contributor to maintainer. (or. track members: time from user to maintainer/leader). If active contributors are not included in leadership decisions they might lose interest and leave. (Focus on least likely contributor).|
 |Path to Maintainership|Path to maintainership published.|
+|[People Opening Issues](activity-metrics/people-opening-issues.md) | How many people are opening issues.|
 |Project Life Cycle|Community assigned label. Some communities have a project life cycle for example: proposal, incubaton, active, deprecated, end of life (Source: [Hyperledger](https://wiki.hyperledger.org/community/project-lifecycle)).|
 |Percentile Distribution of First Maintainer Response to Code Merge Request|The proportional frequency of time it takes for a maintainer to make the first response to a code merge request.|
 |Percentile Distribution of First Response Time|The proportional frequency of time it takes for the first response to an issue.|
