@@ -10,6 +10,10 @@ Indicates the danger of the project losing key developers (higher pony factor is
 
 ## 4. Sample Filter and Visualization
 
+### [Augur](https://github.com/OSSHealth/augur)
+
+![Bus Factor visualization](https://user-images.githubusercontent.com/16946799/39537727-0992fcb6-4e00-11e8-81f0-14ea3e8f8998.PNG)
+
 ## 5. Sample Implementation
 
 ### [Augur](https://github.com/OSSHealth/augur)
