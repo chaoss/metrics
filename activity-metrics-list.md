@@ -37,7 +37,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |[Contribution Diversity](activity-metrics/contribution-diversity.md)|Ratio of code committed by contributors other than original project initiator. Contributions going up beyond the core team.|
 |[Contributor Activity](activity-metrics/contributor-activity-level.md)|Activity level of individual contributors.|
 |[Contributor Breadth](activity-metrics/contributor-breadth.md)|Ratio of non-core committers (drive-by committers). Can indicate openness to outsiders.|
-|Contributor Demographics | Gender, age, location, education, and skills over time.|
+|[Contributor Demographics](activity-metrics/contributor-demographics.md)| Gender, age, location, education, and skills over time.|
 |[Contributor Diversity](activity-metrics/contributor-diversity.md)| Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
 |Contributor Importance|Percentage of commits by individual contributors from identified organizations over time.|
 |Contributor Seniority|For each active contributor, time since first contribution. Experienced contributors can provide value to the community, since they carry with them (in part) the history of the project.|
