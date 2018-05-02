@@ -35,7 +35,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |[Contribution Acceptance](activity-metrics/contribution-acceptance.md)|Ratio of contributions accepted vs. closed without acceptance.|
 |Contribution Age|Time since last contribution. Contribution = commit, issue, comment, etc.).|
 |[Contribution Diversity](activity-metrics/contribution-diversity.md)|Ratio of code committed by contributors other than original project initiator. Contributions going up beyond the core team.|
-|Contributor Activity|Activity level of individual contributors.|
+|[Contributor Activity](activity-metrics/contributor-activity-level.md)|Activity level of individual contributors.|
 |[Contributor Breadth](activity-metrics/contributor-breadth.md)|Ratio of non-core committers (drive-by committers). Can indicate openness to outsiders.|
 |Contributor Demographics | Gender, age, location, education, and skills over time.|
 |[Contributor Diversity](activity-metrics/contributor-diversity.md)| Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
