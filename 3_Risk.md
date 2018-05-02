@@ -1,28 +1,38 @@
 # Metric: Risk
 
+Goal: Identify the risk profile of a project. 
+
 ## Human Factors
-Activity Metric | Description
+
+Goal: Identify the risk associated with the people involved in a project. 
+
+Metric | Question
 --- | ---
-Contributor Importance | Percentage of commits by individual contributors from identified organizations over time.
-Qualified Committers | Contributions over time and what components they commit to over time.
-User Dependency | Number of users who are aware that they depend on the software over time.
-Paid Developers | Number of paid developers in community over time.
+Contributor Importance | What is the percentage of commits by individual contributors from identified organizations?
+Qualified Committers | What are their contributions and to what components do they commit to?
+User Dependency | What is the number of users who are aware that they depend on the project? 
+Paid Developers | What is the number of paid developers in a project?
 
 ## Copyright and License Factors
- Activity Metric | Description
- --- | ---
-Copyright Declaration | The degree to which the project properly declares copyright ownership, including the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement.
-Package License Declaration | A list of license declarations on the software package.
-File License Declarations | A list of license declarations on the software package files.
-License Identification Methods | A list of methods or tools used for identifying licenses in files.
 
+Goal: Identify the risk associated with copyright and license issues. 
+
+Metric | Question
+ --- | ---
+Copyright Declaration | What is the degree to which the project properly declares copyright ownership, including the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement?
+Package License Declaration | What are the license declarations on the software package? 
+File License Declarations | What are the license declarations on the software package files?
+License Identification Methods | What are the methods or tools used for identifying licenses in files?
 
 ## Vulnerability Factors
- Activity Metric | Description
+
+Goal: Identify the risk associated with vulnerabity issues. 
+
+Metric | Question
  --- | ---
-Published CPE | The number of published [Common Platform Enumerations (CPEs)](https://nvd.nist.gov/products/cpe) for the project (i.e., a project can contain many packages).
-Disclosed Vulnerabilities | The number of disclosed package vulnerabilities.
-Vulnerabilities in Media | The number of published press about package related vulnerabilities.
+Published CPE | What are the number of published [Common Platform Enumerations (CPEs)](https://nvd.nist.gov/products/cpe) for the project (i.e., a project can contain many packages)?
+Disclosed Vulnerabilities | What are the number of disclosed package vulnerabilities?
+Vulnerabilities in Media | What are the number of published press articles about package related vulnerabilities?
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Risk.
