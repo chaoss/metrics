@@ -4,10 +4,22 @@
 Number of contributors
 
 ##  2. Use Cases
+This metric is useful to be able to see how many people are actually contributing to your project, and how much they're contributing.
 
 ##  3. Sample Filter and Visualization
+ 
+### GrimoireLab: git_overview_top_authors
+
+![img](https://github.com/Illuminatian/Assets/blob/master/CommiterVis.PNG)
 
 ##  4. Sample Implementation
+ 
+### GrimoireLab: git_overview_top_authors
+![img](https://github.com/Illuminatian/Assets/blob/master/CommiterCode2.PNG)
+![img](https://github.com/Illuminatian/Assets/blob/master/CommiterCode1.PNG)
+
+The visualization can be adjusted to show more or less contributers by changing the 'Size' value in the 'Buckets'. A larger number will show more, a smaller number will show less.
+
 
 ### GHTorrent: Contributions by user
 
@@ -77,6 +89,7 @@ group by project_commits.project_id
 ```
 
 ##  5. Known Implementations
-[GHData](https://github.com/OSSHealth/ghdata)
+* [GHData](https://github.com/OSSHealth/ghdata)
+* [Grimoire Lab](https://github.com/chaoss/grimoirelab)
 
 ##  6. External References (Literature)
