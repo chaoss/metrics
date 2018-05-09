@@ -1,10 +1,10 @@
-# Pony Factor
+# Bus Factor
 
 ## 1. Description
 The minimum number of developers performing 50% of the commits.
 
 ## 2. Use Cases
-Indicates the danger of the project losing key developers (higher pony factor is less likely to fail due to losing a developer).
+Indicates the danger of the project losing key developers (higher bus factor is less likely to fail due to losing a developer).
 
 ## 3. Formula
 

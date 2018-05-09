@@ -17,7 +17,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Average Issue Resolution Time|The average amount of time it takes for issues to be closed.|
 |Bug Age|Age of known bugs in issue tracker. Use label for determining bugs?|
 |Bugs after Release|Number of bugs reported after a release.|
-|Bus Factor|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
+|[Bus Factor](activity-metrics/bus-factor.md)|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
 |[Closed Issues](activity-metrics/closed-issues.md) | What is the number of closed issues? |
@@ -89,7 +89,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Percentile Distribution of Issue Resolution Time|Proportional frequency of closed issue time duration.|
 |Percentile Distribution of Open Issue Time|Proportional frequency of open issue time duration.|
 |Percentile Distribution of Time to Merge Code|Proportional frequency of code merge to upstream time duration.|
-|[Pony Factor](activity-metrics/pony-factor.md)|The minimum number of developers performing 50% of the commits. [The Math](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/)|
+|Pony Factor|The minimum number of developers performing 50% of the commits. [The Math](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/)|
 |[Pull Request Comments](activity-metrics/pull-request-comments.md)|Number of comments per pull request.|
 |[Pull Request Comment Duration](activity-metrics/pull-requests-comment-duration.md)|The difference between the timestamp of the pull request creation date and the most recent comment on the pull request.|
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request.|
