@@ -20,8 +20,8 @@ Goal: Identify the risk associated with copyright and license issues.
 Metric | Question
 --- | ---
 Copyright Declaration | What is the degree to which the project properly declares copyright ownership, including the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement?
-Package License Declaration | What are the license declarations on the software package? 
-File License Declarations | What are the license declarations on the software package files?
+Project License Declaration | What are the license declarations for the software project? 
+File License Declarations | What are the license declarations in files?
 License Identification Methods | What are the methods or tools used for identifying licenses in files?
 
 ## Vulnerability Factors
