@@ -9,7 +9,7 @@ Goal: Identify the risk associated with the people involved in a project.
 Metric | Question
 --- | ---
 Contributor Importance | What is the fraction of commits by individual contributors from identified organizations?
-Qualified Committers | What are their contributions and to what components do they commit to?
+Committers | What are their contributions and to what components do they commit to?
 User Dependency | What is the number of users who are aware that they depend on the project? 
 Paid Developers | What is the number of paid developers in a project?
 
