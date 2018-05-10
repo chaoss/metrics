@@ -17,7 +17,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Average Issue Resolution Time|The average amount of time it takes for issues to be closed.|
 |Bug Age|Age of known bugs in issue tracker. Use label for determining bugs?|
 |Bugs after Release|Number of bugs reported after a release.|
-|Bus Factor|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
+|[Bus Factor](activity-metrics/bus-factor.md)|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
 |[Closed Issues](activity-metrics/closed-issues.md) | What is the number of closed issues? |
