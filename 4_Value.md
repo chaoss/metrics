@@ -9,7 +9,7 @@ Installs | Number of software installations of the project
 Number of Active Users | Number of active users of the project
 Commercial Offerings | Availability of commercial products or services based on the project
 Availability of Add-on Products | Availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software
-V-index | An index of project's first-order and second-order downstream dependencies. The definition of the v-index is that a project with a v-index of *h* has *h* downstream dependent projects each of which has *h* downstream dependencies themselves. For exmaple: A project vith a v-index of 15 is a dependency for 15 other project which themselves have at least 15 downstream dependencies themselves.
+V-index | An index of project's first-order and second-order downstream dependencies. The definition of the v-index is that a project with a v-index of *h* has *h* downstream dependent projects each of which has *h* downstream dependencies themselves. For example: A project vith a v-index of 15 is a dependency for 15 other project which themselves have at least 15 downstream dependencies themselves.
 
 **Disclaimer:**
 The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Value.
