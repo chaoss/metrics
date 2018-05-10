@@ -17,7 +17,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |Average Issue Resolution Time|The average amount of time it takes for issues to be closed.|
 |Bug Age|Age of known bugs in issue tracker. Use label for determining bugs?|
 |Bugs after Release|Number of bugs reported after a release.|
-|Bus Factor|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
+|[Bus Factor](activity-metrics/bus-factor.md)|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
 |[Closed Issues](activity-metrics/closed-issues.md) | What is the number of closed issues? |
@@ -98,6 +98,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request.|
 |[Pull Request made/closed](activity-metrics/pull-requests-made-closed.md)|Pull requests made vs. pull requests closed [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap). Encompasses number of pull requests rejected.|
 |[Pull Requests Open](activity-metrics/pull-requests-open.md)|Number of open pull requests. Perhaps more telling than total pull requests.|
+|[Pull Requests Over Time](activity-metrics/pull-requests-over-time.md)|How many pull requests have been submitted over a specified time period?|
 |Qualified Committers|Contributions over time and what components they commit to over time.|
 |Relative Activity| Sum up the activities (GH issues+comments, GH pull requests+comments and GH commits) for the project members and for the non-project members, then  create a ratio of the two. Compare the activity between committers-as-a-group and contributors-as-a-group. It easily shows when a project is not yet popular, or when a project is not paying attention to its users. I also feel that a balance between the two groups is essential; ie) a project with a lot more contributor than committer activity is one that is failing to recruit committers quickly enough.|
 |Release Maturity|Ratio of major and minor releases.|
