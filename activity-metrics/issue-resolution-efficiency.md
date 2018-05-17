@@ -1,7 +1,7 @@
 # Issue Resolution Efficiency
 
 ## 1. Description
-What is the number of closed issues/number of abandoned issues?
+What is the ratio of closed issues/number of abandoned issues?
 
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
