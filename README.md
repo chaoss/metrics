@@ -20,7 +20,7 @@ See metrics within these categories:
 
 ## Structure of the CHAOSS Metrics Repository
 
-![StructureOfMetricsRepo](https://user-images.githubusercontent.com/656208/36049226-a85f0310-0da7-11e8-9a24-76a98117b972.png)
+![StructureOfMetricsRepo](https://user-images.githubusercontent.com/8862021/40376472-0b8404b6-5db4-11e8-9952-ef2cf9ebc2b8.png)
 
 ## How to Contribute and Participate to the CHAOSS Project
 
