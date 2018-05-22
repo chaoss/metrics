@@ -1,28 +1,30 @@
 # Metric: Value
 
-Activity Metric | Description
+Goal: Identify the value of a project. 
+
+Metric | Question
 --- | ---
-Codebase Cost | An estimate of the market cost to develop the functionality of the project.  For example: [OpenHub](https://blog.openhub.net/project_codebase_cost/)
-Software Downloads | Number of project software downloads
-Downloads of Non-software Artifacts | Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc.)
-Installs | Number of software installations of the project
-Number of Active Users | Number of active users of the project
-Commercial Offerings | Availability of commercial products or services based on the project
-Availability of Add-on Products | Availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software
-V-index | An index of project's first-order and second-order downstream dependencies. The definition of the v-index is that a project with a v-index of *h* has *h* downstream dependent projects each of which has *h* downstream dependencies themselves. For example: A project vith a v-index of 15 is a dependency for 15 other project which themselves have at least 15 downstream dependencies themselves.
+Codebase Cost | What is an estimate of the market cost to develop the functionality of the project? (e.g., [OpenHub](https://blog.openhub.net/project_codebase_cost/))
+Software Downloads | What is the number of project software downloads?
+Downloads of Non-software Artifacts | What is the number of downloads of non-software artifacts? (e.g., documentation, sample apps, test suites, etc.)
+Installs | What is the number of software installations of the project?
+Number of Active Users | What is the number of active users of the project?
+Commercial Offerings | What is the availability of commercial products or services based on the project?
+Availability of Add-on Products | What is the availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software?
+V-index | What is the index of project's first-order and second-order downstream dependencies?
 
 **Disclaimer:**
-The activity metrics listed are not meant to represent a fully comprehensive list. It is fully expected that this list will evolve as people have insights and thoughts about the activity metrics that comprise Value.
+The name/question pairs listed are not meant to represent a fully comprehensive list. It is expected that this list will evolve as people have insights and thoughts about the name/question pairs that comprise Value.
 
 **Tooling:**
-The activity metrics are intended to be a starting point for community health related tooling. It is expected that the activity metrics will evolve based on the ability (or inability) of tooling to successfully implement the activity metrics.
+The name/question pairs are intended to be a starting point for CHAOSS-related software. It is expected that this list will evolve based on the ability (or inability) of software to successfully implement the specific name/question pairs.
 
 **Background:**
-The activity metrics have been identified based on workshops at the Open Source Leadership and the Open Source Summit North America. In addition, the activity metrics are based on active CHAOSS mailing list conversations. The activity metrics listed here are the result of compiling the discussions to data. We thank everyone who participated.
+The name/question pairs have been identified based CHAOSS-related outreach activities. We thank everyone who participated.
 
 **How to contribute:**
-- To advance the document, please see [CONTRIBUTING.md][contrib]
-- To learn about the CHAOSS Community, please visit the [CHAOSS Website](https://chaoss.community)
+- To advance the document, fork the repo, make your changes, create a pull request see [CONTRIBUTING.md][contrib]
+- To ask questions or make comments, post to our [mailing list][ml], join our weekly [Hangout call][ho], or open an [issue on GitHub][issue].
 
 [contrib]: .github/CONTRIBUTING.md
 [ml]: https://wiki.linuxfoundation.org/chaoss/metrics#mail-list

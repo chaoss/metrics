@@ -6,7 +6,7 @@ Goal: Identify the diversity and inclusion within a project.
 
 Goal: Identify the diversity of individuals within a project.
 
-Name | Question
+Metric | Question
 --- | ---
 Contributor Demographics | What are the gender, age, location, education, and skills of contributors? 
 Leadership Demographics | What are the gender, age, location, education, and skills of leadership (e.g., Board, Technical Steering Committee, and Maintainers)?
@@ -16,7 +16,7 @@ New Contributors* vs Maintainers** | What is the ratio of new contributors to ma
 
 Goal: Identify the diversity of organizations within a project.
 
-Name | Question
+Metric | Question
 --- | ---
 Contributing Organizations | What is the number of and who are the organizations contributing to the project?
 Contributions per Organization | What is the number of contributions from each organization?
@@ -29,7 +29,7 @@ Maintainer Commit Organizational Diversity | What is the ratio and number of com
 
 Goal: Identify how effective the community is including and promoting members.
 
-Name | Question
+Metric | Question
 --- | ---
 Accepted Code Contributions from New Contributors | What is the percentage of new contributor code versus total code?
 Accepted Project Contributions from New Contributors | What is the percentage of any project contribution from new contributors vs all accepted contributions?
