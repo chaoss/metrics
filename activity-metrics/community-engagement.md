@@ -36,13 +36,13 @@ A community manager wants to get an overview of their project that helps them un
 
 ## 4. Sample Implementations
 ### Augur
-[API Example](http://twitter.augurlabs.io/api/unstable/rails/rails/timeseries/community_engagement)
-[API Docs](https://osshealth.github.io/augur/api/index.html#api-Experimental-CommunityEngagement)
-[Source Code](https://github.com/OSSHealth/augur)
+- [**API Example**](http://twitter.augurlabs.io/api/unstable/rails/rails/timeseries/community_engagement)
+- [API Docs](https://osshealth.github.io/augur/api/index.html#api-Experimental-CommunityEngagement)
+- [Source Code](https://github.com/OSSHealth/augur)
 
 
 ## 5. Known Implementations
 
-[Augur](https://github.com/OSSHealth/augur)
+- [Augur](https://github.com/OSSHealth/augur)
 
 ## 6. External References (Literature)
