@@ -5,6 +5,12 @@ Number of forks
 
 ## 2. Use Cases
 
+We have to distinguish two main use cases for Forks.
+
+1) On GitHub, forks are used in the regular contribution workflow. A developer first needs to fork a repository, before being able to create pull requests. In this use case, forks indicate the level of engagement with developers. These developers belong to the same community and contribute back to the same repository.
+
+2) From a community perspective, forks are the option to develop an alternative version of a software and to build a separate community. A forked community (e.g., LibreOffice forked OpenOffice.org, NextCloud forked OwnCloud) develops it own practices and often does not contribute back. Forks of communities can indicate disagreements over governance but more often are disagreements about the technical future of a project.
+
 ## 3. Sample Filter and Visualization
 
 ## 4. Sample Implementation
