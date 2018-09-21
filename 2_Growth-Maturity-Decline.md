@@ -35,7 +35,7 @@ Metric | Question
 [Pull Requests Closed](activity-metrics/pull-requests-made-closed.md) | Number of closed pull requests.
 [Pull Request Comment Duration](activity-metrics/pull-requests-comment-duration.md) | The difference between the timestamp of the pull request creation date and the most recent comment on the pull request.
 [Pull Request Comment Diversity](activity-metrics/pull-requests-comment-diversity.md) | Number of each people discussing each pull request.
-[Pull Request Comments](activity-metrics/pull-request-comments.md) | Number of comments on each pull request. 
+[Pull Request Comments](activity-metrics/pull-request-comments.md) | Number of comments on each pull request.
 
 
 [](activity-metrics/)
@@ -44,9 +44,10 @@ Metric | Question
 
 Goal: Identify the size of the project community and whether it's growing, shrinking, or staying the same.
 
-Metric | Quesiton
+Metric | Question
 --- | ---
 [Contributors](activity-metrics/contributors.md) | What is the number of contributors?
+[Community Engagement](activity-metrics/community-engagement.md) | What are the rates for core types of community engagement? 
 [New Overall Contributors](activity-metrics/new-contributors.md) | What is the overall number of new contributors?
 [New Contributors of Commits](activity-metrics/new-contributors-commits.md) | What is the number of persons contributing with an accepted commit for the first time?
 [New Contributors of Opened Issues](activity-metrics/new-contributors-issues-opened.md) | What is the number of persons opening an issue for the first time?
