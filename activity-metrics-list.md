@@ -54,7 +54,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |48|Gatherings|Number of face-to-face/in-person meetings per year. Resets contentious issues; Resolve tensions; Avoid longstanding grudges.|
 |49|Installs|Number of software installations of the project.|
 |50|[Issue Comments](activity-metrics/issue-comments.md)|Number of comments per issue.|
-|51[Issue Resolution Efficiency](activity-metrics/issue-resolution-efficiency.md) | What is the number of closed issues/number of abandoned issues?
+|51|[Issue Resolution Efficiency](activity-metrics/issue-resolution-efficiency.md) | What is the number of closed issues/number of abandoned issues?
 |52|[First Response to Issue Duration](activity-metrics/first-response-to-issue-duration.md)| Time between a new issue is opened and a maintainer responds. Also called: bug response rate. The maintainer is believed to not "pile on" but try to solve an issue.|
 |53|[Issues submitted/closed](activity-metrics/issues-submitted-closed.md)|Issues submitted vs. issues closed. [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap).|
 |54|Job Postings|Number of job postings that mention the project as a preferred or required skill.|
