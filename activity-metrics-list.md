@@ -3,54 +3,54 @@
 We list and describe activity metrics. For different situations, the metrics have different meanings. Each activity metric can be used in association with other metrics in the creations of value-oriented health metrics. We have a __[metric-template](activity-metrics/metric-template.md)__ to be used for new detail metric pages.
 
 
-|Name|Description|
-|---|---|
-|Accepted Code Contributions|Percentage of new contributor code versus total code over time.|
-|Age of Community|Time since repository/organization was registered; or time since first release. "Results showed that the age of the project played a marginally significant role in attracting active users, but not developers. We attribute this differential effect of age on users and developers to the fact that age may be seen as an indicator of application maturity by users, and hence taken as a positive signal, whereas it may convey more ambiguous signals to developers." (Chengalur-Smith et al., 2010, p.674) (Grewal, Lilien, & Mallapragada, 2006).|
-|All Licenses|List of licenses.|
-|Apache Maturity Model| The [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) provides guidelines for assessing the maturity of a project.|
-|Availability of Add-on Products|Availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software.|
-|Blogposts|Number of blogposts that mention the project.|
-|Average Time of First Maintainer Response to Code Merge Request|The average amount of time it takes for a maintainer to make the first response to a code merge request.|
-|Average Time of First Response to Issue|The average amount of time it takes for the first response to an issue.|
-|Average Time of Open Issues|The average amount of time open issues have remained open.|
-|Average Issue Resolution Time|The average amount of time it takes for issues to be closed.|
-|Bug Age|Age of known bugs in issue tracker. Use label for determining bugs?|
-|Bugs after Release|Number of bugs reported after a release.|
-|[Bus Factor](activity-metrics/bus-factor.md)|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
-|Change in Maintainer Number|Number of maintainers added/removed over time.|
-|CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
-|[Closed Issues](activity-metrics/closed-issues.md) | What is the number of closed issues? |
-|[Closed Issue Resolution Duration](activity-metrics/closed-issue-resolution-duration.md) | What is the duration of time for issues to be resolved?|
-|[Code Commits](activity-metrics/code-commits.md)| What is the number of code commits?|
-|[Code Merge Duration](activity-metrics/code-merge-duration.md) | What is the duration of time between code merge request and code commit?|
-|Code Modularity|Modular code allows parallel development, which Linus Torvalds drove for Linux (OSLS Torvalds). (Baldwin & Clark, 2006).|
-|[Code Review Efficiency](activity-metrics/code-review-efficiency.md) | What is the number of merged code changes/number of abandoned code change requests?|
-|[Code Review Iteration](activity-metrics/code-review-iteration.md) | What is the number of iterations that occur before a merge request is accepted or declined?|
-|[Code Reviews](activity-metrics/code-reviews.md) | What is the number of code reviews?|
-|Commercial Offerings|Availability of commercial products or services based on the project.|
-|Commit Bias|Acceptance rate (and time to acceptance) differences per gender, ethnicity, and relevant diversity characteristics.|
-|[Community Activity](activity-metrics/community-activity.md)|Contribution Frequency. Contribution = commit, issue, comment, etc.).|
-|[Contributing Organizations](activity-metrics/contributing-organizations.md) | What is the number of contributing organizations?|
-|[Contribution Acceptance](activity-metrics/contribution-acceptance.md)|Ratio of contributions accepted vs. closed without acceptance.|
-|Contribution Age|Time since last contribution. Contribution = commit, issue, comment, etc.).|
-|[Contribution Diversity](activity-metrics/contribution-diversity.md)|Ratio of code committed by contributors other than original project initiator. Contributions going up beyond the core team.|
-|[Contributor Activity](activity-metrics/contributor-activity-level.md)|Activity level of individual contributors.|
-|[Contributor Breadth](activity-metrics/contributor-breadth.md)|Ratio of non-core committers (drive-by committers). Can indicate openness to outsiders.|
-|[Contributor Demographics](activity-metrics/contributor-demographics.md)| Gender, age, location, education, and skills over time.|
-|[Contributor Diversity](activity-metrics/contributor-diversity.md)| Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
-|Contributor Importance|Percentage of commits by individual contributors from identified organizations over time.|
-|Contributor Seniority|For each active contributor, time since first contribution. Experienced contributors can provide value to the community, since they carry with them (in part) the history of the project.|
-|[Contributors](activity-metrics/contributors.md)| What is the number of contributors?|
-|Copyright Declaration|The degree to which the project properly declares copyright ownership, including the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement.|
-|Decision Distribution|Central vs. distributed decision making. Governance model, scalability of community.|
-|Dependency Depth|Number of projects included in code base + number of projects relying on focal project (recursive). Indicator about centrality in open source Dependency network.|
-|Distribution of Work|How much recent activity is distributed?|
-|Downloads of Non-software Artifacts|Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc.).|
-|Elephant Factor|If 50% of community members are employed by the same company, it is the elephant in the room. Formally: The minimum number of companies whose employees perform 50% of the commits|
-|File License Declarations|A list of license declarations on the software package files.|
-|[Followers](activity-metrics/followers.md)|Number of followers (GitHub).|
-|[Forks](activity-metrics/forks.md)|Number of forks.|
+|S.No. | Name|Description|
+|---|---|---|
+|1|Accepted Code Contributions|Percentage of new contributor code versus total code over time.|
+|2|Age of Community|Time since repository/organization was registered; or time since first release. "Results showed that the age of the project played a marginally significant role in attracting active users, but not developers. We attribute this differential effect of age on users and developers to the fact that age may be seen as an indicator of application maturity by users, and hence taken as a positive signal, whereas it may convey more ambiguous signals to developers." (Chengalur-Smith et al., 2010, p.674) (Grewal, Lilien, & Mallapragada, 2006).|
+|3|All Licenses|List of licenses.|
+|4|Apache Maturity Model| The [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) provides guidelines for assessing the maturity of a project.|
+|5|Availability of Add-on Products|Availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software.|
+|6|Blogposts|Number of blogposts that mention the project.|
+|7|Average Time of First Maintainer Response to Code Merge Request|The average amount of time it takes for a maintainer to make the first response to a code merge request.|
+|8|Average Time of First Response to Issue|The average amount of time it takes for the first response to an issue.|
+|9|Average Time of Open Issues|The average amount of time open issues have remained open.|
+|10|Average Issue Resolution Time|The average amount of time it takes for issues to be closed.|
+|11|Bug Age|Age of known bugs in issue tracker. Use label for determining bugs?|
+|12|Bugs after Release|Number of bugs reported after a release.|
+|13|[Bus Factor](activity-metrics/bus-factor.md)|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
+|14|Change in Maintainer Number|Number of maintainers added/removed over time.|
+|15|CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
+|16|[Closed Issues](activity-metrics/closed-issues.md) | What is the number of closed issues? |
+|17|[Closed Issue Resolution Duration](activity-metrics/closed-issue-resolution-duration.md) | What is the duration of time for issues to be resolved?|
+|18|[Code Commits](activity-metrics/code-commits.md)| What is the number of code commits?|
+|19|[Code Merge Duration](activity-metrics/code-merge-duration.md) |20| What is the duration of time between code merge request and code commit?|
+|21|Code Modularity|Modular code allows parallel development, which Linus Torvalds drove for Linux (OSLS Torvalds). (Baldwin & Clark, 2006).|
+|22|[Code Review Efficiency](activity-metrics/code-review-efficiency.md) | What is the number of merged code changes/number of abandoned code change requests?|
+|23|[Code Review Iteration](activity-metrics/code-review-iteration.md) | What is the number of iterations that occur before a merge request is accepted or declined?|
+|24|[Code Reviews](activity-metrics/code-reviews.md) | What is the number of code reviews?|
+|25|Commercial Offerings|Availability of commercial products or services based on the project.|
+|26|Commit Bias|Acceptance rate (and time to acceptance) differences per gender, ethnicity, and relevant diversity characteristics.|
+|27|[Community Activity](activity-metrics/community-activity.md)|Contribution Frequency. Contribution = commit, issue, comment, etc.).|
+|28|[Contributing Organizations](activity-metrics/contributing-organizations.md) | What is the number of contributing organizations?|
+|29|[Contribution Acceptance](activity-metrics/contribution-acceptance.md)|Ratio of contributions accepted vs. closed without acceptance.|
+|30|Contribution Age|Time since last contribution. Contribution = commit, issue, comment, etc.).|
+|31|[Contribution Diversity](activity-metrics/contribution-diversity.md)|Ratio of code committed by contributors other than original project initiator. Contributions going up beyond the core team.|
+|32|[Contributor Activity](activity-metrics/contributor-activity-level.md)|Activity level of individual contributors.|
+|33|[Contributor Breadth](activity-metrics/contributor-breadth.md)|Ratio of non-core committers (drive-by committers). Can indicate openness to outsiders.|
+|34|[Contributor Demographics](activity-metrics/contributor-demographics.md)| Gender, age, location, education, and skills over time.|
+|35|[Contributor Diversity](activity-metrics/contributor-diversity.md)| Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
+|36|Contributor Importance|Percentage of commits by individual contributors from identified organizations over time.|
+|37|Contributor Seniority|For each active contributor, time since first contribution. Experienced contributors can provide value to the community, since they carry with them (in part) the history of the project.|
+|38|[Contributors](activity-metrics/contributors.md)| What is the number of contributors?|
+|39|Copyright Declaration|The degree to which the project properly declares copyright ownership, including the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement.|
+|40|Decision Distribution|Central vs. distributed decision making. Governance model, scalability of community.|
+|41|Dependency Depth|Number of projects included in code base + number of projects relying on focal project (recursive). Indicator about centrality in open source Dependency network.|
+|42|Distribution of Work|How much recent activity is distributed?|
+|43|Downloads of Non-software Artifacts|Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc.).|
+|44|Elephant Factor|If 50% of community members are employed by the same company, it is the elephant in the room. Formally: The minimum number of companies whose employees perform 50% of the commits|
+|45|File License Declarations|A list of license declarations on the software package files.|
+|46|[Followers](activity-metrics/followers.md)|Number of followers (GitHub).|
+|47|[Forks](activity-metrics/forks.md)|Number of forks.|
 |Gatherings|Number of face-to-face/in-person meetings per year. Resets contentious issues; Resolve tensions; Avoid longstanding grudges.|
 |Installs|Number of software installations of the project.|
 |[Issue Comments](activity-metrics/issue-comments.md)|Number of comments per issue.|
