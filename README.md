@@ -9,6 +9,7 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 (2) Participating with the CHAOSS work groups at:
 
 [CHAOSS Diversity & Inclusion Workgroup](https://github.com/chaoss/wg_diversity_inclusion)
+
 [CHAOSS Growth, Maturity, Decline Workgroup](https://github.com/chaoss/wg-gmd)
 
 Through thes WGs, we consolidate metrics in meaningful ways and inform the metrics by questioning how to capture and deploy (or not) them. 
