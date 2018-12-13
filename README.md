@@ -53,9 +53,9 @@ Through thes WGs, we consolidate metrics in meaningful ways and inform the metri
 
 [Contribute and Participate](https://chaoss.community/participate/). If you would like to propose a new metric to this repository, open a new issue and provide a pull request to open the discussion about inclusion. If you would like to provide metric details, we have a __[metric-template](activity-metrics/metric-template.md)__ to be used for new detail metric pages. Follow the same approach regarding an issue/pull request to have your changes potentially merged. 
 
-# List of Activity Metrics
+# Full List of Activity Metrics
 
-We list and describe activity metrics. For different situations, the metrics have different meanings. Each activity metric can be used in association with other metrics in the creations of value-oriented health metrics. How the metrics live in practice is work that happens in teh WGs. 
+The following is a full list of identified metrics. How the metrics live in practice is work that happens in the WGs. 
 
 
 |Name|Description|
