@@ -6,13 +6,11 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 
 (1) Capturing metrics based on the work of community members who have participated at CHAOSS events, worked in the repo, and discussed through on email. We capture the metrics that people find meaningful to their particular contexts when understanding project health and sustatinability. In this, we work to represent metrics through concise definitions, known uses cases, sample visualizations, and sample implementations. The CHAOSS Metrics repository captures all potential metrics. It is the WGs that make these metrics meaningful, leading to our second goal. 
 
-(2) Participating with the CHAOSS work groups at:
+(2) Participating with the CHAOSS work groups. Through thes WGs, we consolidate metrics in meaningful ways and inform the metrics by questioning how to capture and deploy (or not) them:
 
 [CHAOSS Diversity & Inclusion Workgroup](https://github.com/chaoss/wg_diversity_inclusion)
 
 [CHAOSS Growth, Maturity, Decline Workgroup](https://github.com/chaoss/wg-gmd)
-
-Through thes WGs, we consolidate metrics in meaningful ways and inform the metrics by questioning how to capture and deploy (or not) them. 
 
 ## Some Reasons to Assess Community Health
 
