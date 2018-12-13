@@ -12,7 +12,7 @@ Welcome to the repository of the CHAOSS Metrics Committee. The CHAOSS Metrics Co
 
 [CHAOSS Growth, Maturity, Decline Workgroup](https://github.com/chaoss/wg-gmd)
 
-These workgroups create focus areas of metrics in specific ways. Through thes WGs, we can inform the metrics by questioning how to capture (or not caputure) particular metrics. At the same time, the WGs help inform software by questioning how we can deploy particular metrics. 
+Through thes WGs, we can inform the metrics by questioning how to capture and deploy (or not) particular metrics. 
 
 ## How to Contribute and Participate to the CHAOSS Project
 
@@ -156,63 +156,43 @@ We list and describe activity metrics. For different situations, the metrics hav
 |[Watchers](activity-metrics/watchers.md)|Number of watchers (GitHub).|
 |YouTube Videos|Number of Youtube videos that mention or specifically deal with the project (e.g. tutorials).|
 
-# Additional Thoughts
-The following section are a collection of random thoughts that might be helpful in a future discussion.
-
-## Reasons why community health is assessed
-
-This includes reasons why metrics are considered for other reasons This section collects notes on what possible goals might be.
+## Reasons to Assess Community Health
 
   * Track Corporate Engagement (is an organization creating value, are organizational goals met, employee contributions)
   * Risk mitigation
-  * Identify open source projects that need support.
+  * Identify open source projects that need support
   * Identify single points of failure (and hopefully prevent them)
   * Assess value generated through community and engagement
   * Show that active community management bears desired results. (Measurable outcomes)
-  * Avoid in-take of an inactive project, because it makes it difficult to maintain and might carry unknown bugs and security issues.
+  * Avoid in-take of an inactive project because it is difficult to maintain and might carry unknown bugs and security issues.
   * Sustainability: "we define a sustainable project as one that exhibits software development and maintenance activity over the long run." (Chengalur-Smith, Sidorova, & Daniel, 2010, p.660)
 
-## Broad categories of indicators that we hear often
+## What We Hear Often
 
-These categories are meta-concepts that cannot be assessed with a single metric and the combination of metrics will be different depending on the context.
+These are focus areas that cannot be assessed with a single metric but with a combination of metrics. Many of these focus areas are discussed in the WGs. 
 
-  * Growth of community
-  * Momentum of community
-  * Timeliness of maintainers
-  * Diversity of community, contributions, and in code base
-  * Distribution of code contributions (beyond project creator)
-  * Activity level - Responsiveness
-  * Viability (e.g. Bus Factor - individual contributors and clustered by employer)
-  * Maturity
-  * Ecosystem health (upstream, downstream, and related projects)
+  * Project Maturity
+  * Project Viability
+  * Growth of Community
+  * Momentum of Community
+  * Diversity of Community
+  * Timeliness of Maintainers
+  * Attentiveness of Maintainers
+  * Activity Level - Responsiveness
+  * Distribution of Code Contributions
   * Vanity metrics (might have use in other cases, e.g. stars)
-  * Aggregate project-tree health (combined health metrics of all linked dependencies)
-  * Attentiveness of maintainers to users. See [Mailing list](https://lists.linuxfoundation.org/pipermail/oss-health-metrics/2017-March/000007.html.md)
+  * Ecosystem Health (upstream, downstream, and related projects)
+  * Aggregate Project-tree Health (combined health metrics of all linked dependencies)
 
-## Context: Considerations when evaluating health
+## Contexts When Evaluating health
 
-  * Style of project
-  * Programming language
-  * Maturity of project (Projects might seem inactive but rather have fulfilled their goal and community remains responsive to bug reports and security issues, just no new features)
-  * Quality of Ecosystem (metrics of related projects)
-  * Value driven metrics (not just activity)
-  * Development of metrics over time
-  * External users might not be a homogenous group - consider different metrics
-  * Compare similar projects (manually determine which projects to compare)
-  * Classifications (based on a set of metrics, which projects 'behave' similar)
-  * Interrelationships between categories of indicators (maturity might be high while activity low and response rate is up)
-  * Aggregate from repository, to project, to community, (to company)
-
-## Other classifications for indicators
-
-We have heard other classifications that we simply list here.
-
-Ideas for these classifications is to
-1. generate a uniform classification and through conversations merge the different classifications.
-2. create mappings of the indicators to the different classifications
-
-  * Community/Code/Risk
-  * Activity/Viability/Risk
+  * Value Derivation
+  * Style of Project
+  * Project Comparison
+  * Maturity of Project
+  * Programming Language
+  * Quality of Ecosystem
+  * Community Composition
 
 ## References
 
