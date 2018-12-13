@@ -48,10 +48,6 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
   * Quality of Ecosystem
   * Community Composition
 
-## How to Contribute and Participate to the CHAOSS Project
-
-[Contribute and Participate](https://chaoss.community/participate/). If you would like to propose a new metric to this repository, open a new issue and provide a pull request to open the discussion about inclusion. If you would like to provide metric details, we have a __[metric-template](activity-metrics/metric-template.md)__ to be used for new detail metric pages. Follow the same approach regarding an issue/pull request to have your changes potentially merged. 
-
 # Full List of Activity Metrics
 
 The following is a full list of identified metrics. How the metrics live in practice is work that happens in the WGs. 
@@ -190,6 +186,9 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Watchers](activity-metrics/watchers.md)|Number of watchers (GitHub).|
 |YouTube Videos|Number of Youtube videos that mention or specifically deal with the project (e.g. tutorials).
 
+## How to Contribute and Participate to the CHAOSS Project
+
+[Contribute and Participate](https://chaoss.community/participate/). If you would like to propose a new metric to this repository, open a new issue and provide a pull request to open the discussion about inclusion. If you would like to provide metric details, we have a __[metric-template](activity-metrics/metric-template.md)__ to be used. Follow the same approach regarding an issue/pull request to have your detail changes discussed and potentially merged. 
 
 ## Repository Maintainers
 
