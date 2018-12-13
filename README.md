@@ -1,26 +1,61 @@
 # CHAOSS Metrics
 
-Welcome to the repository of the CHAOSS Metrics Committee. The CHAOSS Metrics Committee captures implementation-agnostic metrics for assessing open source community health and sustainability. Such metrics are aimed at understanding project diversity & inclusion, growth-maturity-decline, risk, and value. For more information about the CHAOSS project go to our website at: https://chaoss.community/
+Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures metrics for assessing open source community health and sustainability. Such metrics are aimed at understanding project diversity & inclusion, growth-maturity-decline, risk, and value. For more information about the CHAOSS project go to our website at: https://chaoss.community/
 
 ## Goals of CHAOSS Metrics 
 
-(1) Capturing metrics based on the work of community members who have participated at CHAOSS events, worked in the repo, and discussed through on email. We are capturing the metrics that people find meaningful to their particular contexts when understanding project health and sustatinability. In this, we work to represent metrics through concise definitions, known uses cases, sample visualizations, and sample implementations. 
+(1) Capturing metrics based on the work of community members who have participated at CHAOSS events, worked in the repo, and discussed through on email. We capture the metrics that people find meaningful to their particular contexts when understanding project health and sustatinability. In this, we work to represent metrics through concise definitions, known uses cases, sample visualizations, and sample implementations. The CHAOSS Metrics repository captures all potential metrics. It is the WGs that make these metrics meaningful, leading to our second goal. 
 
 (2) Participating with the CHAOSS work groups at:
 
 [CHAOSS Diversity & Inclusion Workgroup](https://github.com/chaoss/wg_diversity_inclusion)
-
 [CHAOSS Growth, Maturity, Decline Workgroup](https://github.com/chaoss/wg-gmd)
 
-Through thes WGs, we can inform the metrics by questioning how to capture and deploy (or not) particular metrics. 
+Through thes WGs, we consolidate metrics in meaningful ways and inform the metrics by questioning how to capture and deploy (or not) them. 
+
+## Some Reasons to Assess Community Health
+
+  * Risk Mitigation
+  * Track Corporate Engagement
+  * Identify Sustainable Projects
+  * Identify Single Points of Failure
+  * Avoid In-take of an Inactive Project
+  * Identify Open Source Projects that Need Support
+  * Assess Value Generated through Community and Engagement
+  * Show that Active Community Management Bears Desired Results
+
+## Some Issues To Look At
+
+  * Project Maturity
+  * Project Viability
+  * Growth of Community
+  * Momentum of Community
+  * Diversity of Community
+  * Timeliness of Maintainers
+  * Attentiveness of Maintainers
+  * Activity Level - Responsiveness
+  * Distribution of Code Contributions
+  * Vanity metrics (might have use in other cases, e.g. stars)
+  * Ecosystem Health (upstream, downstream, and related projects)
+  * Aggregate Project-tree Health (combined health metrics of all linked dependencies)
+
+## Some Contexts to Consdider When Evaluating Health
+
+  * Value Derivation
+  * Style of Project
+  * Project Comparison
+  * Maturity of Project
+  * Programming Language
+  * Quality of Ecosystem
+  * Community Composition
 
 ## How to Contribute and Participate to the CHAOSS Project
 
-[Contribute and Participate](https://chaoss.community/participate/)
+[Contribute and Participate](https://chaoss.community/participate/). If you would like to propose a new metric to this repository, open a new issue and provide a pull request to open the discussion about inclusion. If you would like to provide metric details, we have a __[metric-template](activity-metrics/metric-template.md)__ to be used for new detail metric pages. Follow the same approach regarding an issue/pull request to have your changes potentially merged. 
 
 # List of Activity Metrics
 
-We list and describe activity metrics. For different situations, the metrics have different meanings. Each activity metric can be used in association with other metrics in the creations of value-oriented health metrics. We have a __[metric-template](activity-metrics/metric-template.md)__ to be used for new detail metric pages.
+We list and describe activity metrics. For different situations, the metrics have different meanings. Each activity metric can be used in association with other metrics in the creations of value-oriented health metrics. How the metrics live in practice is work that happens in teh WGs. 
 
 
 |Name|Description|
@@ -154,65 +189,7 @@ We list and describe activity metrics. For different situations, the metrics hav
 |V-index|An index of project's first-order and second-order downstream dependencies. For example: if a project has 15 downstream dependencies and those downstream projects have 15 downstream dependencies of their own, the V-index is 15.|
 |Velocity|A graph where bubbles’ area is proportional to the number of authors, the y-axis (height) is the total number of pull requests & issues, and the x-axis is the number of commits. [Example](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)|
 |[Watchers](activity-metrics/watchers.md)|Number of watchers (GitHub).|
-|YouTube Videos|Number of Youtube videos that mention or specifically deal with the project (e.g. tutorials).|
-
-## Reasons to Assess Community Health
-
-  * Track Corporate Engagement (is an organization creating value, are organizational goals met, employee contributions)
-  * Risk mitigation
-  * Identify open source projects that need support
-  * Identify single points of failure (and hopefully prevent them)
-  * Assess value generated through community and engagement
-  * Show that active community management bears desired results. (Measurable outcomes)
-  * Avoid in-take of an inactive project because it is difficult to maintain and might carry unknown bugs and security issues.
-  * Sustainability: "we define a sustainable project as one that exhibits software development and maintenance activity over the long run." (Chengalur-Smith, Sidorova, & Daniel, 2010, p.660)
-
-## What We Hear Often
-
-These are focus areas that cannot be assessed with a single metric but with a combination of metrics. Many of these focus areas are discussed in the WGs. 
-
-  * Project Maturity
-  * Project Viability
-  * Growth of Community
-  * Momentum of Community
-  * Diversity of Community
-  * Timeliness of Maintainers
-  * Attentiveness of Maintainers
-  * Activity Level - Responsiveness
-  * Distribution of Code Contributions
-  * Vanity metrics (might have use in other cases, e.g. stars)
-  * Ecosystem Health (upstream, downstream, and related projects)
-  * Aggregate Project-tree Health (combined health metrics of all linked dependencies)
-
-## Contexts When Evaluating health
-
-  * Value Derivation
-  * Style of Project
-  * Project Comparison
-  * Maturity of Project
-  * Programming Language
-  * Quality of Ecosystem
-  * Community Composition
-
-## References
-
-* Arantes, F. L., & Freire, F. M. P. (2011). Aspects of an open source software sustainable life cycle. In IFIP International Conference on Open Source Systems (pp. 325–329). Springer. Retrieved from http://link.springer.com/chapter/10.1007/978-3-642-24418-6_26
-
-* Bagozzi, R. P., & Dholakia, U. M. (2006). Open Source Software User Communities: A Study of Participation in Linux User Groups. Management Science, 52(7), 1099–1115. Retrieved from http://www.jstor.org/stable/20110583
-
-* Baldwin, C. Y., & Clark, K. B. (2006). The Architecture of Participation: Does Code Architecture Mitigate Free Riding in the Open Source Development Model? Management Science, 52(7), 1116–1127. Retrieved from http://www.jstor.org/stable/20110584
-
-* Chengalur-Smith, I., Sidorova, A., & Daniel, S. (2010). Sustainability of Free/Libre Open Source Projects: A Longitudinal Study. Journal of the Association for Information Systems, 11(11). Retrieved from http://aisel.aisnet.org/jais/vol11/iss11/5
-
-* Cosentino, V., Izquierdo, J. L. C., & Cabot, J. (2015). Assessing the bus factor of Git repositories. In 2015 IEEE 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER) (pp. 499–503). https://doi.org/10.1109/SANER.2015.7081864
-
-* Crowston, K., Howison, J., & Annabi, H. (2006). Information systems success in free and open source software development: theory and measures. Software Process: Improvement and Practice, 11(2), 123–148. https://doi.org/10.1002/spip.259
-
-* Grewal, R., Lilien, G. L., & Mallapragada, G. (2006). Location, Location, Location: How Network Embeddedness Affects Project Success in Open Source Systems. Management Science, 52(7), 1043–1056. Retrieved from http://www.jstor.org/stable/20110579
-
-* Jansen, S. (2014). Measuring the health of open source software ecosystems: Beyond the scope of project health. Information and Software Technology, 56(11), 1508–1519.Retrieved from http://www.sciencedirect.com/science/article/pii/S0950584914000871
-
-* Schweik, C. M., & English, R. C. (2012). Internet success: a study of open-source software commons. Cambridge, Mass.: MIT Press.
+|YouTube Videos|Number of Youtube videos that mention or specifically deal with the project (e.g. tutorials).
 
 
 ## Repository Maintainers
