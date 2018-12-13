@@ -9,6 +9,7 @@ Welcome to the repository of the CHAOSS Metrics Committee. The CHAOSS Metrics Co
 (2) Participating with the CHAOSS work groups at:
 
 [CHAOSS Diversity & Inclusion Workgroup](https://github.com/chaoss/wg_diversity_inclusion)
+
 [CHAOSS Growth, Maturity, Decline Workgroup](https://github.com/chaoss/wg-gmd)
 
 These workgroups create focus areas of metrics in specific ways. Through thes WGs, we can inform the metrics by questioning how to capture (or not caputure) particular metrics. At the same time, the WGs help inform software by questioning how we can deploy particular metrics. 
