@@ -53,7 +53,7 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 The following is a full list of identified metrics. How the metrics live in practice is work that happens in the workgroups. 
 
 
-|Name|Description|Deployed in a CHAOSS Workgroup?|
+|Name|Description|Deployment in a CHAOSS Workgroup|
 |---|---|---|
 |Accepted Code Contributions|Percentage of new contributor code versus total code over time.|
 |Age of Community|Time since repository/organization was registered; or time since first release. "Results showed that the age of the project played a marginally significant role in attracting active users, but not developers. We attribute this differential effect of age on users and developers to the fact that age may be seen as an indicator of application maturity by users, and hence taken as a positive signal, whereas it may convey more ambiguous signals to developers." (Chengalur-Smith et al., 2010, p.674) (Grewal, Lilien, & Mallapragada, 2006).|
@@ -75,9 +75,9 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Code Commits](activity-metrics/code-commits.md)| What is the number of code commits?|
 |[Code Merge Duration](activity-metrics/code-merge-duration.md) | What is the duration of time between code merge request and code commit?|
 |Code Modularity|Modular code allows parallel development, which Linus Torvalds drove for Linux (OSLS Torvalds). (Baldwin & Clark, 2006).|
-|[Code Review Efficiency](activity-metrics/code-review-efficiency.md) | What is the number of merged code changes/number of abandoned code change requests?|
-|[Code Review Iteration](activity-metrics/code-review-iteration.md) | What is the number of iterations that occur before a merge request is accepted or declined?|
-|[Code Reviews](activity-metrics/code-reviews.md) | What is the number of code reviews?|GMD
+|[Code Review Efficiency](activity-metrics/code-review-efficiency.md) | What is the number of merged code changes/number of abandoned code change requests?|GMD
+|[Code Review Iteration](activity-metrics/code-review-iteration.md) | What is the number of iterations that occur before a merge request is accepted or declined?|GMD|
+|[Code Reviews](activity-metrics/code-reviews.md) | What is the number of code reviews?|GMD|
 |Commercial Offerings|Availability of commercial products or services based on the project.|
 |Commit Bias|Acceptance rate (and time to acceptance) differences per gender, ethnicity, and relevant diversity characteristics.|
 |[Community Activity](activity-metrics/community-activity.md)|Contribution Frequency. Contribution = commit, issue, comment, etc.).|
@@ -100,7 +100,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Elephant Factor|If 50% of community members are employed by the same company, it is the elephant in the room. Formally: The minimum number of companies whose employees perform 50% of the commits|
 |File License Declarations|A list of license declarations on the software package files.|
 |[Followers](activity-metrics/followers.md)|Number of followers (GitHub).|
-|[Forks](activity-metrics/forks.md)|Number of forks.|
+|[Forks](activity-metrics/forks.md)|Number of forks.|GMD|
 |Gatherings|Number of face-to-face/in-person meetings per year. Resets contentious issues; Resolve tensions; Avoid longstanding grudges.|
 |Installs|Number of software installations of the project.|
 |[Issue Comments](activity-metrics/issue-comments.md)|Number of comments per issue.|
@@ -119,7 +119,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |License Identification Methods|A list of methods or tools used for identifying licenses in files.|
 |[Lines of Code Changed](activity-metrics/lines-of-code-changed.md) | What is the number of lines of code changed?|
 |Maintainer Promotion|Last time a maintainer was added.|
-|[Maintainer Response to Merge Request Duration](activity-metrics/maintainer-response-to-merge-request-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?|
+|[Maintainer Response to Merge Request Duration](activity-metrics/maintainer-response-to-merge-request-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?|GMD
 |[New Contributing Organizations](activity-metrics/new-contributing-organizations.md) | What is the number of new contributing organizations?|
 |New Contributions|Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time.|
 |New Contributor Organizations|New organizations contributing to the project over time.|
@@ -143,11 +143,11 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Percentile Distribution of Open Issue Time|Proportional frequency of open issue time duration.|
 |Percentile Distribution of Time to Merge Code|Proportional frequency of code merge to upstream time duration.|
 |Pony Factor|The minimum number of developers performing 50% of the commits. [The Math](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/)|
-|[Pull Request Comments](activity-metrics/pull-request-comments.md)|Number of comments per pull request.|
-|[Pull Request Comment Duration](activity-metrics/pull-requests-comment-duration.md)|The difference between the timestamp of the pull request creation date and the most recent comment on the pull request.|
+|[Pull Request Comments](activity-metrics/pull-request-comments.md)|Number of comments per pull request.|GMD|
+|[Pull Request Comment Duration](activity-metrics/pull-requests-comment-duration.md)|The difference between the timestamp of the pull request creation date and the most recent comment on the pull request.|GMD|
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request.|
 |[Pull Request made/closed](activity-metrics/pull-requests-made-closed.md)|Pull requests made vs. pull requests closed [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap). Encompasses number of pull requests rejected.|
-|[Pull Requests Open](activity-metrics/pull-requests-open.md)|Number of open pull requests. Perhaps more telling than total pull requests.|
+|[Pull Requests Open](activity-metrics/pull-requests-open.md)|Number of open pull requests. Perhaps more telling than total pull requests.|GMD|
 |[Pull Requests Over Time](activity-metrics/pull-requests-over-time.md)|How many pull requests have been submitted over a specified time period?|
 |Qualified Committers|Contributions over time and what components they commit to over time.|
 |Relative Activity| Sum up the activities (GH issues+comments, GH pull requests+comments and GH commits) for the project members and for the non-project members, then  create a ratio of the two. Compare the activity between committers-as-a-group and contributors-as-a-group. It easily shows when a project is not yet popular, or when a project is not paying attention to its users. I also feel that a balance between the two groups is essential; ie) a project with a lot more contributor than committer activity is one that is failing to recruit committers quickly enough.|
