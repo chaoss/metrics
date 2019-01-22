@@ -77,7 +77,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Code Modularity|Modular code allows parallel development, which Linus Torvalds drove for Linux (OSLS Torvalds). (Baldwin & Clark, 2006).|
 |[Code Review Efficiency](activity-metrics/code-review-efficiency.md) | What is the number of merged code changes/number of abandoned code change requests?|
 |[Code Review Iteration](activity-metrics/code-review-iteration.md) | What is the number of iterations that occur before a merge request is accepted or declined?|
-|[Code Reviews](activity-metrics/code-reviews.md) | What is the number of code reviews?|
+|[Code Reviews](activity-metrics/code-reviews.md) | What is the number of code reviews?|GMD
 |Commercial Offerings|Availability of commercial products or services based on the project.|
 |Commit Bias|Acceptance rate (and time to acceptance) differences per gender, ethnicity, and relevant diversity characteristics.|
 |[Community Activity](activity-metrics/community-activity.md)|Contribution Frequency. Contribution = commit, issue, comment, etc.).|
