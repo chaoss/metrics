@@ -53,7 +53,7 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 The following is a full list of identified metrics. How the metrics live in practice is work that happens in the workgroups. 
 
 
-|Name|Description|Deployment in a CHAOSS Workgroup|
+|Name|Description|Deployment in CHAOSS Workgroup|
 |---|---|---|
 |Accepted Code Contributions|Percentage of new contributor code versus total code over time.|
 |Age of Community|Time since repository/organization was registered; or time since first release. "Results showed that the age of the project played a marginally significant role in attracting active users, but not developers. We attribute this differential effect of age on users and developers to the fact that age may be seen as an indicator of application maturity by users, and hence taken as a positive signal, whereas it may convey more ambiguous signals to developers." (Chengalur-Smith et al., 2010, p.674) (Grewal, Lilien, & Mallapragada, 2006).|
@@ -75,7 +75,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Code Commits](activity-metrics/code-commits.md)| What is the number of code commits?|
 |[Code Merge Duration](activity-metrics/code-merge-duration.md) | What is the duration of time between code merge request and code commit?|
 |Code Modularity|Modular code allows parallel development, which Linus Torvalds drove for Linux (OSLS Torvalds). (Baldwin & Clark, 2006).|
-|[Code Review Efficiency](activity-metrics/code-review-efficiency.md) | What is the number of merged code changes/number of abandoned code change requests?|GMD
+|[Code Review Efficiency](activity-metrics/code-review-efficiency.md) | What is the number of merged code changes/number of abandoned code change requests?|GMD|
 |[Code Review Iteration](activity-metrics/code-review-iteration.md) | What is the number of iterations that occur before a merge request is accepted or declined?|GMD|
 |[Code Reviews](activity-metrics/code-reviews.md) | What is the number of code reviews?|GMD|
 |Commercial Offerings|Availability of commercial products or services based on the project.|
@@ -119,7 +119,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |License Identification Methods|A list of methods or tools used for identifying licenses in files.|
 |[Lines of Code Changed](activity-metrics/lines-of-code-changed.md) | What is the number of lines of code changed?|
 |Maintainer Promotion|Last time a maintainer was added.|
-|[Maintainer Response to Merge Request Duration](activity-metrics/maintainer-response-to-merge-request-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?|GMD
+|[Maintainer Response to Merge Request Duration](activity-metrics/maintainer-response-to-merge-request-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?|GMD|
 |[New Contributing Organizations](activity-metrics/new-contributing-organizations.md) | What is the number of new contributing organizations?|
 |New Contributions|Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time.|
 |New Contributor Organizations|New organizations contributing to the project over time.|
@@ -146,7 +146,8 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Pull Request Comments](activity-metrics/pull-request-comments.md)|Number of comments per pull request.|GMD|
 |[Pull Request Comment Duration](activity-metrics/pull-requests-comment-duration.md)|The difference between the timestamp of the pull request creation date and the most recent comment on the pull request.|GMD|
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request.|
-|[Pull Request made/closed](activity-metrics/pull-requests-made-closed.md)|Pull requests made vs. pull requests closed [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap). Encompasses number of pull requests rejected.|
+|[Pull Request Made vs. Closed](activity-metrics/pull-requests-made-closed.md)|Pull requests made vs. pull requests closed [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap). Encompasses number of pull requests rejected.|
+|[Pull Requests Merged]|Number of Code Commits|
 |[Pull Requests Open](activity-metrics/pull-requests-open.md)|Number of open pull requests. Perhaps more telling than total pull requests.|GMD|
 |[Pull Requests Over Time](activity-metrics/pull-requests-over-time.md)|How many pull requests have been submitted over a specified time period?|
 |Qualified Committers|Contributions over time and what components they commit to over time.|
