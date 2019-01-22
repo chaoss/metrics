@@ -53,8 +53,8 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 The following is a full list of identified metrics. How the metrics live in practice is work that happens in the workgroups. 
 
 
-|Name|Description|
-|---|---|
+|Name|Description|Deployed?|
+|---|---|---|
 |Accepted Code Contributions|Percentage of new contributor code versus total code over time.|
 |Age of Community|Time since repository/organization was registered; or time since first release. "Results showed that the age of the project played a marginally significant role in attracting active users, but not developers. We attribute this differential effect of age on users and developers to the fact that age may be seen as an indicator of application maturity by users, and hence taken as a positive signal, whereas it may convey more ambiguous signals to developers." (Chengalur-Smith et al., 2010, p.674) (Grewal, Lilien, & Mallapragada, 2006).|
 |All Licenses|List of licenses.|
