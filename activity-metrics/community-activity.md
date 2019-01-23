@@ -8,7 +8,7 @@ The value of this metric is in observing changes over time.
 ## 2. Use Cases
 
 
-## 3. Sample Visualization
+## 3. Sample Filter and Visualization
 
 
 ## 4. Sample Implementation

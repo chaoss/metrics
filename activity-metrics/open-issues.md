@@ -1,13 +1,18 @@
-# Issues Open
+# Open Issues
 
 ## 1. Description
 Number of open issues
 
 ## 2. Use Cases
+Many people would like an at-a-glance visualization of all the open issues in a project, this visualization would provide that without having to look inside every sub-folder in the repository and sum the issues manually
+ 
+ ## 3. Sample Filter and Visualization
 
-## 3. Sample Visualization
+![img](https://github.com/Illuminatian/Assets/blob/master/openIssues.PNG)
+ ## 4. Sample Implementation
 
-## 4. Sample Implementation
+### GrimoireLab: Number of Open Issues 
+![img](https://github.com/Illuminatian/Assets/blob/master/OpenIssuesCreate.PNG)
 
 ### GHTorrent: Number of Open Issues (current)
 

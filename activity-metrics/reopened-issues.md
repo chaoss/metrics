@@ -5,7 +5,7 @@ Rate of issues closed but discussion continues or issues that were closed and re
 
 ## 2. Use Cases
 
-## 3. Sample Visualization
+## 3. Sample Filter and Visualization
 
 ## 4. Sample Implementation
 
