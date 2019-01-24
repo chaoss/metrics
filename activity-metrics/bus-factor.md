@@ -87,7 +87,7 @@ def bus_factor(self, owner, repo, filename=None, start=None, end=None, threshold
 ```
 
 ## 6. Known Implementations
-[Augur](https://github.com/OSSHealth/augur/blob/master/ghdata/githubapi.py#L22)
+[Augur](https://github.com/chaoss/augur/blob/master/augur/datasources/githubapi/githubapi.py#L103)
 
 ## 7. Test Cases (Examples)
 
