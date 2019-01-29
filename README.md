@@ -192,6 +192,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 
 ## Repository Maintainers
 
+- [Dawn Foster](https://github.com/geekygirldawn)
 - [Georg Link](https://github.com/GeorgLink)
 - [Matt Germonprez](https://github.com/germonprez)
 - [Ben Lloyd Pearson](https://github.com/BenLloydPearson)
