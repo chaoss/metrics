@@ -91,7 +91,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Contributor Diversity](activity-metrics/contributor-diversity.md)| Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
 |Contributor Importance|Percentage of commits by individual contributors from identified organizations over time.|
 |Contributor Seniority|For each active contributor, time since first contribution. Experienced contributors can provide value to the community, since they carry with them (in part) the history of the project.|
-|[Contributors](activity-metrics/contributors.md)| What is the number of contributors?|
+|[Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors.md)| What is the number of contributors?|GMD|
 |Copyright Declaration|The degree to which the project properly declares copyright ownership, including the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement.|
 |Decision Distribution|Central vs. distributed decision making. Governance model, scalability of community.|
 |Dependency Depth|Number of projects included in code base + number of projects relying on focal project (recursive). Indicator about centrality in open source Dependency network.|
@@ -123,7 +123,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[New Contributing Organizations](activity-metrics/new-contributing-organizations.md) | What is the number of new contributing organizations?|
 |New Contributions|Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time.|
 |New Contributor Organizations|New organizations contributing to the project over time.|
-|[New Contributors](activity-metrics/new-contributors.md) | What is the number of new contributors?|
+|[New Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors-new.md) | What is the number of new contributors?|GMD|
 |New Contributors* vs Maintainers**|Ratio of new contributors to maintainers over time.|
 |Non-Source Contributions|Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc...|
 |Number of Active Users|Number of active users of the project.|
