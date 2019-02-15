@@ -71,6 +71,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
 |[Closed Issues](activity-metrics/closed-issues.md) | What is the number of closed issues? |
+|[Closed Issues New Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-first-time-closed.md)|What is the number of persons closing an issue for the first time?|GMD|
 |[Closed Issue Resolution Duration](activity-metrics/closed-issue-resolution-duration.md) | What is the duration of time for issues to be resolved?|
 |[Code Commits](activity-metrics/code-commits.md)| What is the number of code commits?|
 |[Code Merge Duration](activity-metrics/code-merge-duration.md) | What is the duration of time between code merge request and code commit?|
@@ -125,12 +126,15 @@ The following is a full list of identified metrics. How the metrics live in prac
 |New Contributor Organizations|New organizations contributing to the project over time.|
 |[New Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors-new.md) | What is the number of new contributors?|GMD|
 |[New Contributors of Commits](https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors-new.md)|What is the number of persons contributing with an accepted commit for the first time?|GMD|
+|[New Contributors of Initiated Code Reviews](https://github.com/chaoss/wg-gmd/blob/master/focus_areas/community_growth.md)|What is the number of persons initiating a code review for the first time?|GMD|
+|[New Contributors of Code Reviews](https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-code-reviews-contributors-new.md)|What is the number of persons contributing with reviews of code for the first time?|GMD|
 |New Contributors* vs Maintainers**|Ratio of new contributors to maintainers over time.|
 |Non-Source Contributions|Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc...|
 |Number of Active Users|Number of active users of the project.|
 |Number of Contributing Organizations|Number of organizations participating in the project over time.|
 |Onion Layers|Distance between onion model layers (users, contributors, committers, and steering committee). Rule of thumb: factor of 10x between layers. (OSLS'17 Node.js keynote).|
 |[Open Issues](activity-metrics/open-issues.md)| What is the number of open issues?|
+|[Open Issues New Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-first-time-opened.md)|What is the number of persons opening an issue for the first time?|GMD|
 |[Open Issue Age](activity-metrics/open-issue-age.md) | What is the the age of open issues?|
 |Package License Declaration|A list of license declarations on the software package.|
 |Paid Developers|Number of paid developers in community over time.|
