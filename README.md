@@ -125,7 +125,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |New Contributions|Percentage of Contributions (patches, pull requests, etc.) from New Contributors vs All Accepted Contributions Over Time.|
 |New Contributor Organizations|New organizations contributing to the project over time.|
 |[New Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors-new.md) | What is the number of new contributors?|GMD|
-|[New Contributors of Commits](https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors-new.md)|What is the number of persons contributing with an accepted commit for the first time?|GMD|
+|[New Contributors of Commits](https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-merge-contributor-new.md)|What is the number of persons contributing with an accepted commit for the first time?|GMD|
 |[New Contributors of Initiated Code Reviews](https://github.com/chaoss/wg-gmd/blob/master/focus_areas/community_growth.md)|What is the number of persons initiating a code review for the first time?|GMD|
 |[New Contributors of Code Reviews](https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-code-reviews-contributors-new.md)|What is the number of persons contributing with reviews of code for the first time?|GMD|
 |[New Contributors on the Email List](https://github.com/chaoss/wg-gmd/blob/master/metrics/mailing-lists-messages-contributors-new.md)|What is the number of persons posting messages in mailing lists for the first time?|GMD|
