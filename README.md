@@ -124,6 +124,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |New Contributions|Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time.|
 |New Contributor Organizations|New organizations contributing to the project over time.|
 |[New Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors-new.md) | What is the number of new contributors?|GMD|
+|[New Contributors of Commits](https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors-new.md)|What is the number of persons contributing with an accepted commit for the first time?|GMD|
 |New Contributors* vs Maintainers**|Ratio of new contributors to maintainers over time.|
 |Non-Source Contributions|Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc...|
 |Number of Active Users|Number of active users of the project.|
