@@ -70,9 +70,9 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Bus Factor](activity-metrics/bus-factor.md)|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
-|[Closed Issues](activity-metrics/closed-issues.md) | What is the number of closed issues? |
+|[Closed Issues](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-closed.md) | What is the number of closed issues? |GMD|
 |[Closed Issues New Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-first-time-closed.md)|What is the number of persons closing an issue for the first time?|GMD|
-|[Closed Issue Resolution Duration](activity-metrics/closed-issue-resolution-duration.md) | What is the duration of time for issues to be resolved?|
+|[Closed Issue Resolution Duration](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-closed-resolution-duration.md) | What is the duration of time for issues to be resolved?|GMD|
 |[Code Commits](activity-metrics/code-commits.md)| What is the number of code commits?|
 |[Code Merge Duration](activity-metrics/code-merge-duration.md) | What is the duration of time between code merge request and code commit?|
 |Code Modularity|Modular code allows parallel development, which Linus Torvalds drove for Linux (OSLS Torvalds). (Baldwin & Clark, 2006).|
@@ -100,13 +100,13 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Downloads of Non-software Artifacts|Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc.).|
 |Elephant Factor|If 50% of community members are employed by the same company, it is the elephant in the room. Formally: The minimum number of companies whose employees perform 50% of the commits|
 |File License Declarations|A list of license declarations on the software package files.|
+|[First Response to Issue Duration](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-maintainer-response-duration.md)|Time between a new issue is opened and a maintainer responds Also called: bug response rate. The maintainer is believed to not “pile on” but try to solve an issue|GMD|
 |[Followers](activity-metrics/followers.md)|Number of followers (GitHub).|
 |[Forks](activity-metrics/forks.md)|Number of forks.|GMD|
 |Gatherings|Number of face-to-face/in-person meetings per year. Resets contentious issues; Resolve tensions; Avoid longstanding grudges.|
 |Installs|Number of software installations of the project.|
 |[Issue Comments](activity-metrics/issue-comments.md)|Number of comments per issue.|
-[Issue Resolution Efficiency](activity-metrics/issue-resolution-efficiency.md) | What is the number of closed issues/number of abandoned issues?
-|[First Response to Issue Duration](activity-metrics/first-response-to-issue-duration.md)| Time between a new issue is opened and a maintainer responds. Also called: bug response rate. The maintainer is believed to not "pile on" but try to solve an issue.|
+[Issue Resolution Efficiency](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-closed-resolution-efficiency.md) | What is the number of closed issues/number of abandoned issues?|GMD|
 |[Issues submitted/closed](activity-metrics/issues-submitted-closed.md)|Issues submitted vs. issues closed. [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap).|
 |Job Postings|Number of job postings that mention the project as a preferred or required skill.|
 |Known Vulnerabilities|Number of reported vulnerabilities. Could be limited to issue-tracker or extended vulnerability databases (e.g. CVE).|
@@ -134,9 +134,9 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Number of Active Users|Number of active users of the project.|
 |Number of Contributing Organizations|Number of organizations participating in the project over time.|
 |Onion Layers|Distance between onion model layers (users, contributors, committers, and steering committee). Rule of thumb: factor of 10x between layers. (OSLS'17 Node.js keynote).|
-|[Open Issues](activity-metrics/open-issues.md)| What is the number of open issues?|
+|[Open Issues](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-open.md)| What is the number of open issues?|GMD|
 |[Open Issues New Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-first-time-opened.md)|What is the number of persons opening an issue for the first time?|GMD|
-|[Open Issue Age](activity-metrics/open-issue-age.md) | What is the the age of open issues?|
+|[Open Issue Age](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-open-age.md) | What is the the age of open issues?|GMD|
 |Package License Declaration|A list of license declarations on the software package.|
 |Paid Developers|Number of paid developers in community over time.|
 |Path to Leadership|A communicated path from lurker to contributor to maintainer. (or. track members: time from user to maintainer/leader). If active contributors are not included in leadership decisions they might lose interest and leave. (Focus on least likely contributor).|
