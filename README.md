@@ -53,7 +53,7 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 The following is a full list of identified metrics. How the metrics live in practice is work that happens in the workgroups. 
 
 
-|Name|Description|Deployment in CHAOSS Workgroup|
+|Name|Question/Description|Deployment in CHAOSS Workgroup|
 |---|---|---|
 |Accepted Code Contributions|Percentage of new contributor code versus total code over time.|
 |Age of Community|Time since repository/organization was registered; or time since first release (Chengalur-Smith et al., 2010; Grewal, Lilien, & Mallapragada, 2006).|
@@ -62,10 +62,10 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Apache Maturity Model| The [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) guidelines for assessing the maturity of a project.|
 |[Attendees Demographics](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/attendee-demographics.md)|How diverse are the attendees?|D&I|
 |Availability of Add-on Products|Availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software.|
+|Average Issue Resolution Time|The average amount of time it takes for issues to be closed.|
 |Average Time of First Maintainer Response to Code Merge Request|The average amount of time it takes for a maintainer to make the first response to a code merge request.|
 |Average Time of First Response to Issue|The average amount of time it takes for the first response to an issue.|
 |Average Time of Open Issues|The average amount of time open issues have remained open.|
-|Average Issue Resolution Time|The average amount of time it takes for issues to be closed.|
 |[Board/Council Diversity](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/governance/board-council-diversity.md)|What is the diversity within our governing board or council?|D&I|
 |Blogposts|Number of blogposts that mention the project.|
 |Bug Age|Age of known bugs in issue tracker.|
@@ -88,8 +88,8 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Collaboration Style](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/contribution/collaboration-style.md)|How inclusive is community collaboration?|D&I|
 |Commercial Offerings|Availability of commercial products or services based on the project.|
 |Commit Bias|Acceptance rate and time to acceptance differences per gender, ethnicity, and relevant diversity characteristics.|
-|[Community Activity](activity-metrics/community-activity.md)|Contribution Frequency. Contribution = commit, issue, comment, etc).|
 |[Communication Channels](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/channels.md)|How welcoming, responsive, respectful are interactions even on hot topics of debate? What is the diversity of voices speaking/being heard?|D&I|
+|[Community Activity](activity-metrics/community-activity.md)|Contribution Frequency. Contribution = commit, issue, comment, etc).|
 |[Contributing Organizations](https://github.com/chaoss/wg-gmd/blob/master/metrics/organizations.md) | What is the number of contributing organizations?|GMD|
 |[Contribution Acceptance](https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-merged-vs-closed.md)|Ratio of contributions accepted vs. closed without acceptance.|GMD|
 |Contribution Age|Time since last contribution. Contribution = commit, issue, comment, etc.).|
@@ -149,7 +149,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[New Contributors of Code Reviews](https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-code-reviews-contributors-new.md)|What is the number of persons contributing with reviews of code for the first time?|GMD|
 |[New Contributors on the Email List](https://github.com/chaoss/wg-gmd/blob/master/metrics/mailing-lists-messages-contributors-new.md)|What is the number of persons posting messages in mailing lists for the first time?|GMD|
 |New Contributors* vs Maintainers**|Ratio of new contributors to maintainers over time.|
-|Non-Source Contributions|Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc.|
+|Non-source Contributions|Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc.|
 |Number of Active Users|Number of active users of the project.|
 |Number of Contributing Organizations|Number of organizations participating in the project over time.|
 |Onion Layers|Distance between onion model layers (users, contributors, committers, and steering committee). Rule of thumb: factor of 10x between layers. (OSLS'17 Node.js keynote).|
