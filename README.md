@@ -56,7 +56,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Name|Description|Deployment in CHAOSS Workgroup|
 |---|---|---|
 |Accepted Code Contributions|Percentage of new contributor code versus total code over time.|
-|Age of Community|Time since repository/organization was registered; or time since first release. "Results showed that the age of the project played a marginally significant role in attracting active users, but not developers. We attribute this differential effect of age on users and developers to the fact that age may be seen as an indicator of application maturity by users, and hence taken as a positive signal, whereas it may convey more ambiguous signals to developers." (Chengalur-Smith et al., 2010, p.674) (Grewal, Lilien, & Mallapragada, 2006).|
+|Age of Community|Time since repository/organization was registered; or time since first release. (Chengalur-Smith et al., 2010; Grewal, Lilien, & Mallapragada, 2006).|
 |All Licenses|List of licenses.|
 |[Alternatives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-alternatives.md)|Are their a variety of communication channels?|D&I|
 |Apache Maturity Model| The [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) provides guidelines for assessing the maturity of a project.|
