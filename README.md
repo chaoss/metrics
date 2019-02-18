@@ -119,6 +119,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |License Declared|What license does the project declare.|
 |License Identification Methods|A list of methods or tools used for identifying licenses in files.|
 |[Lines of Code Changed](activity-metrics/lines-of-code-changed.md) | What is the number of lines of code changed?|
+|[Listening](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-listening.md)|How well do our mechanisms for listening accommodate community?|D&I|
 |Maintainer Promotion|Last time a maintainer was added.|
 |[Maintainer Response to Merge Request Duration](activity-metrics/maintainer-response-to-merge-request-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?|GMD|
 |[New Contributing Organizations](https://github.com/chaoss/wg-gmd/blob/master/metrics/organizations-new.md) | What is the number of new contributing organizations?|GMD|
