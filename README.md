@@ -58,6 +58,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Accepted Code Contributions|Percentage of new contributor code versus total code over time.|
 |Age of Community|Time since repository/organization was registered; or time since first release. "Results showed that the age of the project played a marginally significant role in attracting active users, but not developers. We attribute this differential effect of age on users and developers to the fact that age may be seen as an indicator of application maturity by users, and hence taken as a positive signal, whereas it may convey more ambiguous signals to developers." (Chengalur-Smith et al., 2010, p.674) (Grewal, Lilien, & Mallapragada, 2006).|
 |All Licenses|List of licenses.|
+|[Alternatives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-alternatives.md)|Are their a variety of communication channels?|D&I|
 |Apache Maturity Model| The [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) provides guidelines for assessing the maturity of a project.|
 |Availability of Add-on Products|Availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software.|
 |Blogposts|Number of blogposts that mention the project.|
@@ -68,6 +69,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Bug Age|Age of known bugs in issue tracker. Use label for determining bugs?|
 |Bugs after Release|Number of bugs reported after a release.|
 |[Bus Factor](activity-metrics/bus-factor.md)|The number of developers it would need to lose to destroy its progress. Alternatively: Number of companies that would have to stop support.|
+|[Captioning](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-captioning.md)|Do we provide text captioning for spoken communication?|D&I|
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
 |[Closed Issues](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-closed.md) | What is the number of closed issues? |GMD|
@@ -122,6 +124,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Listening](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-listening.md)|How well do our mechanisms for listening accommodate community?|D&I|
 |Maintainer Promotion|Last time a maintainer was added.|
 |[Maintainer Response to Merge Request Duration](activity-metrics/maintainer-response-to-merge-request-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?|GMD|
+|[Mode Alternatives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-mode-alternatives.md)|What alternative communication modes do we offer?|D&I|
 |[New Contributing Organizations](https://github.com/chaoss/wg-gmd/blob/master/metrics/organizations-new.md) | What is the number of new contributing organizations?|GMD|
 |New Contributions|Percentage of Contributions (patches, pull requests, etc.) from New Contributors vs All Accepted Contributions Over Time.|
 |New Contributor Organizations|New organizations contributing to the project over time.|
@@ -171,11 +174,13 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Role Definitions|Existence and quality of role definitions. Governance related. Relates to "Path to Leadership".|
 |[Size of Code Base](activity-metrics/size-of-code-base.md)|Lines of code.|
 |Software Downloads|Number of project software downloads. Beware: downloads might be skewed by builders. Used as measure for success (Grewal, Lilien, & Mallapragada, 2006).|
+|[Speaking](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-speaking.md)|Are we speaking to our communities in an accessible range?|D&I|
 |Stack Overflow|Several metrics: # of questions asked, response rate, number of responding people that have verified solutions.|
 |Stars|Number of stars (GitHub).|
 |[Sub-Projects](https://github.com/chaoss/wg-gmd/blob/master/metrics/sub-projects.md) | What is the number of sub-projects?|GMD|
 |Test Coverage|Percentage of codebase covered by developer tests.|
 |Time to Contributor|Time to becoming a contributor.|
+|[Technical Jargon](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-technical-jargon.md)|Does the language skew to technical-confidence vs. technical ability?|D&I|
 |[Total Contributing Organizations](activity-metrics/total-contributing-organizations.md)|The total number of organizations contributing over time.|
 |[Total Contributors](activity-metrics/total-contributors.md)|The total number of contributors over time on any platform.|
 |Total New Contributing Organizations|The total number of new organizations contributing over time.|
