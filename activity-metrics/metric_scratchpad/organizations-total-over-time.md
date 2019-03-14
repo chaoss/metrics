@@ -1,4 +1,4 @@
-# Total Contributing Organizations
+# Contributing Organizations Total Over Time
 
 ## 1. Description
 The total number of organizations contributing over time.

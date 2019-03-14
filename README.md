@@ -52,6 +52,7 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 
 The following is a full list of identified metrics. How the metrics live in practice is work that happens in the workgroups. 
 
+**Please note that there is a folder called "metrics_scratchpad" underneath the activity-metrics folder. This directory is for metrics that are nascent ideas but have not been through our metric naming and classification process yet. We are trying to name all the metrics according to the types of data they characterize. For example, metrics related to "code" are prefixed with "code-", etc.**
 
 |Name|Question/Description|Deployment in CHAOSS Workgroup|
 |---|---|---|
