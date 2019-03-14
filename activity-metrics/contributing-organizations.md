@@ -24,4 +24,3 @@ Sample inputs (including contexts) and expected outputs for this metric. Impleme
 
 ## 8. External References (Literature)
 Blog posts, websites, academic papers, or books that mention the metric.
-

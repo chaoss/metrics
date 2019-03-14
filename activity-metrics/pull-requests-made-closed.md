@@ -1,4 +1,4 @@
-# Pull Request made/closed
+# Pull Request Made vs. Closed
 
 ## 1. Description
 Pull requests made vs. pull requests closed
