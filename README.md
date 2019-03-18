@@ -2,9 +2,9 @@
 
 Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures metrics for assessing open source community health and sustainability. Such metrics are aimed at understanding project diversity & inclusion, growth-maturity-decline, risk, and value. For more information about the CHAOSS project go to our website at: https://chaoss.community/
 
-## Goals of CHAOSS Metrics 
+## Goals of CHAOSS Metrics
 
-(1) Capturing metrics based on the work of community members who have participated at CHAOSS events, worked in the repo, and discussed through on email. We capture the metrics that people find meaningful to their particular contexts when understanding project health and sustatinability. In this, we work to represent metrics through concise definitions, known uses cases, sample visualizations, and sample implementations. The CHAOSS Metrics repository captures all potential metrics. It is the WGs that make these metrics meaningful, leading to our second goal. 
+(1) Capturing metrics based on the work of community members who have participated at CHAOSS events, worked in the repo, and discussed through on email. We capture the metrics that people find meaningful to their particular contexts when understanding project health and sustatinability. In this, we work to represent metrics through concise definitions, known uses cases, sample visualizations, and sample implementations. The CHAOSS Metrics repository captures all potential metrics. It is the WGs that make these metrics meaningful, leading to our second goal.
 
 (2) Participating with the CHAOSS workgroups. Through thes workgroups, we consolidate metrics in meaningful ways and inform the metrics by questioning how to capture and deploy (or not) them:
 
@@ -50,7 +50,7 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 
 # Full List of Activity Metrics
 
-The following is a full list of identified metrics. How the metrics live in practice is work that happens in the workgroups. 
+The following is a full list of identified metrics. How the metrics live in practice is work that happens in the workgroups.
 
 **Please note that there is a folder called "metrics_scratchpad" underneath the activity-metrics folder. This directory is for metrics that are nascent ideas but have not been through our metric naming and classification process yet. We are trying to name all the metrics according to the types of data they characterize. For example, metrics related to "code" are prefixed with "code-", etc.**
 
@@ -74,7 +74,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Bus Factor](activity-metrics/bus-factor.md)|The number of developers/organizations it would need to lose to destroy its progress.|Risk|
 |[Captioning](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-captioning.md)|Do we provide text captioning for spoken communication?|D&I|
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
-|CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
+|CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|Risk|
 |[Closed Issues](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-closed.md) | What is the number of closed issues? |GMD|
 |[Closed Issues New Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-first-time-closed.md)|What is the number of persons closing an issue for the first time?|GMD|
 |[Closed Issue Resolution Duration](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-closed-resolution-duration.md) | What is the duration of time for issues to be resolved?|GMD|
@@ -225,7 +225,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 
 ## How to Contribute and Participate to the CHAOSS Project
 
-[Contribute and Participate](https://chaoss.community/participate/). If you would like to propose a new metric to this repository, open a new issue and provide a pull request to open the discussion about inclusion. If you would like to provide metric details, we have a __[metric-template](activity-metrics/metric-template.md)__ to be used. Follow the same approach regarding an issue/pull request to have your detail changes discussed and potentially merged. 
+[Contribute and Participate](https://chaoss.community/participate/). If you would like to propose a new metric to this repository, open a new issue and provide a pull request to open the discussion about inclusion. If you would like to provide metric details, we have a __[metric-template](activity-metrics/metric-template.md)__ to be used. Follow the same approach regarding an issue/pull request to have your detail changes discussed and potentially merged.
 
 ## Repository Maintainers
 
