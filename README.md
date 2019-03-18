@@ -71,7 +71,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Blogposts|Number of blogposts that mention the project.|
 |Bug Age|Age of known bugs in issue tracker.|
 |Bugs after Release|Number of bugs reported after a release.|
-|[Bus Factor](activity-metrics/bus-factor.md)|The number of developers/organizations it would need to lose to destroy its progress.|
+|[Bus Factor](activity-metrics/bus-factor.md)|The number of developers/organizations it would need to lose to destroy its progress.|Risk|
 |[Captioning](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-captioning.md)|Do we provide text captioning for spoken communication?|D&I|
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
