@@ -38,7 +38,7 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
   * Ecosystem Health (upstream, downstream, and related projects)
   * Aggregate Project-tree Health (combined health metrics of all linked dependencies)
 
-## Some Contexts to Consdider When Evaluating Health
+## Some Contexts to Consider When Evaluating Health
 
   * Value Derivation
   * Style of Project
