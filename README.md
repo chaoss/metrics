@@ -4,9 +4,9 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 
 ## Goals of CHAOSS Metrics 
 
-(1) Capturing metrics based on the work of community members who have participated at CHAOSS events, worked in the repo, and discussed through on email. We capture the metrics that people find meaningful to their particular contexts when understanding project health and sustatinability. In this, we work to represent metrics through concise definitions, known uses cases, sample visualizations, and sample implementations. The CHAOSS Metrics repository captures all potential metrics. It is the WGs that make these metrics meaningful, leading to our second goal. 
+(1) Capturing metrics based on the work of community members who have participated at CHAOSS events, worked in the repo, and discussed through on email. We capture the metrics that people find meaningful to their particular contexts when understanding project health and sustainability. In this, we work to represent metrics through concise definitions, known uses cases, sample visualizations, and sample implementations. The CHAOSS Metrics repository captures all potential metrics. It is the WGs that make these metrics meaningful, leading to our second goal. 
 
-(2) Participating with the CHAOSS workgroups. Through thes workgroups, we consolidate metrics in meaningful ways and inform the metrics by questioning how to capture and deploy (or not) them:
+(2) Participating with the CHAOSS workgroups. Through these workgroups, we consolidate metrics in meaningful ways and inform the metrics by questioning how to capture and deploy (or not) them:
 
 [CHAOSS Diversity & Inclusion Workgroup](https://github.com/chaoss/wg_diversity_inclusion)
 
@@ -68,7 +68,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Average Time of First Response to Issue|The average amount of time it takes for the first response to an issue.|
 |Average Time of Open Issues|The average amount of time open issues have remained open.|
 |[Board/Council Diversity](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/governance/board-council-diversity.md)|What is the diversity within our governing board or council?|D&I|
-|Blogposts|Number of blogposts that mention the project.|
+|Blog posts|Number of blog posts that mention the project.|
 |Bug Age|Age of known bugs in issue tracker.|
 |Bugs after Release|Number of bugs reported after a release.|
 |[Bus Factor](activity-metrics/bus-factor.md)|The number of developers/organizations it would need to lose to destroy its progress.|
@@ -98,7 +98,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Contribution Sentiment](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/contribution/contribution-sentiment.md)|What are the stars, thumbs up, sentiment in comments?|D&I|
 |[Contribution-Type](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/contribution/contribution-type.md)|Coding, Quality Assurance/Testing, Localization/L10N, Diversity & Inclusion, Event Organization, Documenting, Community Building/Management, Teaching, Trouble-shooting/Support, Creative/Design, Social Media, Writing Articles, Bug Triaging, UI/UX, Security/Campaign Advocacy|D&I|
 |[Contribution Type](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/recognition/contribution-type.md)|Does recognition skew to a particular kind of contribution?|D&I|
-|[Contribuiton Volume](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/recognition/contribution-volume.md)|Do we have a bias towards small contributions or multiple contributions?|D&I|
+|[Contribution Volume](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/recognition/contribution-volume.md)|Do we have a bias towards small contributions or multiple contributions?|D&I|
 |[Contributor Activity](activity-metrics/contributor-activity-level.md)|Activity level of individual contributors.|
 |[Contributor Breadth](activity-metrics/contributor-breadth.md)|Ratio of non-core committers (drive-by and peripheral committers).|
 |[Contributor Demographics](activity-metrics/contributor-demographics.md)| Gender, age, location, education, and skills.|
