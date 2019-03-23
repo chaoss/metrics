@@ -129,7 +129,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Job Postings|Number of job postings that mention the project as a preferred or required skill.|
 |Known Vulnerabilities|Number of reported vulnerabilities. Could be limited to issue-tracker or extended vulnerability databases (e.g. CVE).|
 |Language Bias|Bias against gender and ethnicity in use of language.|
-|[Language Makeup](activity-metrics/language-makeup.md)|Makeup of a project in terms of whitepsace, code, and comments.|
+|[Language Makeup](activity-metrics/language-makeup.md)|Makeup of a project in terms of whitespace, code, and comments.|
 |Leadership Demographics|Demographics of project's leadership (e.g. Board, Technical Steering Committee, Maintainers, etc.) over time.|
 |License Conflicts|Project containing incompatible licenses.|
 |License Count|Number of licenses.|
