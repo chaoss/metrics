@@ -12,6 +12,10 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 
 [CHAOSS Growth, Maturity, Decline Workgroup](https://github.com/chaoss/wg-gmd)
 
+[CHAOSS Value Workgroup](https://github.com/chaoss/wg-value)
+
+[CHAOSS Risk Workgroup](https://github.com/chaoss/wg-risk)
+
 ## Some Reasons to Assess Community Health
 
   * Risk Mitigation
