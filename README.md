@@ -63,7 +63,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Accepted Code Contributions|Percentage of new contributor code versus total code over time.|
 |Age of Community|Time since repository/organization was registered; or time since first release (Chengalur-Smith et al., 2010; Grewal, Lilien, & Mallapragada, 2006).|
 |All Licenses|List of licenses.|
-|[Alternatives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-alternatives.md)|Are their a variety of communication channels?|D&I|
+|[Alternatives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-alternatives.md)|Are there a variety of communication channels?|D&I|
 |Apache Maturity Model| The [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) guidelines for assessing the maturity of a project.|
 |[Attendees Demographics](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/attendee-demographics.md)|How diverse are the attendees?|D&I|
 |Availability of Add-on Products|Availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software.|
@@ -129,7 +129,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Issue Comments](activity-metrics/issue-comments.md)|Number of comments per issue.|
 [Issue Resolution Efficiency](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-closed-resolution-efficiency.md) | What is the number of closed issues/number of abandoned issues?|GMD|
 |[Issues Submitted/Closed](activity-metrics/issues-submitted-closed.md)|Issues submitted vs. issues closed. [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap).|
-|[Issue Tracker](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/issue-tracker.md)|How well a project issue tracker setup to invite new contributors, skilled contributors, non-technical contributors?|D&I|
+|[Issue Tracker](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/issue-tracker.md)|How well is a project issue tracker setup to invite new contributors, skilled contributors, non-technical contributors?|D&I|
 |Job Postings|Number of job postings that mention the project as a preferred or required skill.|
 |Known Vulnerabilities|Number of reported vulnerabilities. Could be limited to issue-tracker or extended vulnerability databases (e.g. CVE).|
 |Language Bias|Bias against gender and ethnicity in use of language.|
