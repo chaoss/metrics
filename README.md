@@ -63,7 +63,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Accepted Code Contributions|Percentage of new contributor code versus total code over time.|
 |Age of Community|Time since repository/organization was registered; or time since first release (Chengalur-Smith et al., 2010; Grewal, Lilien, & Mallapragada, 2006).|
 |All Licenses|List of licenses.|
-|[Alternatives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-alternatives.md)|Are their a variety of communication channels?|D&I|
+|[Alternatives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-alternatives.md)|Are there a variety of communication channels?|D&I|
 |Apache Maturity Model| The [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html) guidelines for assessing the maturity of a project.|
 |[Attendees Demographics](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/attendee-demographics.md)|How diverse are the attendees?|D&I|
 |Availability of Add-on Products|Availability of 3rd party plug-ins, modules, utilities, etc. that provide additional functionality for the project's software.|
