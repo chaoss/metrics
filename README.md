@@ -1,6 +1,6 @@
 # CHAOSS Metrics
 
-Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures metrics for assessing open source community health and sustainability. Such metrics are aimed at understanding project diversity & inclusion, growth-maturity-decline, risk, and value. For more information about the CHAOSS project go to our website at: https://chaoss.community/
+Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures metrics for assessing open source community health and sustainability. Such metrics are aimed at understanding project diversity & inclusion, growth-maturity-decline, risk, and value. For more information about the CHAOSS project go to our website at https://chaoss.community/
 
 ## Goals of CHAOSS Metrics 
 
