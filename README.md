@@ -75,10 +75,10 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Blog posts|Number of blog posts that mention the project.|
 |Bug Age|Age of known bugs in issue tracker.|
 |Bugs after Release|Number of bugs reported after a release.|
-|[Bus Factor](activity-metrics/bus-factor.md)|The number of developers/organizations it would need to lose to destroy its progress.|
+|[Bus Factor](activity-metrics/bus-factor.md)|The number of developers/organizations it would need to lose to destroy its progress.|Risk|
 |[Captioning](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-captioning.md)|Do we provide text captioning for spoken communication?|D&I|
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
-|CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|
+|CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|Risk|
 |[Closed Issues](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-closed.md) | What is the number of closed issues? |GMD|
 |[Closed Issues New Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-first-time-closed.md)|What is the number of persons closing an issue for the first time?|GMD|
 |[Closed Issue Resolution Duration](https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-closed-resolution-duration.md) | What is the duration of time for issues to be resolved?|GMD|
