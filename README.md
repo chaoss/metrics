@@ -148,15 +148,15 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Maintainer Promotion|Last time a maintainer was added.|
 |[Maintainer Response to Merge Request Duration](activity-metrics/maintainer-response-to-merge-request-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?|GMD|
 |[Mode Alternatives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-mode-alternatives.md)|What alternative communication modes do we offer?|D&I|
-|[New Contributing Organizations](https://github.com/chaoss/wg-gmd/blob/master/metrics/organizations-new.md) | What is the number of new contributing organizations?|GMD|
+|[New Contributing Organizations]|(https://github.com/chaoss/wg-gmd/blob/master/metrics/organizations-new.md)|What is the number of new contributing organizations?|GMD|
 |New Contributions|Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time.|
-|[New Contributors]|(https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors-new.md) | What is the number of new contributors?|GMD|
+|[New Contributors]|(https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors-new.md)|What is the number of new contributors?|GMD|
 |[New Contributors Closing Issues]|(https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-first-time-closed.md)|What is the number of persons closing an issue for the first time?|GMD|
 |[New Contributors of Code Reviews]|(https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-code-reviews-contributors-new.md)|What is the number of persons contributing with reviews of code for the first time?|GMD|
 |[New Contributors of Commits]|(https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-merge-contributor-new.md)|What is the number of persons contributing with an accepted commit for the first time?|GMD|
 |[New Contributors of Initiated Code Reviews]|(https://github.com/chaoss/wg-gmd/blob/master/focus_areas/community_growth.md)|What is the number of persons initiating a code review for the first time?|GMD|
-|[New Contributors of Code Reviews](https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-code-reviews-contributors-new.md)|What is the number of persons contributing with reviews of code for the first time?|GMD|
-|[New Contributors on the Email List](https://github.com/chaoss/wg-gmd/blob/master/metrics/mailing-lists-messages-contributors-new.md)|What is the number of persons posting messages in mailing lists for the first time?|GMD|
+|[New Contributors of Code Reviews]|(https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-code-reviews-contributors-new.md)|What is the number of persons contributing with reviews of code for the first time?|GMD|
+|[New Contributors on the Email List]|(https://github.com/chaoss/wg-gmd/blob/master/metrics/mailing-lists-messages-contributors-new.md)|What is the number of persons posting messages in mailing lists for the first time?|GMD|
 |New Contributors* vs Maintainers**|Ratio of new contributors to maintainers over time.|
 |Non-source Contributions|Track contributions like running tests in test environment, writing blog posts, producing videos, giving talks, etc.|
 |Number of Active Users|Number of active users of the project.|
