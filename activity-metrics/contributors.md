@@ -18,7 +18,7 @@ This metric is useful to be able to see how many people are actually contributin
 ![img](https://github.com/Illuminatian/Assets/blob/master/CommiterCode2.PNG)
 ![img](https://github.com/Illuminatian/Assets/blob/master/CommiterCode1.PNG)
 
-The visualization can be adjusted to show more or less contributers by changing the 'Size' value in the 'Buckets'. A larger number will show more, a smaller number will show less.
+The visualization can be adjusted to show more or less contributors by changing the 'Size' value in the 'Buckets'. A larger number will show more, a smaller number will show less.
 
 
 ### GHTorrent: Contributions by user
@@ -73,10 +73,9 @@ Nor a way to differentiate merge commits from other commits.
 
 Because of this, for the following SQL query I will define contributors as "users who have made a commit"
 
-When viewing the table, one may notice that there is a separate author_id and committer_id for each commit
-the commit author has written the code of the commit.
-the commit committer has made the commit
-example: author writes some code and does a pull request.  committer approves/merges the pull request
+When viewing the table, one may notice that there is a separate author_id and committer_id for each commit.
+The commit author has written the code of the commit, the commit committer has made the commit.
+Example: author writes some code and does a pull request, committer approves/merges the pull request.
 
 For the following SQL, I am considering the author to be the contributor.
 
