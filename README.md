@@ -93,10 +93,10 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Collaboration Style](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/contribution/collaboration-style.md)|How inclusive is community collaboration?|D&I|
 |Commercial Offerings|Availability of commercial products or services based on the project.|
 |Commit Bias|Acceptance rate and time to acceptance differences per gender, ethnicity, and relevant diversity characteristics.|
+|Commit Hours|Does a contributor commit during or outside of regular business hours? Triangulate UTC commit times from a contributor with locale of contributor and employer to determine regular business hours.|
 |[Communication Channels](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/channels.md)|How welcoming, responsive, respectful are interactions even on hot topics of debate? What is the diversity of voices speaking/being heard?|D&I|
 |[Community Activity](activity-metrics/community-activity.md)|Contribution Frequency. Contribution = commit, issue, comment, etc).|
 |[Contributing Organizations](https://github.com/chaoss/wg-gmd/blob/master/metrics/organizations.md) | What is the number of contributing organizations?|GMD|
-|[Contribution Acceptance](https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-merged-vs-closed.md)|Ratio of contributions accepted vs. closed without acceptance.|GMD|
 |Contribution Age|Time since last contribution. Contribution = commit, issue, comment, etc.).|
 |[Contribution Diversity](activity-metrics/contribution-diversity.md)|Ratio of code committed by contributors other than original project initiator. Contributions going up beyond the core team.|
 |[Contribution Sentiment](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/contribution/contribution-sentiment.md)|What are the stars, thumbs up, sentiment in comments?|D&I|
@@ -105,12 +105,15 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Contribution Volume](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/recognition/contribution-volume.md)|Do we have a bias towards small contributions or multiple contributions?|D&I|
 |[Contributor Activity](activity-metrics/contributor-activity-level.md)|Activity level of individual contributors.|
 |[Contributor Breadth](activity-metrics/contributor-breadth.md)|Ratio of non-core committers (drive-by and peripheral committers).|
+|[Contributor Country]|Primary residence of the contributor.|
 |[Contributor Demographics](activity-metrics/contributor-demographics.md)| Gender, age, location, education, and skills.|
 |[Contributor Diversity](activity-metrics/contributor-diversity.md)| Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
+|[Contributor Employer Country]|Headquarters location of the organization employing the contributor if they are contributing on behalf of their employer.|
 |Contributor Importance|Percentage of commits by individual contributors from identified organizations.|
 |Contributor Seniority|For each active contributor, time since first contribution. Experienced contributors providing value to the community, since they carry with them (in part) the history of the project.|
 |[Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors.md)| What is the number of contributors?|GMD|
 |Copyright Declaration|The degree to which the project properly declares copyright ownership, including the copyright symbol or 'copyright' word, the year of the creation, the name of the author, and a rights statement.|
+|Country|Country location of contributor.|
 |Decision Distribution|Central vs. distributed decision making. Governance model, scalability of community.|
 |Dependency Depth|Number of projects included in code base + number of projects relying on focal project. Indicator about centrality in open source dependency network.|
 |Distribution of Work|How much is recent activity distributed?|
@@ -148,6 +151,8 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[New Contributing Organizations](https://github.com/chaoss/wg-gmd/blob/master/metrics/organizations-new.md) | What is the number of new contributing organizations?|GMD|
 |New Contributions|Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time.|
 |[New Contributors](https://github.com/chaoss/wg-gmd/blob/master/metrics/contributors-new.md) | What is the number of new contributors?|GMD|
+|[New Contributors Closing Issues]|(https://github.com/chaoss/wg-gmd/blob/master/metrics/issues-first-time-closed.md)|What is the number of persons closing an issue for the first time?|GMD|
+|[New Contributors of Code Reviews]|(https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-code-reviews-contributors-new.md)|What is the number of persons contributing with reviews of code for the first time?|GMD|
 |[New Contributors of Commits](https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-merge-contributor-new.md)|What is the number of persons contributing with an accepted commit for the first time?|GMD|
 |[New Contributors of Initiated Code Reviews](https://github.com/chaoss/wg-gmd/blob/master/focus_areas/community_growth.md)|What is the number of persons initiating a code review for the first time?|GMD|
 |[New Contributors of Code Reviews](https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-code-reviews-contributors-new.md)|What is the number of persons contributing with reviews of code for the first time?|GMD|
@@ -179,6 +184,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request.|
 |[Pull Request Made vs. Closed](activity-metrics/pull-requests-made-closed.md)|Pull requests made vs. pull requests closed [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap). Encompasses number of pull requests rejected.|
 |[Pull Requests Merged]|Number of Code Commits|
+|[Pull Requests Merged/Closed (Contribution Acceptance)](https://github.com/chaoss/wg-gmd/blob/master/metrics/pull-requests-merged-vs-closed.md)|Ratio of contributions accepted vs. closed without acceptance.|GMD|
 |[Pull Requests Open](activity-metrics/pull-requests-open.md)|Number of open pull requests. |GMD|
 |[Pull Requests Over Time](activity-metrics/pull-requests-over-time.md)|How many pull requests have been submitted over a specified time period?|
 |Qualified Committers|Contributions over time and what components they commit to over time.|
@@ -208,6 +214,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Team/Module Ownership Diversity](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/governance/team-module-ownership-diversity.md)|What is the diversity of other bureaucratic and administrative foundation teams, e.g. working groups, committees, or ambassador groups?|D&I|
 |Test Coverage|Percentage of codebase covered by developer tests.|
 |Time to Contributor|Time to becoming a contributor.|
+|Timezone|Timezone of contributor.|
 |[Technical Jargon](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-technical-jargon.md)|Does the language skew to technical-confidence vs. technical ability?|D&I|
 |[Total Contributing Organizations](activity-metrics/total-contributing-organizations.md)|The total number of organizations contributing over time.|
 |[Total Contributors](activity-metrics/total-contributors.md)|The total number of contributors over time.|
