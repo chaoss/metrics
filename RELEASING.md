@@ -11,4 +11,4 @@ This document provides requirements for releasing CHAOSS metrics. Below defines 
 5. Metrics must be consistently referenced across the CHAOSS organization. This typically includes (1) the name/question listing in the focus area, (2) the name/question listing on the detail page, and (3) name/question listing in the aggregate metric list at: https://github.com/chaoss/metrics
 6. Metrics must be identified as 'ready for release' in the following spreadsheet: https://docs.google.com/spreadsheets/d/1_jwkwzs8s6SAm2vVY-8lzTQk3YT0YpOveTlKOwjd2eQ/edit#gid=0
 
-Once these criteria are met, open an issue at: https://github.com/chaoss/metrics indicating metrics for release. 
+Once these criteria are met, open an issue at: https://github.com/chaoss/metrics indicating the working group and metrics for release. 
