@@ -1,4 +1,6 @@
-This document provides requirements for releasing CHAOSS metrics. 
+## RELEASING CHAOSS METRICS ##
+
+This document provides requirements for releasing CHAOSS metrics. These steps 
 
 1) Metrics must be associated with a CHAOSS working group
 2) Metrics must be associated with a working group focus area
