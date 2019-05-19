@@ -79,7 +79,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Captioning](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-captioning.md)|Do we provide text captioning for spoken communication?|D&I|
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
 |CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|Risk|
-|[Closed Issues](https://github.com/chaoss/wg-evolution/blob/master/metrics/issues-closed.md) | What is the number of closed issues? |Evolution|
+|[Closed Issues](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md) | What is the number of closed issues? |Evolution|
 |[Closed Issues New Contributors](https://github.com/chaoss/wg-evolution/blob/master/metrics/issues-first-time-closed.md)|What is the number of persons closing an issue for the first time?|Evolution|
 |[Closed Issue Resolution Duration](https://github.com/chaoss/wg-evolution/blob/master/metrics/issues-closed-resolution-duration.md) | What is the duration of time for issues to be resolved?|Evolution|
 |[Code Commits](activity-metrics/code-commits.md)| What is the number of code commits?|
@@ -87,9 +87,8 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Code of Conduct Enforcement](https://github.com/chaoss/wg-diversity-inclusion/tree/master/focus-areas/governance)|Is enforcement process running at scale (volume, responsiveness, accuracy, fairness)?|D&I|
 |[Code Merge Duration](activity-metrics/code-merge-duration.md) | What is the duration of time between code merge request and code commit?|
 |Code Modularity|Modular code allowing for parallel development (Baldwin & Clark, 2006).|
-|[Code Review Efficiency](activity-metrics/code-review-efficiency.md) | What is the number of merged code changes/number of abandoned code change requests?|Evolution|
-|[Code Review Iteration](activity-metrics/code-review-iteration.md) | What is the number of iterations that occur before a merge request is accepted or declined?|Evolution|
-|[Code Reviews](activity-metrics/code-reviews.md) | What is the number of code reviews?|Evolution|
+|[Code Review Efficiency](https://github.com/chaoss/wg-evolution/blob/master/metrics/pull-requests-code-reviews-efficiency.md) | What is the number of merged code changes/number of abandoned code change requests?|Evolution|
+|[Code Review Iteration](https://github.com/chaoss/wg-evolution/blob/master/metrics/pull-requests-code-reviews-iteration.md) | What is the number of iterations that occur before a merge request is accepted or declined?|Evolution|
 |[Collaboration Style](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/contribution/collaboration-style.md)|How inclusive is community collaboration?|D&I|
 |Commercial Offerings|Availability of commercial products or services based on the project.|
 |Commit Bias|Acceptance rate and time to acceptance differences per gender, ethnicity, and relevant diversity characteristics.|
@@ -146,7 +145,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Lines of Code Changed](activity-metrics/lines-of-code-changed.md) | What is the number of lines of code changed?|
 |[Listening](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-listening.md)|How well do our mechanisms for listening accommodate community?|D&I|
 |Maintainer Promotion|Last time a maintainer was added.|
-|[Maintainer Response to Merge Request Duration](activity-metrics/maintainer-response-to-merge-request-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?|Evolution|
+|[Maintainer Response to Merge Request Duration](https://github.com/chaoss/wg-evolution/blob/master/metrics/pull-requests-maintainer-response-duration.md) | What is the duration of time for a maintainer to make a first response to a code merge request?|Evolution|
 |[Mode Alternatives](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-mode-alternatives.md)|What alternative communication modes do we offer?|D&I|
 |[New Contributing Organizations](https://github.com/chaoss/wg-evolution/blob/master/metrics/organizations-new.md)|What is the number of new contributing organizations?|Evolution|
 |New Contributions|Percentage of contributions (patches, pull requests, etc.) from new contributors vs all accepted contributions over time.|
@@ -162,7 +161,6 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Number of Active Users|Number of active users of the project.|
 |Number of Contributing Organizations|Number of organizations participating in the project over time.|
 |Onion Layers|Distance between onion model layers (users, contributors, committers, and steering committee). Rule of thumb: factor of 10x between layers. (OSLS'17 Node.js keynote).|
-|[Open Issues](https://github.com/chaoss/wg-evolution/blob/master/metrics/issues-open.md)| What is the number of open issues?|Evolution|
 |[Open Issues New Contributors](https://github.com/chaoss/wg-evolution/blob/master/metrics/issues-first-time-opened.md)|What is the number of persons opening an issue for the first time?|Evolution|
 |[Open Issue Age](https://github.com/chaoss/wg-evolution/blob/master/metrics/issues-open-age.md) | What is the the age of open issues?|Evolution|
 |Package License Declaration|A list of license declarations on the software package.|
@@ -179,13 +177,13 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Percentile Distribution of Open Issue Time|Proportional frequency of open issue time duration.|
 |Percentile Distribution of Time to Merge Code|Proportional frequency of code merge to upstream time duration.|
 |Pony Factor|The minimum number of developers performing 50% of the commits. [The Math](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/)|
-|[Pull Request Comments](activity-metrics/pull-request-comments.md)|Number of comments per pull request.|Evolution|
-|[Pull Request Comment Duration](activity-metrics/pull-requests-comment-duration.md)|The difference between the timestamp of the pull request creation date and the most recent comment on the pull request.|Evolution|
+|[Pull Request Comments](https://github.com/chaoss/wg-evolution/blob/master/metrics/pull-requests-comments.md)|Number of comments per pull request.|Evolution|
+|[Pull Request Comment Duration](https://github.com/chaoss/wg-evolution/blob/master/metrics/pull-requests-comment-duration.md)|The difference between the timestamp of the pull request creation date and the most recent comment on the pull request.|Evolution|
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request.|
 |[Pull Request Made vs. Closed](activity-metrics/pull-requests-made-closed.md)|Pull requests made vs. pull requests closed [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap). Encompasses number of pull requests rejected.|
 |[Pull Requests Merged]|Number of Code Commits|
 |[Pull Requests Merged/Closed (Contribution Acceptance)](https://github.com/chaoss/wg-evolution/blob/master/metrics/pull-requests-merged-vs-closed.md)|Ratio of contributions accepted vs. closed without acceptance.|Evolution|
-|[Pull Requests Open](activity-metrics/pull-requests-open.md)|Number of open pull requests. |Evolution|
+|[Pull Requests Open](https://github.com/chaoss/wg-evolution/blob/master/metrics/pull-requests-open.md)|Number of open pull requests. |Evolution|
 |[Pull Requests Over Time](activity-metrics/pull-requests-over-time.md)|How many pull requests have been submitted over a specified time period?|
 |Qualified Committers|Contributions over time and what components they commit to over time.|
 |[Quick Links](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/quick-links.md)|No Question/Definition|D&I|
@@ -199,6 +197,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Repository Size](activity-metrics/repository-size.md)|Overall size of the repository.|
 |[Response Times & Quality](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/response-time-quality.md)|How quickly and well do we respond to suggestions, PRs, questions?|D&I|
 |Retrospectives|Existence of after release meetings. Collect lessons learned, improve processes, recognize contributors.|
+|[Reviews](https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md) | What is new review requests for changes to the source code, during a certain period.?|Evolution|
 |Review Efficiency|Number of merged patches / number of abandoned patches over time.|
 |Rewards|Rewards, shout-outs, recognition, and mentions in pull-requests or change logs.|
 |Roadmap|Existence and quality of roadmap. Best practice as community engagement and scalability (might not be automatically computable).|
