@@ -1,7 +1,7 @@
 # Code Commits
 
 ## 1. Description
-What is the number of code commits?
+The number of code commits
 
 ## 2. Use Cases
 
