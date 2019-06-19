@@ -12,7 +12,7 @@ May indicate public interest in the project.
 
 ## 5. Sample Implementation
 
-### [GHTorrent](http://ghtorrent.org/relational.html)
+### AUGUR
 
 ```SQL
 SELECT COUNT(user_id)
@@ -22,6 +22,8 @@ GROUP BY follower_id
 ```
 
 ## 6. Known Implementations
+
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 7. Test Cases (Examples)
 
