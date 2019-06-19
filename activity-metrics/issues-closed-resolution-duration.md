@@ -1,7 +1,7 @@
 # Closed Issue Resolution Duration
 
 ## 1. Description
-What is the duration of time for issues to be resolved?
+The duration of time for issues to be resolved
 
 ## 2. Use Cases
 
