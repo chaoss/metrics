@@ -1,7 +1,7 @@
 # Issue Comments
 
 ## 1. Description
-Number of Comments per Issue
+Number of comments per issue
 
 ## 2. Use Cases
 
