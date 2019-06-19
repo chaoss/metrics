@@ -1,8 +1,7 @@
 # New Contributors of Code Reviews
 
 ## 1. Description
-What is the number of persons contributing with reviews of code for the first time?
-**this is currently the same as pull-request-code-reviews-new**
+The number of people contributing with reviews of code for the first time
 
 ## 2. Use Cases
 
