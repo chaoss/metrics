@@ -13,7 +13,7 @@ The value of this metric is in observing changes over time.
 
 ## 4. Sample Implementation
 
-### GHTorrent: Community Activity
+### AUGUR: Community Activity
 ```SQL
 /*
 Timeseries of all the contributions to a project, optionally limited to a specific user
@@ -47,5 +47,6 @@ rawContributionsSQL =
 
 ## 5. Known Implementations
 
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)
