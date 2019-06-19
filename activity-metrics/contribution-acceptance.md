@@ -9,7 +9,7 @@ Ratio of contributions accepted vs. closed without acceptance
 
 ## 4. Sample Implementations
 
-### GHTorrent: Pull Request Acceptance Rate (Merged over Opened)
+### AUGUR: Pull Request Acceptance Rate (Merged over Opened)
 
 ```SQL
 SELECT projects.name as project_name, DATE(date_created), CAST(num_approved AS DECIMAL)/CAST(num_open AS DECIMAL) AS approved_over_opened
@@ -31,7 +31,7 @@ JOIN (SELECT count(distinct pull_request_id) AS num_open, projects.id as repo_id
  JOIN projects ON repo_id = projects.id
 ```
 
-### GHTorrent: Pull Requests Accepted
+### AUGUR: Pull Requests Accepted
 
 Assume that a pull request with a history record of being 'merged' has been accepted
 
@@ -55,7 +55,7 @@ where action = 'merged'
 group by projects.id
 ```
 
-### GHTorrent: Pull Requests Accepted Over Time
+### AUGUR: Pull Requests Accepted Over Time
 ```SQL
 SELECT COUNT(DISTINCT pull_request_id) AS num_approved, projects.name AS project_name, DATE(pull_request_history.created_at) AS accepted_on
 FROM pull_request_history
@@ -65,8 +65,7 @@ WHERE action = 'merged'
 GROUP BY projects.id, accepted_on
 ```
 
-
-### GHTorrent: Pull Requests Rejected
+### AUGUR: Pull Requests Rejected
 
 Assume that a pull request with a history record of being 'closed' but lacking one of being 'merged' has been rejected.
 
