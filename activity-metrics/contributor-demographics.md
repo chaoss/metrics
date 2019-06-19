@@ -11,7 +11,7 @@ Gender, age, location, education, and skills over time.
 
 ## 5. Sample Implementation
 
-### GHData (gender only)
+### AUGUR (gender only)
 
 ```Python
 def contributors_gender(self, owner, repo=None):
@@ -27,6 +27,8 @@ def contributors_gender(self, owner, repo=None):
 ```
 
 ## 6. Known Implementations
+
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 7. Test Cases (Examples)
 
