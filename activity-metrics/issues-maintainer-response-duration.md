@@ -11,7 +11,7 @@ Below queries are using users with commit rights, not maintainer.
 ## 3. Sample Filter and Visualization
 
 ## 4. Example Implementation
-### GHTorrent: Average days an issue tagged with 'bug' exists until a project member comments (all projects)
+### AUGUR: Average days an issue tagged with 'bug' exists until a project member comments (all projects)
 
 ```SQL
 SELECT avg(time_to_member_comment_in_days) as avg_days_to_member_comment, project_name, url
@@ -35,7 +35,7 @@ FROM
 group by project_id
 ```
 
-### GHTorrent: Average days an issue (any tag or no tag) exists until a project member comments (all projects)
+### AUGUR: Average days an issue (any tag or no tag) exists until a project member comments (all projects)
 
 ```SQL
 SELECT avg(time_to_member_comment_in_days) as avg_days_to_member_comment, project_name, url
@@ -56,7 +56,7 @@ FROM
 group by project_id
 ```
 
-### GHTorrent: Time between opening and a committer responding to an issue (single project)
+### AUGUR: Time between opening and a committer responding to an issue (single project)
 
 ```SQL
 SELECT issues.id                       AS "issue_id",
