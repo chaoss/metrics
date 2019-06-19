@@ -1,7 +1,7 @@
 # Closed Issues
 
 ## 1. Description
-What is the number of closed issues?
+The number of closed issues
 
 ## 2. Use Cases
 
