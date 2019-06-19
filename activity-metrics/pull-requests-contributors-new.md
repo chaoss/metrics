@@ -1,7 +1,7 @@
 # New Contributors Pull Requests
 
 ## 1. Description
-What is the number of new contributors opening pull requests?
+The number of new contributors opening pull requests
 
 ## 2. Use Cases
 
