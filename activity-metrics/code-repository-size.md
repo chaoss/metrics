@@ -52,7 +52,7 @@ Overall size of the repository or number of commits
 ```
 ## 5. Known Implementations
 
-[GHdata](https://github.com/OSSHealth/ghdata)
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 [Kibble](https://github.com/apache/kibble)
 
