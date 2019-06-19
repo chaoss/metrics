@@ -2,7 +2,6 @@
 
 ## 1. Description
 Number of comments per issue.
-Discussion is occuring openly - could also indicate level of agreement.
 
 ## 2. Use Cases
 
@@ -10,7 +9,7 @@ Discussion is occuring openly - could also indicate level of agreement.
 
 ## 4. Sample Implementation
 
-###  GitHub
+###  AUGUR: GitHub
 
 ```SQL
 SELECT avg(avg_num_comments), project_name
@@ -26,5 +25,7 @@ GROUP BY project_id
 ```
 
 ## 5. Known Implementations
+
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)
