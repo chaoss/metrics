@@ -1,7 +1,7 @@
 # Pull Requests Over Time
 
 ## 1. Description
-How many pull requests have been submitted over a specified time period?
+The number of pull requests submitted over a specified time period
 
 ## 2. Use Cases
 This metric will provide an easy to view graph of how many pull requests have been submitted to the project over time.
@@ -26,6 +26,7 @@ over time
 
 
 ## 6. Known Implementations
+
 [GrimoireLab](https://github.com/chaoss/grimoirelab)
 
 ## 7. Test Cases (Examples)
