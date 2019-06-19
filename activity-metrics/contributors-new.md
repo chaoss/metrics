@@ -1,7 +1,7 @@
 # New Contributors
 
 ## 1. Description
-What is the number of new contributors?
+The number of new contributors
 
 ## 2. Use Cases
 
