@@ -1,7 +1,6 @@
 ## 1. Description
 
-These are the issues considered 'open' at some given point in time. The definition of 'open' differs from platform to platform and should be pre-defined.
-
+These are the issues considered 'open' at some given point in time. 
 Note: do not confuse this with the opened tickets in a specific period of time regardless their current status. The open issues metric is a snapshot while the opened issues one needs of a period of time.
 
 ### Parameters
@@ -34,7 +33,7 @@ Mandatory:
 ### GrimoireLab: Number of Open Issues 
 ![img](https://github.com/Illuminatian/Assets/blob/master/OpenIssuesCreate.PNG)
 
-### GHTorrent: Number of Open Issues (current)
+### AUGUR: Number of Open Issues (current)
 
 ```SQL
 SELECT count(distinct issue_events.issue_id) as num_open_issues, projects.name as project_name, url as url
@@ -48,5 +47,9 @@ group by projects.id
 ```
 
 ## 5. Known Implementations
+
+[AUGUR](https://github.com/CHAOSS/Augur)
+
+[Grimoire Lab](https://github.com/chaoss/grimoirelab)
 
 ## 6. External References (Literature)
