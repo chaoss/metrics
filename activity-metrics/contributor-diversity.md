@@ -14,7 +14,7 @@ Another option for contributor diversity is percentage of the repository written
 
 ## 4. Sample Implementations
 
-###  GHTorrent: Total number of organizations by project making pull requests (approved or not):
+###  AUGUR: Total number of organizations by project making pull requests (approved or not):
 
 ```SQ:
 SELECT count(distinct org_id) as num_organizations, projects.name as project_name, url
@@ -28,7 +28,7 @@ WHERE pull_request_history.action = 'opened'
 group by projects.id
 ```
 
-###  GHTorrent: Alternately, using the "company" field in the users table instead of the organization:
+###  AUGUR: Alternately, using the "company" field in the users table instead of the organization:
 
 ```SQL
 SELECT count(distinct company) as num_companies, projects.name as project_name, url
@@ -41,7 +41,7 @@ WHERE pull_request_history.action = 'opened'
 GROUP BY projects.id
 ```
 
-###  GHTorrent: Number of organizations by project making pull requests that are approved:
+###  AUGUR: Number of organizations by project making pull requests that are approved:
 
 ```SQL
 SELECT count(distinct org_id) as num_organizations, projects.name as project_name, url
@@ -60,5 +60,7 @@ group by projects.id
 ```
 
 ## 5. Known Implementations
+
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)
