@@ -1,7 +1,7 @@
 # Open Issues New Contributors
 
 ## 1. Description
-What is the number of persons opening an issue for the first time?
+The number of people opening an issue for the first time
 
 ## 2. Use Cases
 
