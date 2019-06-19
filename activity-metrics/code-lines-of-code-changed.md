@@ -1,7 +1,7 @@
 # Lines of Code Changed
 
 ## 1. Description
-What is the number of lines of code changed?
+The number of lines of code changed
 
 ## 2. Use Cases
 
