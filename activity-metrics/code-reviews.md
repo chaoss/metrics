@@ -1,7 +1,7 @@
 # Code Reviews
 
 ## 1. Description
-What is the number of code reviews?
+The number of code reviews
 
 ## 2. Use Cases
 
