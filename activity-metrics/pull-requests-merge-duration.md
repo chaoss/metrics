@@ -1,7 +1,7 @@
 # Code Merge Duration
 
 ## 1. Description
-What is the duration of time between code merge request and code commit?
+The duration of time between code merge request and code commit
 
 ## 2. Use Cases
 
