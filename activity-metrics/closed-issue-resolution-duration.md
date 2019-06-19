@@ -1,7 +1,7 @@
 # Closed Issue Resolution Duration
 
 ## 1. Description
-The age of open issues
+The time taken to resolve an issue
 
 ## 2. Use Cases
 
