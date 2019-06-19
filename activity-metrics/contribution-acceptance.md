@@ -84,6 +84,6 @@ group by projects.id
 
 ## 5. Known Implementations
 
-[GHData](https://github.com/OSSHealth/ghdata)
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)
