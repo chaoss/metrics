@@ -28,8 +28,6 @@ def contributors_gender(self, owner, repo=None):
 
 ## 6. Known Implementations
 
-[GHData (gender only)](https://github.com/OSSHealth/ghdata/blob/master/ghdata/githubapi.py#L202)
-
 ## 7. Test Cases (Examples)
 
 ## 8. External References (Literature)
