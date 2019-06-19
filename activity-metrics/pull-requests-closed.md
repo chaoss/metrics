@@ -1,7 +1,7 @@
 # Pull Requests Closed
 
 ## 1. Description
-What is the number of closed pull requests?
+The number of closed pull requests
 
 ## 2. Use Cases
 
