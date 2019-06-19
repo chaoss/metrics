@@ -53,4 +53,6 @@ GROUP BY projects.id, WEEK(commits.created_at)
 
 ## 5. Known Implementations
 
+[AUGUR](https://github.com/CHAOSS/Augur)
+
 ## 6. External References (Literature)
