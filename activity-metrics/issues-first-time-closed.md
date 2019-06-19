@@ -1,5 +1,7 @@
 # Closed Issues New Contributors
 
+## 1. Description
+
 The number of people closing an issue for the first time
 
 ## 2. Use Cases
