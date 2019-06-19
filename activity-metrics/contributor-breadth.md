@@ -14,7 +14,7 @@ In the below queries, non-core committers are defined as committers who do not h
 ### Commits from project members vs non-members
 Project members have commit rights for the repo.
 
-### GHTorrent: Number of Commits from Project Members
+### AUGUR: Number of Commits from Project Members
 
 ```SQL
 	select count(commits.id) as num_member_commits, projects.name as project_name, projects.url as url
@@ -27,7 +27,7 @@ Project members have commit rights for the repo.
 	group by projects.id
 ```
 
-### GHTorrent: Number of Commits from non project members
+### AUGUR: Number of Commits from non project members
 
 ```SQL
 	select count(commits.id) as num_commits, projects.name as project_name, projects.url as url
@@ -42,5 +42,6 @@ Project members have commit rights for the repo.
 
 ## 5. Known Implementations
 
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)
