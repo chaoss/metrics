@@ -50,6 +50,7 @@ Overall size of the repository or number of commits
 ## 5. Known Implementations
 
 [AUGUR](https://github.com/CHAOSS/Augur)
+
 [Kibble](https://github.com/apache/kibble)
 
 ## 6. External References (Literature)
