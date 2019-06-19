@@ -1,7 +1,7 @@
 # New Contributions of Initiated Code Reviews
 
 ## 1. Description
-What is the number of persons initiating a code review for the first time?
+The number of people initiating a code review for the first time
 
 ## 2. Use Cases
 
