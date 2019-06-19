@@ -9,7 +9,7 @@ Number of different people discussing each pull request
 
 ## 4. Sample Implementation
 
-### GHTorrent: Average unique users commenting per pull request by project
+### AUGUR: Average unique users commenting per pull request by project
 
 ```SQL
 select avg(num_users) as average_num_users_commenting_per_pull_request, project_name, url
@@ -28,5 +28,7 @@ group by project_id
 ```
 
 ## 5. Known Implementations
+
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)
