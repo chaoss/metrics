@@ -9,7 +9,7 @@ Number of Comments per Issue
 
 ## 4. Sample Implementation
 
-### Average Comments per Issue per Project
+### AUGUR: Average Comments per Issue per Project
 
 ```SQL
 SELECT avg(avg_num_comments), project_name
@@ -24,7 +24,7 @@ FROM
 GROUP BY project_id
 ```
 
-### Number of Issue Comments Over Time
+### AUGUR: Number of Issue Comments Over Time
 
 ```SQL
 SELECT projects.name as project_name, COUNT(issue_comments.comment_id), DATE(issue_comments.created_at) AS date_commented
@@ -34,7 +34,7 @@ FROM issue_comments
     GROUP BY projects.id, date_commented
 ```
 
-### Number of Comments per Issue
+### AUGUR: Number of Comments per Issue
 
 ```SQL
 SELECT projects.name as project_name, issue_comments.issue_id, COUNT(issue_comments.comment_id)
@@ -45,5 +45,7 @@ FROM issue_comments
 ```
 
 ## 5. Known Implementations
+
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)
