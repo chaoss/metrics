@@ -78,7 +78,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Bus Factor](activity-metrics/bus-factor.md)|The number of developers/organizations it would need to lose to destroy its progress.|Risk|
 |[Captioning](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-captioning.md)|Do we provide text captioning for spoken communication?|D&I|
 |Change in Maintainer Number|Number of maintainers added/removed over time.|
-|CII Best Practices Badge|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provide maturity self-certification: passing, silver, and gold.|Risk|
+|[CII Best Practices](https://github.com/chaoss/wg-risk/blob/master/metrics/CII_Best_Practices.md)|The [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/) provides maturity self-certification: passing, silver, and gold.|Risk|
 |[Closed Issues](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md) | What is the number of closed issues? |Evolution|
 |[Closed Issues New Contributors](https://github.com/chaoss/wg-evolution/blob/master/metrics/issues-first-time-closed.md)|What is the number of persons closing an issue for the first time?|Evolution|
 |[Closed Issue Resolution Duration](https://github.com/chaoss/wg-evolution/blob/master/metrics/issues-closed-resolution-duration.md) | What is the duration of time for issues to be resolved?|Evolution|
@@ -93,6 +93,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |Commercial Offerings|Availability of commercial products or services based on the project.|
 |Commit Bias|Acceptance rate and time to acceptance differences per gender, ethnicity, and relevant diversity characteristics.|
 |Commit Hours|Does a contributor commit during or outside of regular business hours? Triangulate UTC commit times from a contributor with locale of contributor and employer to determine regular business hours.|
+|[Committers](https://github.com/chaoss/wg-risk/blob/master/metrics/Committers.md)|The number of individuals who have committed code to a project.|Risk|
 |[Communication Channels](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/channels.md)|How welcoming, responsive, respectful are interactions even on hot topics of debate? What is the diversity of voices speaking/being heard?|D&I|
 |[Community Activity](activity-metrics/community-activity.md)|Contribution Frequency. Contribution = commit, issue, comment, etc).|
 |[Contributing Organizations](https://github.com/chaoss/wg-evolution/blob/master/metrics/organizations.md) | What is the number of contributing organizations?|Evolution|
@@ -104,10 +105,10 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Contribution Volume](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/recognition/contribution-volume.md)|Do we have a bias towards small contributions or multiple contributions?|D&I|
 |[Contributor Activity](activity-metrics/contributor-activity-level.md)|Activity level of individual contributors.|
 |[Contributor Breadth](activity-metrics/contributor-breadth.md)|Ratio of non-core committers (drive-by and peripheral committers).|
-|[Contributor Country]|Primary residence of the contributor.|
+|Contributor Country|Primary residence of the contributor.|
 |[Contributor Demographics](activity-metrics/contributor-demographics.md)| Gender, age, location, education, and skills.|
 |[Contributor Diversity](activity-metrics/contributor-diversity.md)| Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.|
-|[Contributor Employer Country]|Headquarters location of the organization employing the contributor if they are contributing on behalf of their employer.|
+|Contributor Employer Country|Headquarters location of the organization employing the contributor if they are contributing on behalf of their employer.|
 |Contributor Importance|Percentage of commits by individual contributors from identified organizations.|
 |Contributor Seniority|For each active contributor, time since first contribution. Experienced contributors providing value to the community, since they carry with them (in part) the history of the project.|
 |[Contributors](https://github.com/chaoss/wg-evolution/blob/master/metrics/contributors.md)| What is the number of contributors?|Evolution|
@@ -119,7 +120,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Diversity Access Tickets](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/diversity-tickets.md)|Are Diversity Access Tickets offered for an event?|D&I|
 |[Documentation](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/documentation.md)|What is the thoroughness, and accessibility of documentation according to a set of criteria?|D&I|
 |Downloads of Non-software Artifacts|Number of downloads of non-software artifacts (e.g. documentation, sample apps, test suites, etc).|
-|Elephant Factor|The minimum number of companies whose employees perform 50% of the commits|
+|[Elephant Factor](https://github.com/chaoss/wg-risk/blob/master/metrics/Elephant_Factor.md)|The minimum number of companies whose employees perform 50% of the commits|Risk|
 |[Family Friendliness](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/family-friendly.md)|Does the event empower those who care for children to attend?|D&I|
 |File License Declarations|A list of license declarations on the software package files.|
 |[First Response to Issue Duration](https://github.com/chaoss/wg-evolution/blob/master/metrics/issues-maintainer-response-duration.md)|Time between a new issue is opened and a maintainer responds Also called: bug response rate. The maintainer is believed to not “pile on” but try to solve an issue|Evolution|
@@ -138,9 +139,9 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Language Makeup](activity-metrics/language-makeup.md)|Makeup of a project in terms of whitespace, code, and comments.|
 |Leadership Demographics|Demographics of project's leadership (e.g. Board, Technical Steering Committee, Maintainers, etc.) over time.|
 |License Conflicts|Project containing incompatible licenses.|
-|License Count|Number of licenses.|
-|License Coverage|Number of files with a file notice (copyright notice + license notice).|
-|License Declared|What license does the project declare?|
+|[License Count](https://github.com/chaoss/wg-risk/blob/master/metrics/License_Count.md)|Number of licenses.|Risk|
+|[License Coverage](https://github.com/chaoss/wg-risk/blob/master/metrics/License_Coverage.md)|Number of files with a file notice (copyright notice + license notice).|Risk|
+|[License Declared](https://github.com/chaoss/wg-risk/blob/master/metrics/License_Declared.md)|What license does the project declare?|Risk|
 |License Identification Methods|A list of methods or tools used for identifying licenses in files.|
 |[Lines of Code Changed](activity-metrics/lines-of-code-changed.md) | What is the number of lines of code changed?|
 |[Listening](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-listening.md)|How well do our mechanisms for listening accommodate community?|D&I|
@@ -181,7 +182,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Pull Request Comment Duration](https://github.com/chaoss/wg-evolution/blob/master/metrics/pull-requests-comment-duration.md)|The difference between the timestamp of the pull request creation date and the most recent comment on the pull request.|Evolution|
 |[Pull Request Discussion Diversity](activity-metrics/pull-request-discussion-diversity.md)|Number of different people discussing each pull request.|
 |[Pull Request Made vs. Closed](activity-metrics/pull-requests-made-closed.md)|Pull requests made vs. pull requests closed [Example](http://repocheck.com/#https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap). Encompasses number of pull requests rejected.|
-|[Pull Requests Merged]|Number of Code Commits|
+|Pull Requests Merged|Number of Code Commits|
 |[Pull Requests Merged/Closed (Contribution Acceptance)](https://github.com/chaoss/wg-evolution/blob/master/metrics/pull-requests-merged-vs-closed.md)|Ratio of contributions accepted vs. closed without acceptance.|Evolution|
 |[Pull Requests Open](https://github.com/chaoss/wg-evolution/blob/master/metrics/pull-requests-open.md)|Number of open pull requests. |Evolution|
 |[Pull Requests Over Time](activity-metrics/pull-requests-over-time.md)|How many pull requests have been submitted over a specified time period?|
@@ -205,13 +206,14 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Sentiment](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/sentiment.md)|What is the sentiment within external communication channels regarding our own press releases and within our internal communication channels, e.g., mail lists or IRC?|D&I|
 |[Size of Code Base](activity-metrics/size-of-code-base.md)|Lines of code.|
 |Software Downloads|Number of project software downloads. Beware: downloads might be skewed by builders. Used as measure for success (Grewal, Lilien, & Mallapragada, 2006).|
+|[Software Bill of Materials](https://github.com/chaoss/wg-risk/blob/master/metrics/Software_Bill_of_Materials.md)|Provides a single source document that provides this information both for internal use and downstream distribution of software packages. |Risk|
 |[Speaker Demographics](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/speaker-demographics.md)|How well does the speaker lineup for the event represent a diverse set of demographics?|D&I|
 |[Speaking](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-speaking.md)|Are we speaking to our communities in an accessible range?|D&I|
 |Stack Overflow|Number of questions asked, response rate, number of responding people that have verified solutions.|
 |Stars|Number of stars.|
 |[Sub-Projects](https://github.com/chaoss/wg-evolution/blob/master/metrics/sub-projects.md) | What is the number of sub-projects?|Evolution|
 |[Team/Module Ownership Diversity](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/governance/team-module-ownership-diversity.md)|What is the diversity of other bureaucratic and administrative foundation teams, e.g. working groups, committees, or ambassador groups?|D&I|
-|Test Coverage|Percentage of codebase covered by developer tests.|
+|[Test Coverage](https://github.com/chaoss/wg-risk/blob/master/metrics/Test_Coverage.md)|Percentage of codebase covered by developer tests.|Risk|
 |Time to Contributor|Time to becoming a contributor.|
 |Timezone|Timezone of contributor.|
 |[Technical Jargon](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/communication/communication-inclusivity-technical-jargon.md)|Does the language skew to technical-confidence vs. technical ability?|D&I|
