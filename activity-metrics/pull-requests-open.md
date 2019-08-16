@@ -3,15 +3,13 @@
 ## 1. Description
 Number of open pull requests
 
-Might be more telling than total pull requests
-
 ## 2. Use Cases
 
 ## 3. Sample Filter and Visualization
 
 ## 4. Sample Implementation
 
-###  GHTorrent
+###  AUGUR
 
 ```SQL
 SELECT count(distinct pull_request_id) as num_still_open, projects.name as project_name, projects.url as url
@@ -26,5 +24,7 @@ group by projects.id
 ```
 
 ## 5. Known Implementations
+
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)

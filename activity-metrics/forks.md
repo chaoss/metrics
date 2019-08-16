@@ -8,7 +8,7 @@ Number of forks
 ## 3. Sample Filter and Visualization
 
 ## 4. Sample Implementation
-### GHTorrent: Number of direct forks for each project that is not itself a fork (does not take into account forks of forks)
+### AUGUR: Number of direct forks for each project that is not itself a fork (does not take into account forks of forks)
 
 ```SQL
 select base_projects.base_project_id, base_projects.name as base_project_name,
@@ -23,6 +23,6 @@ group by base_projects.base_project_id
 
 ## 5. Known Implementations
 
-[GHData](https://github.com/OSSHealth/ghdata)
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)

@@ -1,7 +1,7 @@
 # Open Issues Age
 
 ## 1. Description
-What is the the age of open issues?
+The age of open issues
 
 ## 2. Use Cases
 

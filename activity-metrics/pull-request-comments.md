@@ -9,7 +9,7 @@ Number of comments per pull request
 
 ## 4. Sample Implementation
 
-###  GHTorrent
+###  AUGUR
 ```SQL
 select avg(num_comments), project_name, url
 from
@@ -24,6 +24,7 @@ group by project_id
 ```
 
 ## 5. Known Implementations
-[GHData](https://github.com/OSSHealth/ghdata)
+
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)

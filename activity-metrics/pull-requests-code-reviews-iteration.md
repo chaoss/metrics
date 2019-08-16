@@ -1,7 +1,7 @@
 # Code Review Iteration
 
 ## 1. Description
-What is the number of iterations that occur before a merge request is accepted or declined?
+The number of iterations that occur before a merge request is accepted or declined
 
 ## 2. Use Cases
 

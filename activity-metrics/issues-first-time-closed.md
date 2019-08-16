@@ -1,7 +1,8 @@
 # Closed Issues New Contributors
 
 ## 1. Description
-What is the number of persons closing an issue for the first time?
+
+The number of people closing an issue for the first time
 
 ## 2. Use Cases
 

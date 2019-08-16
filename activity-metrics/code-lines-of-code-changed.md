@@ -1,13 +1,7 @@
 # Lines of Code Changed
 
 ## 1. Description
-What is the number of lines of code changed?
-
-What constitutes a line of code changed? How should we view...
-	- whitespace?
-	- compiled files?
-	- documentation?
-	- installed libraries (i.e. Node Modules)
+The number of lines of code changed
 
 ## 2. Use Cases
 

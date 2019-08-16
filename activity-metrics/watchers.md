@@ -9,7 +9,7 @@ Number of watchers
 
 ## 4. Sample Implementation
 
-###  GitHub: Project Watchers
+###  AUGUR: GitHub: Project Watchers
 
 ```SQL
 select count(user_id) as num_watchers, projects.name as project_name, url
@@ -19,5 +19,7 @@ group by projects.id
 ```
 
 ## 5. Known Implementations
+
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)

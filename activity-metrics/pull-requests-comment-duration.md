@@ -13,6 +13,9 @@ max(pull_request)comment.created_at) - pull_request.created_at
 not implemented yet.
 
 ## 5. Sample Implementation
+
+### AUGUR
+
 Note that the left join on pull_request_comments will show records for pull requests that do not have any comments associated with them. 
 ```sql
 SELECT
@@ -41,10 +44,9 @@ ORDER BY
 ```
 
 ## 6. Known Implementations
-GHData
+
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 7. Test Cases (Examples)
-None to date.
 
 ## 8. External References (Literature)
-None to date.

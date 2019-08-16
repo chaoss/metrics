@@ -21,7 +21,7 @@ This metric is useful to be able to see how many people are actually contributin
 The visualization can be adjusted to show more or less contributors by changing the 'Size' value in the 'Buckets'. A larger number will show more, a smaller number will show less.
 
 
-### GHTorrent: Contributions by user
+### AUGUR: Contributions by user
 
 ```SQL
 # Gets the count of types of contributions by user, only returning users who have interacted with a project in some way
@@ -64,7 +64,7 @@ OR    pull_request_comments IS NOT NULL
 OR    issue_comments IS NOT NULL;
 ```
 
-### GHTorrent: Number of Contributors (committers) per Project:
+### AUGUR: Number of Contributors (committers) per Project:
 
 GitHub defines contributors as those who have made "Contributions to master, excluding merge commits"
 
@@ -88,7 +88,8 @@ group by project_commits.project_id
 ```
 
 ##  5. Known Implementations
-* [GHData](https://github.com/OSSHealth/ghdata)
-* [Grimoire Lab](https://github.com/chaoss/grimoirelab)
+[AUGUR](https://github.com/CHAOSS/Augur)
+
+[Grimoire Lab](https://github.com/chaoss/grimoirelab)
 
 ##  6. External References (Literature)

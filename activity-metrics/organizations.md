@@ -1,7 +1,7 @@
 # Contributing Organizations
 
 ## 1. Description
-What is the number of contributing organizations?
+The number of contributing organizations
 
 ## 2. Use Cases
 

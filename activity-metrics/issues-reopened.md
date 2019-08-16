@@ -9,7 +9,7 @@ Rate of issues closed but discussion continues or issues that were closed and re
 
 ## 4. Sample Implementation
 
-###  GHTorrent: Reopened issues
+###  AUGUR: Reopened issues
 
 #### Total closed issues by project
 
@@ -88,5 +88,7 @@ where issue_events.action = 'closed' AND (issues.id, projects.id)
 ```
 
 ## 5. Known Implementations
+
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)

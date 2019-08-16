@@ -1,7 +1,7 @@
 # Maintainer Response Duration
 
 ## 1. Description
-On average, how long does it take for a maintainer to respond to a pull request?
+Average duration for a maintainer to respond to a pull request
 
 ## 2. Use Cases
 

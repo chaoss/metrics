@@ -1,7 +1,7 @@
 # New Contributors on the email list
 
 ## 1. Description
-What is the number of persons posting messages in mailing lists for the first time?
+The number of people posting messages in mailing lists for the first time
 
 ## 2. Use Cases
 

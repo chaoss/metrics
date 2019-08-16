@@ -1,8 +1,7 @@
 # Contribution Diversity
 
 ## 1. Description
-Ratio of code committed by contributors other than original project initiator
-Contributions are going up beyond the core team
+Ratio of code committed by contributors other than original project initiator and/or core team
 
 ## 2. Use Cases
 
@@ -12,7 +11,7 @@ Contributions are going up beyond the core team
 
 ## 4. Sample Implementation
 
-### GHTorrent:
+### AUGUR:
 
 The assumption is that the first person to commit to a GitHub repository after it is created is the creator of the repository.
 
@@ -54,5 +53,6 @@ GROUP BY projects.id, WEEK(commits.created_at)
 
 ## 5. Known Implementations
 
+[AUGUR](https://github.com/CHAOSS/Augur)
 
 ## 6. External References (Literature)
