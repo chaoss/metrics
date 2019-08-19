@@ -8,13 +8,15 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 
 (2) Participating with the CHAOSS workgroups. Through these workgroups, we consolidate metrics in meaningful ways and inform the metrics by questioning how to capture and deploy (or not) them:
 
-[CHAOSS Diversity & Inclusion Workgroup](https://github.com/chaoss/wg_diversity_inclusion)
+[CHAOSS Common Metrics Working Group](https://github.com/chaoss/wg-common)
 
-[CHAOSS Evolution Workgroup](https://github.com/chaoss/wg-evolution)
+[CHAOSS Diversity & Inclusion Working Group](https://github.com/chaoss/wg_diversity_inclusion)
 
-[CHAOSS Value Workgroup](https://github.com/chaoss/wg-value)
+[CHAOSS Evolution Working Group](https://github.com/chaoss/wg-evolution)
 
-[CHAOSS Risk Workgroup](https://github.com/chaoss/wg-risk)
+[CHAOSS Value Working Group](https://github.com/chaoss/wg-value)
+
+[CHAOSS Risk Working Group](https://github.com/chaoss/wg-risk)
 
 ## Some Reasons to Assess Community Health
 
