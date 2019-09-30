@@ -10,7 +10,7 @@ Welcome to the CHAOSS Metrics repository. CHAOSS Metrics repository captures met
 
 [CHAOSS Common Metrics Working Group](https://github.com/chaoss/wg-common)
 
-[CHAOSS Diversity & Inclusion Working Group](https://github.com/chaoss/wg_diversity_inclusion)
+[CHAOSS Diversity & Inclusion Working Group](https://github.com/chaoss/wg-diversity-inclusion)
 
 [CHAOSS Evolution Working Group](https://github.com/chaoss/wg-evolution)
 
