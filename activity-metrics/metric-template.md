@@ -16,28 +16,33 @@ To create a new 'Metric Detail' page follow these steps:
 ```markdown
 # {Name of Metric}
 
-## 1. Description
+Goal: _____
+
+## Description
 A description of what the metric is and what it captures.
-The first few sentences have to match the description in the [metrics list](../activity-metrics-list.md).
+The first few sentences should match the description in the [metrics list](../activity-metrics-list.md).
 
-## 2. Use Cases
-Provide examples of how the metric might inform different stakeholders through use cases.
+## Objectives
+Answer the question for why someone wants to measure this metric and what can be known with it.
 
-## 3. Formula
-A generic formula (in pseudo code) to generate the metric.
+## Implementation
+Provide details on how to measure the metric, collect the data, and analyze it. The following sub-headings are optional but help to structure the different aspects of implementation.
 
-## 4. Sample Filter and Visualization
-Include a Sample Filter and Visualization (screenshot) of the metric from any implementation.
+### Filters (optional)
+Include a Filter
 
-## 5. Sample Implementation
-An example implementation, for example a SQL or Elasticsearch query.
+### Visualizations (optional)
+Include visualizations such as screenshot of the metric. There may be many more visualizations for this metric, we only want to provide a flavor for what this metric is about.
 
-## 6. Known Implementations
-Examples of where and how metric is used. (include links to dashboard or location where metric is visible or is talked about having been used).
+### Tools Providing the Metric (optional)
+Metric must be currently deployed/available, in contrast to a tool having the "potential" to provide the metric. Provide direct link to implementation/documentation, if applicable
 
-## 7. Test Cases (Examples)
-Sample inputs (including contexts) and expected outputs for this metric. Implementers can test their implementations against these test cases. For quantitative metrics, this could include a static repository with known metric results, or just inputs and output. For qualitative metrics, this may be more difficult.
+### Data Collection Strategies (Optional)
+If there are several different ways to collect data for this metric, list them here. 
 
-## 8. External References (Literature)
-Blog posts, websites, academic papers, or books that mention the metric.
+### Success Metrics (optional)
+If a metric could be expressed through different ways, this is the place to detail how to do it.
+
+## References
+Blog posts, websites, academic papers, or books that mention the metric and provide more background.
 ```
