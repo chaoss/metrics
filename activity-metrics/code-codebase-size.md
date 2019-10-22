@@ -1,47 +1,20 @@
 # Size of Code Base
 
-## 1. Description
-Lines of code
+Question: 
 
-## 2. Use Cases
+## Description
+Lines of code in the entire code base
 
-## 3. Formula
+## Objectives
 
-## 4. Sample Filter and Visualization
+## Implementation
 
-### Git
-[Lines in Repository](https://github.com/OSSHealth/ghdata/blob/master/busFactor/pythonBlameLinesInRepo.py)
+### Filters (optional)
 
-###  Kibble: Repos by lines of code:
-```python
-    query = {
-                'query': {
-                    'bool': {
-                        'must': [
-                            {'terms':
-                                {
-                                    'type': ['git', 'svn', 'github']
-                                }
-                            },
-                            {
-                                'term': {
-                                    'organisation': dOrg
-                                }
-                            }
-                        ]
-                    }
-                }
-            }
-    # Source-specific or view-specific??
-    if indata.get('source'):
-        query['query']['bool']['must'].append({'term': {'sourceID': indata.get('source')}})
-    elif viewList:
-        query['query']['bool']['must'].append({'terms': {'sourceID': viewList}})
-```
-## 6. Known Implementations
+### Visualizations (optional)
 
-[Kibble](https://github.com/apache/kibble)
+### Tools Providing the Metric (optional)
 
-## 7. Test Cases (Examples)
+### Data Collection Strategies (Optional)
 
-## 8. External References (Literature)
+## References
