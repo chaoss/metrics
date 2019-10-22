@@ -1,5 +1,5 @@
-# Template for Metric
-The following is a draft for the template that all 'Metric Detail' pages can follow.
+# Template for Metrics
+The following is the current template that all 'Metric Detail' pages follow.
 
 ## Instructions
 
@@ -16,7 +16,7 @@ To create a new 'Metric Detail' page follow these steps:
 ```markdown
 # {Name of Metric}
 
-Goal: _____
+Question: 
 
 ## Description
 A description of what the metric is and what it captures.
