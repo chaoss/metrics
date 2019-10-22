@@ -16,7 +16,7 @@ To create a new 'Metric Detail' page follow these steps:
 ```markdown
 # {Name of Metric}
 
-Goal: _____
+Question: _____
 
 ## Description
 A description of what the metric is and what it captures.
