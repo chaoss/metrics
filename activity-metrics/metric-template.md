@@ -39,9 +39,7 @@ Metric must be currently deployed/available, in contrast to a tool having the "p
 
 ### Data Collection Strategies (Optional)
 If there are several different ways to collect data for this metric, list them here. 
-
-### Success Metrics (optional)
-If a metric could be expressed through different ways, this is the place to detail how to do it.
+This may include expressing a metric in different ways.
 
 ## References
 Blog posts, websites, academic papers, or books that mention the metric and provide more background.
