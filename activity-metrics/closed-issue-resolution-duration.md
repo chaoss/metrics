@@ -2,7 +2,7 @@
 
 Question: 
 
-## 1. Description
+## Description
 The time taken to resolve an issue
 
 ## Objectives
