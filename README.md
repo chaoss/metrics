@@ -84,7 +84,7 @@ The following is a full list of identified metrics. How the metrics live in prac
 |[Closed Issues](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md) | What is the number of closed issues? |Evolution|
 |[Closed Issues New Contributors](https://github.com/chaoss/wg-evolution/blob/master/metrics/issues-first-time-closed.md)|What is the number of persons closing an issue for the first time?|Evolution|
 |[Closed Issue Resolution Duration](https://github.com/chaoss/wg-evolution/blob/master/metrics/issues-closed-resolution-duration.md) | What is the duration of time for issues to be resolved?|Evolution|
-|[Code Commits](activity-metrics/code-commits.md)| What is the number of code commits?|
+|[Code Commits](https://github.com/chaoss/wg-evolution/blob/master/metrics/Code_Changes.md)| What is the number of code commits?|
 |[Code of Conduct at Event](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/event-code-of-conduct.md)|How does the Code of Conduct for events support diversity and inclusion?|D&I|
 |[Code of Conduct Enforcement](https://github.com/chaoss/wg-diversity-inclusion/tree/master/focus-areas/governance)|Is enforcement process running at scale (volume, responsiveness, accuracy, fairness)?|D&I|
 |[Code Merge Duration](activity-metrics/code-merge-duration.md) | What is the duration of time between code merge request and code commit?|
