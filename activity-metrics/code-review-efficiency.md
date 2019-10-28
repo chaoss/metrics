@@ -2,7 +2,7 @@
 
 Question: 
 
-## 1. Description
+## Description
 The number of merged code changes/number of abandoned code change requests
 
 ## Objectives
