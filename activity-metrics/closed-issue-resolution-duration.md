@@ -1,5 +1,7 @@
 # Closed Issue Resolution Duration
 
+Question: 
+
 ## 1. Description
 The time taken to resolve an issue
 
