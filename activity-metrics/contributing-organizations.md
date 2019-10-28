@@ -1,19 +1,24 @@
 # Contributing Organizations
 
+Question: 
+
 ## 1. Description
 The number of contributing organizations
 
-## 2. Use Cases
+## Description
 
-## 3. Formula
+## Objectives
 
-## 4. Sample Filter and Visualization
+## Implementation
 
-## 5. Sample Implementation
+### Filters (optional)
 
-## 6. Known Implementations
+### Visualizations (optional)
 
-## 7. Test Cases (Examples)
+### Tools Providing the Metric (optional)
 
-## 8. External References (Literature)
+### Data Collection Strategies (Optional)
+
+## References
+
 Example: [GENIVI contributors](https://docs.projects.genivi.org/kpi/2018_committers.html) [Source Code](https://github.com/GENIVI/admin_and_reporting/blob/master/get_all_genivi_repos.sh)
