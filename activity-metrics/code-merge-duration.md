@@ -2,7 +2,7 @@
 
 Question:
 
-## 1. Description
+## Description
 The duration of time between code merge request and code commit
 
 ## Objectives
