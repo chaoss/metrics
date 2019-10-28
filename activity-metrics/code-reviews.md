@@ -1,18 +1,20 @@
 # Code Reviews
 
-## 1. Description
+Question:
+
+## Description
 The number of code reviews
 
-## 2. Use Cases
+## Objectives
 
-## 3. Formula
+## Implementation
 
-## 4. Sample Filter and Visualization
+### Filters (optional)
 
-## 5. Sample Implementation
+### Visualizations (optional)
 
-## 6. Known Implementations
+### Tools Providing the Metric (optional)
 
-## 7. Test Cases (Examples)
+### Data Collection Strategies (Optional)
 
-## 8. External References (Literature)
+## References
