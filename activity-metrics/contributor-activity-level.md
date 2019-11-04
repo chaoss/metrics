@@ -1,18 +1,25 @@
 # Contributor Activity 
 
-## 1. Description
+Question: 
+
+## Description
 Activity level of individual contributors.
 
-## 2. Use Cases
+## Objectives
 
-## 3. Formula
+## Implementation
 
-## 4. Sample Filter and Visualization
-### Kibble - GitHub
-![Total Contributors visual](https://user-images.githubusercontent.com/22136995/38274799-60629e0a-3755-11e8-9327-ce7ff5b73853.png)
+### Visualizations
 
-## 5. Sample Implementations
-### Kibble
+![Total Contributors Visual](https://user-images.githubusercontent.com/22136995/38274799-60629e0a-3755-11e8-9327-ce7ff5b73853.png)
+
+### Tools Providing the Metric
+
+[Kibble](https://kibble.apache.org/)
+
+### Data Collection Strategies 
+
+#### Kibble
 ```python
 people = {}
 for bucket in res['aggregations']['committers']['buckets']:
@@ -36,10 +43,4 @@ for bucket in res['aggregations']['committers']['buckets']:
         }
 ```
 
-## 6. Known Implementations
-
-[Kibble](https://kibble.apache.org/)
-
-## 7. Test Cases (Examples)
-
-## 8. External References (Literature)
+## References
