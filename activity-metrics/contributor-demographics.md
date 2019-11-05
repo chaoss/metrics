@@ -1,35 +1,22 @@
 # Contributor Demographics
 
-## 1. Description
+Question: 
+
+## Description
+
 Gender, age, location, education, and skills over time.
 
-## 2. Use Cases
+## Objectives
 
-## 3. Formula
+## Implementation
 
-## 4. Sample Filter and Visualization
+### Filters (optional)
 
-## 5. Sample Implementation
+### Visualizations (optional)
 
-### AUGUR (gender only)
+### Tools Providing the Metric (optional)
 
-```Python
-def contributors_gender(self, owner, repo=None):
-    contributors = self.__api.get_repo((owner + "/" + repo)).get_contributors()
-    names = pd.DataFrame(columns=['name'])
-    i = 0
-    for contributor in contributors:
-        if contributor.name is not None:
-            names.loc[i] = [contributor.name.split()[0]]
-            i += 1
-    genderized = names.merge(LocalCSV.name_gender, how='inner', on=['name'])
-    return genderized
-```
+### Data Collection Strategies (Optional)
 
-## 6. Known Implementations
+## References
 
-[AUGUR](https://github.com/CHAOSS/Augur)
-
-## 7. Test Cases (Examples)
-
-## 8. External References (Literature)
