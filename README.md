@@ -1,6 +1,9 @@
 # CHAOSS Metrics
 
-Welcome to the CHAOSS Metrics repository. CHAOSS Metrics work captures metrics for open source community health more transparent and actionable. The current realease of CHAOSS metrics can be found at: https://chaoss.community/metrics/. 
+Welcome to the CHAOSS Metrics repository. CHAOSS Metrics work captures metrics for open source community health more transparent and actionable. 
+
+## Current CHAOSS Metrics Release
+The current realease of CHAOSS metrics can be found at: https://chaoss.community/metrics/. 
 
 ## Working on CHAOSS Metrics
 
