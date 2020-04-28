@@ -21,6 +21,10 @@ Work being done in the CHAOSS WGs can be found at:
 
 [CHAOSS Risk Working Group](https://github.com/chaoss/wg-risk)
 
+### Metrics Resources
+
+[Metrics Template](https://github.com/chaoss/metrics/blob/master/activity-metrics/metric-template.md)
+
 
 ## How to Contribute and Participate to the CHAOSS Project and Respective Metrics Working Groupus
 
