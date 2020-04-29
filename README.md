@@ -23,7 +23,7 @@ Work being done in the CHAOSS WGs can be found at:
 
 ## Metrics Resources
 
-[Metrics Template](resources/metric-template.md)
+[Metrics Template](/resources/metric-template.md)
 
 ## Contribute and Participate to the CHAOSS Project and Metrics Working Groupus
 
