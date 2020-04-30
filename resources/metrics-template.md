@@ -9,7 +9,6 @@ Question: _____
 
 ## Description
 A description of what the metric is and what it captures.
-The first few sentences should match the description in the [metrics list](../activity-metrics-list.md).
 
 ## Objectives
 Answer the question for why someone wants to measure this metric and what can be known with it.
