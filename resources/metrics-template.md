@@ -22,6 +22,8 @@ Include a Filter
 ### Visualizations (optional)
 Include visualizations such as screenshot of the metric. There may be many more visualizations for this metric, we only want to provide a flavor for what this metric is about.
 
+Please provide attribution where the screenshot was taken, e.g. what software.
+
 ### Tools Providing the Metric (optional)
 Metric must be currently deployed/available, in contrast to a tool having the "potential" to provide the metric. Provide direct link to implementation/documentation, if applicable
 
