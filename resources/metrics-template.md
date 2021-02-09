@@ -32,3 +32,7 @@ This may include expressing a metric in different ways.
 ## References
 Blog posts, websites, academic papers, or books that mention the metric and provide more background.
 ```
+
+## Contributors
+List of people who would like to be mentioned as contributors to this metric 
+
