@@ -25,7 +25,7 @@ Work being done in the CHAOSS WGs can be found at:
 
 [Metrics Template](resources/metrics-template.md)
 
-## Contribute and Participate to the CHAOSS Project and Metrics Working Groupus
+## Contribute and Participate to the CHAOSS Project and Metrics Working Groups
 
 [Contribute and Participate](https://chaoss.community/participate/). 
 
