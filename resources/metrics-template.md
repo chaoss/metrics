@@ -35,3 +35,11 @@ Blog posts, websites, academic papers, or books that mention the metric and prov
 ## Contributors
 List of people who would like to be mentioned as contributors to this metric 
 ```
+
+In cases where the metric name is also a descriptor, please use this convention:
+
+"specific thing being measured"-"further description if needed"
+
+EX: `pull-requests-open.md`
+EX: `issues-first-response.md`
+
