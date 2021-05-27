@@ -5,6 +5,8 @@ The following is a draft for the template that all 'Metric Detail' pages can fol
 ```markdown
 # {Name of Metric}
 
+### This metric is a release candidate. To comment on this metric please see Issue #[put the respective Issue Number here]. Following a comment period, this metric will be included in the next regular release.
+
 Question: _____
 
 ## Description
