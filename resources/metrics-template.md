@@ -29,6 +29,9 @@ Metric must be currently deployed/available, in contrast to a tool having the "p
 If there are several different ways to collect data for this metric, list them here. 
 This may include expressing a metric in different ways.
 
+### Ways the Metric Connects with Diversity, Equity, and/or Inclusion (Optional)
+Provide a brief description of how the metric could be used to help better understand issues of diversity, equity, and/or inclusion
+
 ## References
 Blog posts, websites, academic papers, or books that mention the metric and provide more background.
 
