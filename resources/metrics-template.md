@@ -5,7 +5,7 @@ The following is a draft for the template that all 'Metric Detail' pages can fol
 ```markdown
 # {Name of Metric}
 
-### This metric is a release candidate. To comment on this metric please see Issue #[put the respective Issue Number here]. Following a comment period, this metric will be included in the next regular release.
+### This metric is a release candidate. To comment on this metric please see Issue [#[put the respective Issue Number here]](URL to issue). Following a comment period, this metric will be included in the next regular release.
 
 Question: _____
 
@@ -44,4 +44,3 @@ In cases where the metric name is also a descriptor, please use this convention:
 
 EX: `pull-requests-open.md`
 EX: `issues-first-response.md`
-
