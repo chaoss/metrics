@@ -44,3 +44,30 @@ In cases where the metric name is also a descriptor, please use this convention:
 
 EX: `pull-requests-open.md`
 EX: `issues-first-response.md`
+
+
+The following rules are applicable for the above defined metric template:
+* All the images should be using the markdown syntax: `![]()`
+* All the images should be using a relative path to the images directory
+    * Eg. `![alt text](images/metric-name_img.png)`
+* No tables should be used in the metrics, alternatively you can insert an image of the table
+* No HTML code should be used in the metrics, only markdown in preferred
+* There should be atleast one `\n` (newline) between:
+    * 2 images
+    * An image and text
+    * An image and heading \
+This is to solve the wrapping issue in the release PDF \
+Eg. -
+    ```
+    # Some heading
+
+    ![alt text](images/metric-name_test-img1.png)
+
+    ![alt text](images/metric-name_test-img2.png)
+
+    * Some random text
+
+    ![alt text](images/metric-name_test-img3.png)
+
+    Another text line
+    ```
