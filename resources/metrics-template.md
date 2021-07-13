@@ -13,7 +13,7 @@ Question: _____
 A description of what the metric is and what it captures.
 
 ## Objectives
-Answer the question for why someone wants to measure this metric and what can be known with it.
+Answer the question for why someone wants to measure this metric and what can be known with it. This can include a brief description of how the metric could be used to help better understand issues of diversity, equity, and/or inclusion.
 
 ## Implementation
 Provide details on how to measure the metric, collect the data, and analyze it. The following sub-headings are optional but help to structure the different aspects of implementation.
