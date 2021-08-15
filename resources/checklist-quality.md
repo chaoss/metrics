@@ -1,15 +1,20 @@
-To simplify project management on new or updated metrics, you can create tracking tickets using the markdown below as a template. This helps ensure that teams follow CHAOSS quality standards and processes. You can have one large ticket, or break it up into two or three. The checklist items don’t have to be completed all at once - you will probably want to create individual issues for some. 
+This issue is created to collect comments about the rolling release of "______"
 
-# Get feedback and prepare release
+This metric can be found here: https://github.com/chaoss/xxxxxxx/xxxxxxx/xxxxxxx.md
 
-## Process
+See all release candidates: https://chaoss.community/metrics/
 
-- [ ] WG decided to release the metric (Create “review issue” in the authoring WG’s repo for comments during review period)
-- [ ] Add metric to WG’s repo (after checking Content Quality and Technical Requirements)
-- [ ] Add entry to release notes issue in working group repo and provide the link to the metric
-- [ ] Update Spreadsheet of metrics 
-- [ ] Create issue in CHAOSS/Translation repository  to kick-off translation to other languages
-- [ ] Create issue to request adding metric to [website](https://chaoss.community/metrics/) with link to “review issue”
+## CHAOSS Metric Quality Checklist
+This checklist is used for new and updated metrics to ensure we follow CHAOSS quality standards and processes. Below checklist items don’t have to be completed all at once: create the metric release candidate issue first and then start working on the checklist.
+
+### Process
+
+- [ ] Create “review issue” in the authoring WG’s repo for comments during review period and paste this template in
+- [ ] Create pull request to edit or add metric to WG’s repo (after checking Content Quality and Technical Requirements below)
+- [ ] Add the new metric or metric edit to release notes issue in working group repo
+- [ ] Update spreadsheet of metrics 
+- [ ] Create issue in CHAOSS/Translation repository  to kick-off translation to other languages (please use the the translation issue template)
+- [ ] "Metric Candidate Release" label added to the metric release candidate issue.
 - [ ] Metric was added to website
 - [ ] When above steps are completed, announce new/updated metric on mailing list
 
