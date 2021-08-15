@@ -16,10 +16,9 @@ This checklist is used for new and updated metrics to ensure we follow CHAOSS qu
 - [ ] Create issue in CHAOSS/Translation repository  to kick-off translation to other languages (please use the the translation issue template)
 - [ ] "Metric Candidate Release" label added to the metric release candidate issue.
 - [ ] Metric was added to website
-- [ ] When above steps are completed, announce new/updated metric on mailing list
+- [ ] Announce new/updated metric on mailing list, newsletter, community Zoom call, and Twitter. This can be coordinated with the community manager.
 
-# Add Metric to Repo
-## Content Quality
+### Content Quality
 
 - [ ] Required headings are filled in, including Questions.
 - [ ] Description provides context to metric
@@ -29,9 +28,9 @@ This checklist is used for new and updated metrics to ensure we follow CHAOSS qu
 - [ ] Contributors section lists those contributors that want to be named
 - [ ] The name of the metric is the same in (1) metric heading, (2) metric file name, (3) focus area, (4) metrics spreadsheet, (5) “review issue”, (6) translation issue, and (7) website
 
-## Technical Requirements
+### Technical Requirements
 
-- [ ] Message in the metric markdown file that the metric will be part of the next regular release (this is in the metric template)
+- [ ] Message in the metric markdown file that the metric will be part of the next regular release is at top of page and the links are correct (this is in the metric template)
 - [ ] Metric (file name)[https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md] is the full metric name and only contains lower case letters and hyphens (“-”) for spaces
 - [ ] Images are included using markdown and relative links (as described in the metrics template)
 - [ ] Images have at least one empty line above and below them
