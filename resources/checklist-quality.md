@@ -16,6 +16,9 @@ This checklist is used for new and updated metrics to ensure we follow CHAOSS qu
 - [ ] Create issue in [CHAOSS/Translations repository](https://github.com/chaoss/translations) to kick-off translation to other languages (please use the the translation issue template)
 - [ ] "Metric Candidate Release" label added to the metric release candidate issue.
 - [ ] Metric was added to website
+
+**When above steps are completed:**
+
 - [ ] Announce new/updated metric on mailing list, newsletter, community Zoom call, and Twitter. This can be coordinated with the community manager.
 
 ### Content Quality
