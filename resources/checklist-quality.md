@@ -12,7 +12,7 @@ This checklist is used for new and updated metrics to ensure we follow CHAOSS qu
 - [ ] Create the “review issue” in the authoring WG’s repo for comments during review period and paste this template in
 - [ ] Create pull request to edit or add metric to WG’s repo (after checking Content Quality and Technical Requirements below)
 - [ ] Add the new metric or metric edit to release notes issue in working group repo
-- [ ] Update spreadsheet of metrics 
+- [ ] Update the [Metrics Spreadsheet](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit)
 - [ ] Create issue in [CHAOSS/Translations repository](https://github.com/chaoss/translations) to kick-off translation to other languages (please use the the translation issue template)
 - [ ] "Metric Candidate Release" label added to the metric release candidate issue.
 - [ ] Metric was added to website
