@@ -9,7 +9,7 @@ This checklist is used for new and updated metrics to ensure we follow CHAOSS qu
 
 ### Process
 
-- [ ] Create “review issue” in the authoring WG’s repo for comments during review period and paste this template in
+- [ ] Create the “review issue” in the authoring WG’s repo for comments during review period and paste this template in
 - [ ] Create pull request to edit or add metric to WG’s repo (after checking Content Quality and Technical Requirements below)
 - [ ] Add the new metric or metric edit to release notes issue in working group repo
 - [ ] Update spreadsheet of metrics 
