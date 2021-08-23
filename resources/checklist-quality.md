@@ -13,7 +13,7 @@ This checklist is used for new and updated metrics to ensure we follow CHAOSS qu
 - [ ] Create pull request to edit or add metric to WG’s repo (after checking Content Quality and Technical Requirements below)
 - [ ] Add the new metric or metric edit to release notes issue in working group repo
 - [ ] Update spreadsheet of metrics 
-- [ ] Create issue in CHAOSS/Translation repository  to kick-off translation to other languages (please use the the translation issue template)
+- [ ] Create issue in [CHAOSS/Translations repository](https://github.com/chaoss/translations) to kick-off translation to other languages (please use the the translation issue template)
 - [ ] "Metric Candidate Release" label added to the metric release candidate issue.
 - [ ] Metric was added to website
 - [ ] Announce new/updated metric on mailing list, newsletter, community Zoom call, and Twitter. This can be coordinated with the community manager.
