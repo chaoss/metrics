@@ -33,8 +33,8 @@ This checklist is used for new and updated metrics to ensure we follow CHAOSS qu
 
 ### Technical Requirements
 
-- [ ] Message in the metric markdown file that the metric will be part of the next regular release is at top of page and the links are correct (this is in the metric template)
-- [ ] Metric (file name)[https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md] is the full metric name and only contains lower case letters and hyphens (“-”) for spaces
+- [ ] Message in the metric markdown file that the metric will be part of the next regular release is at top of page and the links are correct (this is in the [metric template](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md))
+- [ ] Metric file name is the full metric name and only contains lower case letters and hyphens (“-”) for spaces
 - [ ] Images are included using markdown and relative links (as described in the metrics template)
 - [ ] Images have at least one empty line above and below them
 - [ ] Ensure images are placed in image folder and followed [naming convention](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md)
