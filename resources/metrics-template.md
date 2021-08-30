@@ -1,6 +1,8 @@
 # Template for Metric
 The following is a draft for the template that all 'Metric Detail' pages can follow.
 
+**Each metric has the potential to influence diversity, equity, and inclusion on an open source project. Please consider these factors when writing metric definitions, and framing metrics objectives**. More specific guidance will be emerging through Fall, 2021. 
+
 ----
 ```markdown
 # {Name of Metric}
