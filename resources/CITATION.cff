@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "CHAOSS Community"
+  given-names: "<working group abbreviation like Value-WG>"
+title: "<CHAOSS XXXXX Working Group>"
+version: <2021-03 (change to actual release date)>
+date-released: <2021-08-26 (actual date of release)>
+url: "https://github.com/chaoss/<working group link>"
