@@ -26,7 +26,7 @@ This checklist is used for new and updated metrics to ensure we follow CHAOSS qu
 - [ ] Required headings are filled in, including Questions.
 - [ ] Description provides context to metric
 - [ ] Objectives list sample uses for the metric and desired outcomes
-- [ ] If any, DEI uses of the metric are included Objectives
+- [ ] If any, DEI uses of the metric are included in Objectives
 - [ ] Optional headings that have no content were removed
 - [ ] Contributors section lists those contributors that want to be named
 - [ ] The name of the metric is the same in (1) metric heading, (2) metric file name, (3) focus area, (4) metrics spreadsheet, (5) “review issue”, (6) translation issue, and (7) website
