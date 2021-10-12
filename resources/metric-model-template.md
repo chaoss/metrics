@@ -1,6 +1,7 @@
 #Metrics Model Title
 
 #Why You Should Care
+
 Provide text here to explain to a reader why they should care about the metrics model. This description should be 1-2 sentences. 
 
 #Visual of the Metrics Model
