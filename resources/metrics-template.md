@@ -1,23 +1,22 @@
-# Template for Metric
-The following is a draft for the template that all 'Metric Detail' pages can follow.
-
-**Each metric has the potential to influence diversity, equity, and inclusion on an open source project. Please consider these factors when writing metric definitions, and framing metrics objectives**. More specific guidance will be emerging through Fall, 2021. 
-
-----
-```markdown
 # {Name of Metric}
 
 ### This metric is a release candidate. To comment on this metric please see Issue [#[put the respective Issue Number here]](URL to issue). Following a comment period, this metric will be included in the next regular release.
 
-Question: _____
+Question: 
+
+Synonyms: [Known synonyms for the metric - only common synonyms - this not meant to be a diffinitive list]
 
 ## Description
 A description of what the metric is and what it captures.
 
 ## Objectives
-Answer the question for why someone wants to measure this metric and what can be known with it. This can include a brief description of how the metric could be used to help better understand issues of diversity, equity, and/or inclusion.
+Answer the question for why someone wants to measure this metric and what can be known with it. 
+
+[Each metric has the potential to influence diversity, equity, and inclusion on an open source project. Please consider these factors when framing metrics objectives.] 
 
 ## Implementation
+__The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document]() for additional guidance__ 
+
 Provide details on how to measure the metric, collect the data, and analyze it. The following sub-headings are optional but help to structure the different aspects of implementation.
 
 ### Filters (optional)
@@ -40,21 +39,26 @@ Blog posts, websites, academic papers, or books that mention the metric and prov
 List of people who would like to be mentioned as contributors to this metric 
 ```
 
-In cases where the metric name is also a descriptor, please use this convention:
+***This metric was last reviewed on [date] as part of [ release version ] [or recurring review process]***
+
+--------
+# Notes about document formatting
+***The following rules are applicable for the above defined metric template:***
+* Metrics naming - In cases where the metric name is also a descriptor, please use this convention:
 
 "specific thing being measured"-"further description if needed"
 
 EX: `pull-requests-open.md`
 EX: `issues-first-response.md`
 
-
-The following rules are applicable for the above defined metric template:
+* Please provide attribution for where the image was taken, e.g. what software.
 * All the images should be using the markdown syntax: `![]()`
-* All the images should be using a relative path to the images directory
-    * Eg. `![alt text](images/metric-name_img.png)`
+* All the images should be using an absolute path to the images directory (Absolute paths are necessary, becuase these documents will be presented on a different platform/server).
+    * Eg. `![alt text](https://github.com/chaoss/working-group/focus-area//images/metric-name_img.png)`
 * No tables should be used in the metrics, alternatively you can insert an image of the table
-* No HTML code should be used in the metrics, only markdown in preferred
-* There should be atleast one `\n` (newline) between:
+* No HTML code should be used in the metrics, only markdown 
+* Please remove formatting text and (Optional) tags from the metric prior to publishing
+* There should be at least one `\n` (newline) between:
     * 2 images
     * An image and text
     * An image and heading \
