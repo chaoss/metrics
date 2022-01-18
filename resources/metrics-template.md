@@ -20,6 +20,8 @@ Answer the question for why someone wants to measure this metric and what can be
 ## Implementation
 Provide details on how to measure the metric, collect the data, and analyze it. The following sub-headings are optional but help to structure the different aspects of implementation.
 
+The CHAOSS project recognizes that there are ethical and legal challenges when using the metrics and software provided by the CHAOSS community. Ethical challenges exist around protecting community members and empowering them with their personal information. Legal challenges exist around GDPR and similar laws or regulations that protect personal information of community members. Particular challenges may arise in the use that is specific to your context.
+
 ### Filters (optional)
 Include a Filter
 
