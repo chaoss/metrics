@@ -1,0 +1,58 @@
+# Metrics Review 2022
+
+The evolution working group will be reviewing these released metrics during 2022. We will review for quality, context, and grammar. Following the guidelines developed for the release checklist, we expect most of these will fall under item 3 in the metrics revision checklist, with changes constituting only spelling, grammar, or clarity edits. https://handbook.chaoss.community/community-handbook/community-initiatives/metrics/releases#revising-existing-metrics: 
+
+If substantial changes are made to the metric, it will need to go through the full review process. The working group should determine if a metric has been edited to an extent that requires the full review
+
+Types of metric changes that do not require full review: 
+ - Grammar or spelling fixes (not including metric name) 
+ - Updates to sections References and Contributors
+ - Three new additions are listed below
+
+**We will also add the following to each metric:** 
+1. Data statement (focused on privacy concerns. Now part of the metrics template at the top of the implementation section) 
+2. Add a last reviewed date to each metric reviewed. Make a note that this date is part of a recurring review. Indicate if we did grammar/clarity edits, or put the metric through a full review. This will vary by metric. 
+3. Add known synonyms to the metric 
+
+- [ ] Change Requests
+- [ ] Change Requests Accepted
+- [ ] Change Requests Declined
+- [ ] Change Requests Duration
+- [ ] Change Request Acceptance Ratio
+- [ ] Issues_New
+- [ ] Issues_Active
+- [ ] Issues_Closed
+- [ ] Issue_Resolution_Duration
+- [ ] Issue_Age
+- [ ] Issue_Response_Time
+- [ ] New Contributors
+- [ ] Inactive Contributors
+- [ ] New Contributors Closing Issues
+- [ ] Contribution Attribution
+- [ ] Branch Lifecycle
+- [ ] Code Changes Lines
+
+These are the checklist items to address in each metrics review: 
+
+### Content Quality
+
+- [ ] Required headings are filled in, including Questions.
+- [ ] Description provides context to metric
+- [ ] Objectives list sample uses for the metric and desired outcomes
+- [ ] If any, DEI uses of the metric are included Objectives
+- [ ] Review for inclusive naming 
+- [ ] Optional headings that have no content were removed
+- [ ] Contributors section lists those contributors that want to be named
+- [ ] The name of the metric is the same in (1) metric heading, (2) metric file name, (3) focus area, (4) metrics spreadsheet, (5) “review issue”, (6) translation issue, and (7) website
+
+### Technical Requirements 
+
+- [ ] Message in the metric markdown file that the metric will be part of the next regular release is at top of page and the links are correct (this is in the [metric template](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md)) (If necessary)
+- [ ] Metric file name is the full metric name and only contains lower case letters and hyphens (“-”) for spaces
+- [ ] Images are included using markdown and **absolute** links (as described in the metrics template) (absolute links are required for the website. Relative links break all the time.)
+- [ ] Images have at least one empty line above and below them
+- [ ] Ensure images are placed in image folder and followed [naming convention](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md)
+- [ ] If a new focus area is created, ensure focus area is added to wg repo readme and focus area folder readme
+- [ ] Within the focus area, add the metric in the table and provide the link to the metric and metric question
+- [ ] Ensure tables within metric are converted as images and placed in the image folder (both original MD and screenshotted PNG format) and follow the naming convention
+- [ ] No HTML code in the metrics markdown file
