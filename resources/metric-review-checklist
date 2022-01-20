@@ -14,12 +14,14 @@ Types of metric changes that do not require full review:
 2. Add a last reviewed date to each metric reviewed. Make a note that this date is part of a recurring review. Indicate if we did grammar/clarity edits, or put the metric through a full review. This will vary by metric. 
 3. Add known synonyms to the metric 
 
+These are the metrics to review:
+
 - [ ] Sample Metric 1
 - [ ] Sample Metric 2
 - [ ] Sample Metric 3
 - [ ] Etc.
 
-These are the checklist items to address in each metrics review: 
+These are the checklist items to address in each metrics review. These are the checklist items to address in each metrics review: Put these in each issue for all of the metrics above and put that issue number / link above next to the checklist item.
 
 ### Content Quality
 
